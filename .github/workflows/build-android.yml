@@ -21,7 +21,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - name: Setup Java
@@ -41,8 +41,14 @@ jobs:
       - name: Configure Android SDK path
         run: echo "sdk.dir=${ANDROID_SDK_ROOT}" > android/local.properties
 
-      - name: Sync Capacitor Android
-        run: npx cap sync android
+      - name: Capacitor copy (Android)
+        run: npx cap copy android
+        env:
+          CAPACITOR_SERVER_URL: http://localhost:3000
+          NEXT_PUBLIC_APP_URL: http://localhost:3000
+
+      - name: Capacitor update (Android)
+        run: npx cap update android
         env:
           CAPACITOR_SERVER_URL: http://localhost:3000
           NEXT_PUBLIC_APP_URL: http://localhost:3000
