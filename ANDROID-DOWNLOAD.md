@@ -1,61 +1,51 @@
 # Installare Alinea su Android (APK)
 
-L’app Android è un **shell Capacitor** che apre il backend Next.js nel telefono. Il file `.apk` si scarica da GitHub dopo il push del codice.
+Stesso flusso di **GitHub Actions → Artifacts** usato per CreditCalc su Windows.
 
-## 1. Carica il progetto su GitHub
+Repo: [github.com/Marcellodinapoli/English](https://github.com/Marcellodinapoli/English)
 
-Se il repo remoto non è ancora collegato:
+## 1. Avvia la build
 
-```bash
-git remote add origin https://github.com/TUO-UTENTE/English.git
-git push -u origin main
-```
+1. Apri **Actions** → workflow **Build Android**
+2. Clicca **Run workflow** → **Run workflow** (oppure attendi il push su `main`)
+3. Attendi la spunta verde (~5–10 min)
 
-## 2. Configura l’URL del server (importante)
+## 2. Scarica l’APK
 
-L’APK deve sapere **dove** trovare l’app (Vercel, PC in LAN, ecc.).
+1. Apri il run completato
+2. In basso, sezione **Artifacts**
+3. Scarica **`Alinea-Android`** (file `app-debug.apk`)
+4. Copia sul telefono e installa (abilita **origini sconosciute**)
 
-Su GitHub → **Settings → Secrets and variables → Actions**:
+## 3. URL del server (importante)
 
-| Nome | Esempio |
-|------|---------|
+L’APK è un guscio nativo: apre il backend Next.js nel telefono.
+
+Prima di buildare, in **Settings → Secrets and variables → Actions** aggiungi:
+
+| Secret | Esempio |
+|--------|---------|
 | `CAPACITOR_SERVER_URL` | `https://tuo-dominio.vercel.app` |
 
-Per test in casa (telefono e PC sulla stessa Wi‑Fi):
+Test in casa (stessa Wi‑Fi):
 
 ```
 http://192.168.1.20:3000
 ```
 
-Poi su GitHub → **Actions → Android APK → Run workflow** (oppure attendi il run automatico su `main`).
+Poi rilancia **Build Android** così l’APK incorpora l’URL corretto.
 
-## 3. Scarica l’APK
+## 4. Installazione sul telefono
 
-1. Apri **Actions** nel repo GitHub  
-2. Seleziona l’ultimo workflow **Android APK** completato  
-3. In **Artifacts** scarica **`alinea-english-debug-apk`**  
-4. Estrai `alinea-english-debug.apk` sul PC e copialo sul telefono (USB, Drive, email)
-
-In alternativa, crea un tag per una release permanente:
-
-```bash
-git tag v0.1.0
-git push origin v0.1.0
-```
-
-L’APK compare negli **Assets** della Release su GitHub.
-
-## 4. Installa sul telefono
-
-1. **Impostazioni → Sicurezza** → abilita installazione da origini sconosciute (o “Installa app sconosciute” per Chrome/Drive)  
-2. Apri il file `.apk` e conferma **Installa**  
+1. Trasferisci l’APK (USB, Drive, email)
+2. Apri il file → **Installa**
 3. Avvia **Alinea**
 
-Se vedi schermata bianca o errore di rete, controlla che `CAPACITOR_SERVER_URL` punti a un server raggiungibile dal telefono e che il backend sia online.
+Se vedi schermata bianca: il server in `CAPACITOR_SERVER_URL` non è raggiungibile dal telefono.
 
 ## Build locale (opzionale)
 
-Con **Android Studio** + JDK 21 installati:
+Con Android Studio + JDK 21:
 
 ```powershell
 $env:CAPACITOR_SERVER_URL="http://192.168.1.20:3000"
