@@ -1,5 +1,3 @@
-import type { CapacitorConfig } from "@capacitor/cli";
-
 /**
  * Store distribution (Google Play / App Store):
  * Native shells load the hosted Next.js app in a secure WebView.
@@ -18,7 +16,8 @@ const serverUrl =
   process.env.NEXT_PUBLIC_APP_URL ||
   "";
 
-const config: CapacitorConfig = {
+/** @type {import('@capacitor/cli').CapacitorConfig} */
+const config = {
   appId: "com.alinea.english",
   appName: "Alinea",
   webDir: "native-shell",
@@ -64,4 +63,4 @@ const config: CapacitorConfig = {
   },
 };
 
-export default config;
+module.exports = config;
