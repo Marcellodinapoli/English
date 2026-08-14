@@ -1,0 +1,40 @@
+{
+  "id": "speak-a1-daily",
+  "title": "Talk about your day",
+  "titleIt": "Parla della tua giornata",
+  "level": "A1.3",
+  "description": "Repeat routine phrases, then describe your day.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "I wake up at seven every day.",
+      "hint": "Morning routine"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "I go to work by bus.",
+      "hint": "Transport"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "What time do you wake up? Answer in English.",
+      "promptIt": "A che ora ti svegli? Rispondi in inglese.",
+      "exampleAnswer": "I wake up at seven.",
+      "hint": "I wake up at + time"
+    },
+    {
+      "id": "s4",
+      "mode": "free",
+      "prompt": "Say two things you do every day.",
+      "promptIt": "Di' due cose che fai ogni giorno.",
+      "exampleAnswer": "I go to work. I study English.",
+      "hint": "Use present simple"
+    }
+  ]
+}

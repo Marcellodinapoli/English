@@ -1,0 +1,38 @@
+{
+  "id": "listen-b2-news",
+  "title": "News and debate",
+  "titleIt": "Notizie e dibattito",
+  "level": "B2",
+  "description": "Listen to a news report and answer comprehension questions.",
+  "audioText": "The headline today is about a new climate policy. According to the report, both sides have entered a fierce debate.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What is the headline about?",
+      "promptIt": "Di cosa parla il titolo?",
+      "transcript": "The headline today is about a new climate policy.",
+      "options": ["a new climate policy", "a sports event", "a film release", "a travel ban"],
+      "answer": "a new climate policy"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What have both sides entered?",
+      "promptIt": "Cosa hanno avviato entrambe le parti?",
+      "transcript": "Both sides have entered a fierce debate.",
+      "options": ["a fierce debate", "a celebration", "a holiday", "a contract"],
+      "answer": "a fierce debate"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: According to the ____, both sides have entered a debate.",
+      "promptIt": "Completa: According to the ____, both sides have entered a debate.",
+      "transcript": "According to the report, both sides have entered a fierce debate.",
+      "answer": "report",
+      "explanation": "According to the report is a common news phrase."
+    }
+  ]
+}

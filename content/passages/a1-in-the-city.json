@@ -1,0 +1,57 @@
+{
+  "id": "a1-in-the-city",
+  "type": "passage",
+  "level": "A1.4",
+  "title": "In the city",
+  "titleIt": "In città",
+  "description": "Places and simple directions in town.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Where is the station?",
+      "translation": "Dov'è la stazione?",
+      "tokens": [
+        { "word": "Where", "lemma": "where", "pos": "adverb", "phonetic": "/weə/", "meanings": [{ "translation": "dove", "partOfSpeech": "adverb" }] },
+        { "word": "is", "lemma": "be", "pos": "verb", "phonetic": "/ɪz/", "meanings": [{ "translation": "è", "partOfSpeech": "verb" }] },
+        { "word": "the", "lemma": "the", "pos": "article", "phonetic": "/ðə/", "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }] },
+        { "word": "station", "lemma": "station", "pos": "noun", "phonetic": "/ˈsteɪʃn/", "meanings": [{ "translation": "stazione", "partOfSpeech": "noun" }] },
+        { "word": "?", "lemma": "?", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "It is near the park.",
+      "translation": "È vicino al parco.",
+      "tokens": [
+        { "word": "It", "lemma": "it", "pos": "pronoun", "phonetic": "/ɪt/", "meanings": [{ "translation": "esso / essa", "partOfSpeech": "pronoun" }] },
+        { "word": "is", "lemma": "be", "pos": "verb", "phonetic": "/ɪz/", "meanings": [{ "translation": "è", "partOfSpeech": "verb" }] },
+        { "word": "near", "lemma": "near", "pos": "preposition", "phonetic": "/nɪə/", "meanings": [{ "translation": "vicino a", "partOfSpeech": "preposition" }] },
+        { "word": "the", "lemma": "the", "pos": "article", "phonetic": "/ðə/", "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }] },
+        { "word": "park", "lemma": "park", "pos": "noun", "phonetic": "/pɑːk/", "meanings": [{ "translation": "parco", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Turn left at the shop. The café is on the right.",
+      "translation": "Gira a sinistra al negozio. Il bar è a destra.",
+      "tokens": [
+        { "word": "Turn", "lemma": "turn", "pos": "verb", "phonetic": "/tɜːn/", "meanings": [{ "translation": "girare", "partOfSpeech": "verb" }] },
+        { "word": "left", "lemma": "left", "pos": "adverb", "phonetic": "/left/", "meanings": [{ "translation": "a sinistra", "partOfSpeech": "adverb" }] },
+        { "word": "at", "lemma": "at", "pos": "preposition", "phonetic": "/æt/", "meanings": [{ "translation": "a / presso", "partOfSpeech": "preposition" }] },
+        { "word": "the", "lemma": "the", "pos": "article", "phonetic": "/ðə/", "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }] },
+        { "word": "shop", "lemma": "shop", "pos": "noun", "phonetic": "/ʃɒp/", "meanings": [{ "translation": "negozio", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true },
+        { "word": "The", "lemma": "the", "pos": "article", "phonetic": "/ðə/", "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }] },
+        { "word": "café", "lemma": "café", "pos": "noun", "phonetic": "/ˈkæfeɪ/", "meanings": [{ "translation": "bar / caffè", "partOfSpeech": "noun" }] },
+        { "word": "is", "lemma": "be", "pos": "verb", "phonetic": "/ɪz/", "meanings": [{ "translation": "è", "partOfSpeech": "verb" }] },
+        { "word": "on", "lemma": "on", "pos": "preposition", "phonetic": "/ɒn/", "meanings": [{ "translation": "su / a", "partOfSpeech": "preposition" }] },
+        { "word": "the", "lemma": "the", "pos": "article", "phonetic": "/ðə/", "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }] },
+        { "word": "right", "lemma": "right", "pos": "noun", "phonetic": "/raɪt/", "meanings": [{ "translation": "destra", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["station", "park", "shop", "near", "left", "right"],
+  "grammarFocus": ["where-is", "prepositions-place"]
+}

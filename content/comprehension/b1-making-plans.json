@@ -1,0 +1,83 @@
+{
+  "passageId": "b1-making-plans",
+  "level": "B1",
+  "questions": [
+    {
+      "id": "b1-making-plans-main",
+      "passageId": "b1-making-plans",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Making plans",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Making plans",
+      "explanation": "The passage is about: Making plans — A short text about arranging plans with will and going to.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "B1"
+    },
+    {
+      "id": "b1-making-plans-detail",
+      "passageId": "b1-making-plans",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Looking at my schedule, Friday works for me.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Looking at my schedule, Friday works for me.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B1"
+    },
+    {
+      "id": "b1-making-plans-tf",
+      "passageId": "b1-making-plans",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"I am going to book the tickets tonight.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "B1"
+    },
+    {
+      "id": "b1-making-plans-short",
+      "passageId": "b1-making-plans",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"schedule\". Type that focus item.",
+      "correctAnswer": "schedule",
+      "explanation": "\"schedule\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "B1"
+    },
+    {
+      "id": "b1-making-plans-detail2",
+      "passageId": "b1-making-plans",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "Don't worry — I will help with the booking.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "Don't worry — I will help with the booking.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B1"
+    }
+  ]
+}

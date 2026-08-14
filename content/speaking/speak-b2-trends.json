@@ -1,0 +1,34 @@
+{
+  "id": "speak-b2-trends",
+  "title": "Describe a trend",
+  "titleIt": "Descrivi una tendenza",
+  "level": "B2",
+  "description": "Practise describing change and reporting findings.",
+  "estimatedMinutes": 10,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "Remote work has gradually become a major trend.",
+      "hint": "Use gradually for slow change"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "A clear shift towards hybrid models has been reported.",
+      "hint": "Passive for reporting findings"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Describe one social or workplace trend in three sentences.",
+      "promptIt": "Descrivi una tendenza sociale o lavorativa in tre frasi.",
+      "exampleAnswer": "Online shopping has become a major trend. Spending has gradually increased. A clear shift towards digital payments has been reported.",
+      "hint": "Use trend, gradually, and has been reported"
+    }
+  ]
+}

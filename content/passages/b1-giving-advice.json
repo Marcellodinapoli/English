@@ -1,0 +1,309 @@
+{
+  "id": "b1-giving-advice",
+  "type": "passage",
+  "level": "B1",
+  "title": "Giving advice",
+  "titleIt": "Dare consigli",
+  "description": "A short text with polite advice using should.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Can I give you some advice?",
+      "translation": "Posso darti un consiglio?",
+      "tokens": [
+        {
+          "word": "Can",
+          "lemma": "can",
+          "pos": "modal",
+          "phonetic": "/kæn/",
+          "meanings": [
+            {
+              "translation": "potere",
+              "partOfSpeech": "modal"
+            }
+          ]
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "give",
+          "lemma": "give",
+          "pos": "verb",
+          "phonetic": "/ɡɪv/",
+          "meanings": [
+            {
+              "translation": "dare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [
+            {
+              "translation": "tu / voi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "pos": "determiner",
+          "phonetic": "/sʌm/",
+          "meanings": [
+            {
+              "translation": "del / un po' di",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "advice",
+          "lemma": "advice",
+          "pos": "noun",
+          "phonetic": "/ədˈvaɪs/",
+          "meanings": [
+            {
+              "translation": "consiglio",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "You should book early.",
+      "translation": "Dovresti prenotare in anticipo.",
+      "tokens": [
+        {
+          "word": "You",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [
+            {
+              "translation": "tu / voi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "should",
+          "lemma": "should",
+          "pos": "modal",
+          "phonetic": "/ʃʊd/",
+          "meanings": [
+            {
+              "translation": "dovresti",
+              "partOfSpeech": "modal"
+            }
+          ]
+        },
+        {
+          "word": "book",
+          "lemma": "book",
+          "pos": "verb",
+          "phonetic": "/bʊk/",
+          "meanings": [
+            {
+              "translation": "prenotare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "early",
+          "lemma": "early",
+          "pos": "adverb",
+          "phonetic": "/ˈɜːli/",
+          "meanings": [
+            {
+              "translation": "in anticipo / presto",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "If I were you, I would call the hotel first.",
+      "translation": "Se fossi in te, chiamerei prima l'hotel.",
+      "tokens": [
+        {
+          "word": "If",
+          "lemma": "if",
+          "pos": "conjunction",
+          "phonetic": "/ɪf/",
+          "meanings": [
+            {
+              "translation": "se",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/wɜː/",
+          "meanings": [
+            {
+              "translation": "fossi / fossero",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [
+            {
+              "translation": "tu / voi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "would",
+          "lemma": "would",
+          "pos": "modal",
+          "phonetic": "/wʊd/",
+          "meanings": [
+            {
+              "translation": "vorrei / -ei",
+              "partOfSpeech": "modal"
+            }
+          ]
+        },
+        {
+          "word": "call",
+          "lemma": "call",
+          "pos": "verb",
+          "phonetic": "/kɔːl/",
+          "meanings": [
+            {
+              "translation": "chiamare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "hotel",
+          "lemma": "hotel",
+          "pos": "noun",
+          "phonetic": "/həʊˈtel/",
+          "meanings": [
+            {
+              "translation": "hotel",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "first",
+          "lemma": "first",
+          "pos": "adverb",
+          "phonetic": "/fɜːst/",
+          "meanings": [
+            {
+              "translation": "prima",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "advice",
+    "should",
+    "suggest",
+    "solution"
+  ],
+  "grammarFocus": [
+    "should",
+    "second-conditional-advice"
+  ]
+}

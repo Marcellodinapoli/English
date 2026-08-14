@@ -1,0 +1,83 @@
+{
+  "passageId": "a1-meeting-someone",
+  "level": "A1",
+  "questions": [
+    {
+      "id": "a1-meeting-someone-main",
+      "passageId": "a1-meeting-someone",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Meeting someone",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Meeting someone",
+      "explanation": "The passage is about: Meeting someone — A short conversation between two people meeting for the first time.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A1"
+    },
+    {
+      "id": "a1-meeting-someone-detail",
+      "passageId": "a1-meeting-someone",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Hello! My name is Marco.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Hello! My name is Marco.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    },
+    {
+      "id": "a1-meeting-someone-tf",
+      "passageId": "a1-meeting-someone",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"Nice to meet you.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A1"
+    },
+    {
+      "id": "a1-meeting-someone-short",
+      "passageId": "a1-meeting-someone",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"hello\". Type that focus item.",
+      "correctAnswer": "hello",
+      "explanation": "\"hello\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A1"
+    },
+    {
+      "id": "a1-meeting-someone-detail2",
+      "passageId": "a1-meeting-someone",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "I read a book every evening.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "I read a book every evening.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    }
+  ]
+}

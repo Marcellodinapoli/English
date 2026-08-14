@@ -1,0 +1,27 @@
+{
+  "id": "rp-zero-shop-hello",
+  "title": "Hello at the shop",
+  "titleIt": "Ciao in negozio",
+  "category": "daily",
+  "level": "ZERO",
+  "description": "Greet a shop assistant and ask for something politely.",
+  "descriptionIt": "Saluta un commesso e chiedi qualcosa con cortesia.",
+  "setting": "A small shop near the station. Afternoon.",
+  "yourRole": "Customer",
+  "aiRole": "Shop assistant",
+  "aiCharacter": "Friendly shop assistant named Mia. Speaks slowly and clearly with short sentences.",
+  "goals": [
+    "Say hello",
+    "Ask for one item with please",
+    "Say thank you and goodbye"
+  ],
+  "openingLine": "Hello! Can I help you?",
+  "suggestedPhrases": [
+    "Hello.",
+    "A pen, please.",
+    "Thank you.",
+    "Goodbye."
+  ],
+  "maxTurns": 8,
+  "estimatedMinutes": 7
+}

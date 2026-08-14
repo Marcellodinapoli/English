@@ -1,0 +1,136 @@
+{
+  "id": "c1-u2-l1",
+  "unitId": "c1-u2",
+  "levelId": "C1",
+  "title": "Structuring an argument",
+  "titleIt": "Strutturare un argomento",
+  "description": "Build coherent arguments with thesis, premises, claims, and evidence.",
+  "estimatedMinutes": 18,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "c1-argument",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Build arguments that hold",
+    "body": "Master the architecture of advanced argumentation: thesis, supporting premises, evidenced claims, and logical conclusions.",
+    "bodyIt": "Padroneggia l'architettura dell'argomentazione avanzata: tesi, premesse a supporto, affermazioni documentate e conclusioni logiche.",
+    "objectives": [
+      "State a precise thesis",
+      "Support claims with evidence",
+      "Use discourse markers to structure reasoning"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "thesis",
+      "lemma": "thesis",
+      "translation": "tesi",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈθiːsɪs/",
+      "example": "Her thesis is that regulation drives innovation.",
+      "exampleTranslation": "La sua tesi è che la regolamentazione stimola l'innovazione."
+    },
+    {
+      "word": "premise",
+      "lemma": "premise",
+      "translation": "premessa",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpremɪs/",
+      "example": "The argument rests on a questionable premise.",
+      "exampleTranslation": "L'argomento si basa su una premessa discutibile."
+    },
+    {
+      "word": "claim",
+      "lemma": "claim",
+      "translation": "affermazione",
+      "partOfSpeech": "noun",
+      "phonetic": "/kleɪm/",
+      "example": "Each claim needs supporting data.",
+      "exampleTranslation": "Ogni affermazione necessita di dati a supporto."
+    },
+    {
+      "word": "evidence",
+      "lemma": "evidence",
+      "translation": "prove / evidenza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈevɪdəns/",
+      "example": "Evidence, not assertion, persuades critical readers.",
+      "exampleTranslation": "Le prove, non le asserzioni, persuadono i lettori critici."
+    }
+  ],
+  "readingRef": "c1-argument",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What should follow each claim in a strong argument?",
+      "promptIt": "Cosa dovrebbe seguire ogni claim in un argomento forte?",
+      "options": [
+        "Evidence",
+        "An unrelated joke",
+        "A change of topic",
+        "A personal attack"
+      ],
+      "answer": "Evidence",
+      "explanation": "Claims without evidence remain mere assertions."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "A compelling argument begins with a clear ____.",
+      "promptIt": "Completa: A compelling argument begins with a clear ____.",
+      "answer": "thesis",
+      "explanation": "The thesis states the central position you will defend."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which marker introduces an additional supporting point?",
+      "promptIt": "Quale connettivo introduce un punto di supporto aggiuntivo?",
+      "options": [
+        "Furthermore",
+        "Yesterday",
+        "Never mind",
+        "Goodbye"
+      ],
+      "answer": "Furthermore",
+      "explanation": "Furthermore adds another related point in formal discourse."
+    }
+  ],
+  "review": {
+    "summary": [
+      "thesis / premise / claim / evidence",
+      "Furthermore... / Finally...",
+      "Logical conclusions"
+    ],
+    "tip": "Outline one thesis with two premises and one piece of evidence."
+  }
+}

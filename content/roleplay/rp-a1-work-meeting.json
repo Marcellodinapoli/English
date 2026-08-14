@@ -1,0 +1,27 @@
+{
+  "id": "rp-a1-work-meeting",
+  "title": "Introduce yourself at work",
+  "titleIt": "Presentarsi al lavoro",
+  "category": "work",
+  "level": "A1",
+  "description": "Meet a new colleague and talk briefly about your role.",
+  "descriptionIt": "Conosci un nuovo collega e parla brevemente del tuo ruolo.",
+  "setting": "First day at an international company. Coffee area.",
+  "yourRole": "New employee",
+  "aiRole": "Colleague",
+  "aiCharacter": "Warm colleague named James from the marketing team.",
+  "goals": [
+    "Introduce yourself",
+    "Say where you are from or what you do",
+    "Ask a simple question about the team"
+  ],
+  "openingLine": "Hey! You must be the new person — I'm James. Nice to meet you!",
+  "suggestedPhrases": [
+    "Nice to meet you.",
+    "My name is ...",
+    "I work in ...",
+    "Where are you from?"
+  ],
+  "maxTurns": 10,
+  "estimatedMinutes": 10
+}

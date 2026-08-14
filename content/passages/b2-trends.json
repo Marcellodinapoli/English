@@ -1,0 +1,508 @@
+{
+  "id": "b2-trends",
+  "type": "passage",
+  "level": "B2",
+  "title": "Trends and change",
+  "titleIt": "Tendenze e cambiamento",
+  "description": "A short text about workplace trends and reported change.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Remote work has gradually become a major trend in many companies.",
+      "translation": "Il lavoro da remoto è gradualmente diventato una tendenza importante in molte aziende.",
+      "tokens": [
+        {
+          "word": "Remote",
+          "lemma": "remote",
+          "pos": "adjective",
+          "phonetic": "/rɪˈməʊt/",
+          "meanings": [
+            {
+              "translation": "remoto",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "work",
+          "lemma": "work",
+          "pos": "verb",
+          "phonetic": "/wɜːk/",
+          "meanings": [
+            {
+              "translation": "lavorare / lavoro",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "has",
+          "lemma": "has",
+          "pos": "verb",
+          "phonetic": "/hæz/",
+          "meanings": [
+            {
+              "translation": "ha",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "gradually",
+          "lemma": "gradually",
+          "pos": "adverb",
+          "phonetic": "/ˈɡrædʒuəli/",
+          "meanings": [
+            {
+              "translation": "gradualmente",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "become",
+          "lemma": "become",
+          "pos": "verb",
+          "phonetic": "/bɪˈkʌm/",
+          "meanings": [
+            {
+              "translation": "diventare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "major",
+          "lemma": "major",
+          "pos": "adjective",
+          "phonetic": "/ˈmeɪdʒə/",
+          "meanings": [
+            {
+              "translation": "maggiore / principale",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "trend",
+          "lemma": "trend",
+          "pos": "noun",
+          "phonetic": "/trend/",
+          "meanings": [
+            {
+              "translation": "tendenza",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "pos": "preposition",
+          "phonetic": "/ɪn/",
+          "meanings": [
+            {
+              "translation": "in",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "many",
+          "lemma": "many",
+          "pos": "determiner",
+          "phonetic": "/ˈmeni/",
+          "meanings": [
+            {
+              "translation": "molti",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "companies",
+          "lemma": "companies",
+          "pos": "noun",
+          "phonetic": "/ˈkʌmpəniz/",
+          "meanings": [
+            {
+              "translation": "aziende",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "According to recent surveys, a clear shift towards hybrid models has been reported.",
+      "translation": "Secondo recenti sondaggi, è stato riportato un chiaro spostamento verso modelli ibridi.",
+      "tokens": [
+        {
+          "word": "According",
+          "lemma": "according",
+          "pos": "adverb",
+          "phonetic": "/əˈkɔːdɪŋ/",
+          "meanings": [
+            {
+              "translation": "secondo",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [
+            {
+              "translation": "a / di",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "recent",
+          "lemma": "recent",
+          "pos": "adjective",
+          "phonetic": "/ˈriːsnt/",
+          "meanings": [
+            {
+              "translation": "recente",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "surveys",
+          "lemma": "surveys",
+          "pos": "other",
+          "phonetic": "/surveys/",
+          "meanings": [
+            {
+              "translation": "surveys",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "clear",
+          "lemma": "clear",
+          "pos": "adjective",
+          "phonetic": "/klɪə/",
+          "meanings": [
+            {
+              "translation": "chiaro",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "shift",
+          "lemma": "shift",
+          "pos": "noun",
+          "phonetic": "/ʃɪft/",
+          "meanings": [
+            {
+              "translation": "spostamento / cambiamento",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "towards",
+          "lemma": "towards",
+          "pos": "preposition",
+          "phonetic": "/təˈwɔːdz/",
+          "meanings": [
+            {
+              "translation": "verso",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "hybrid",
+          "lemma": "hybrid",
+          "pos": "adjective",
+          "phonetic": "/ˈhaɪbrɪd/",
+          "meanings": [
+            {
+              "translation": "ibrido",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "models",
+          "lemma": "models",
+          "pos": "noun",
+          "phonetic": "/ˈmɒdlz/",
+          "meanings": [
+            {
+              "translation": "modelli",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "has",
+          "lemma": "has",
+          "pos": "verb",
+          "phonetic": "/hæz/",
+          "meanings": [
+            {
+              "translation": "ha",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "been",
+          "lemma": "been",
+          "pos": "verb",
+          "phonetic": "/biːn/",
+          "meanings": [
+            {
+              "translation": "stato",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "reported",
+          "lemma": "reported",
+          "pos": "verb",
+          "phonetic": "/rɪˈpɔːtɪd/",
+          "meanings": [
+            {
+              "translation": "riportato",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Productivity is often measured carefully, and the results are discussed by managers.",
+      "translation": "La produttività è spesso misurata con attenzione e i risultati sono discussi dai manager.",
+      "tokens": [
+        {
+          "word": "Productivity",
+          "lemma": "productivity",
+          "pos": "noun",
+          "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+          "meanings": [
+            {
+              "translation": "produttività",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "is",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "often",
+          "lemma": "often",
+          "pos": "adverb",
+          "phonetic": "/ˈɒfn/",
+          "meanings": [
+            {
+              "translation": "spesso",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "measured",
+          "lemma": "measured",
+          "pos": "verb",
+          "phonetic": "/ˈmeʒəd/",
+          "meanings": [
+            {
+              "translation": "misurato",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "carefully",
+          "lemma": "carefully",
+          "pos": "adverb",
+          "phonetic": "/ˈkeəfəli/",
+          "meanings": [
+            {
+              "translation": "attentamente",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "pos": "conjunction",
+          "phonetic": "/ænd/",
+          "meanings": [
+            {
+              "translation": "e",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "results",
+          "lemma": "results",
+          "pos": "verb",
+          "phonetic": "/rɪˈzʌlts/",
+          "meanings": [
+            {
+              "translation": "risultati",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "are",
+          "lemma": "are",
+          "pos": "verb",
+          "phonetic": "/ɑː/",
+          "meanings": [
+            {
+              "translation": "sono / siete",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "discussed",
+          "lemma": "discussed",
+          "pos": "verb",
+          "phonetic": "/dɪˈskʌst/",
+          "meanings": [
+            {
+              "translation": "discusso",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "pos": "preposition",
+          "phonetic": "/baɪ/",
+          "meanings": [
+            {
+              "translation": "da / tramite",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "managers",
+          "lemma": "managers",
+          "pos": "noun",
+          "phonetic": "/ˈmænɪdʒəz/",
+          "meanings": [
+            {
+              "translation": "dirigenti",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "trend",
+    "shift",
+    "gradually",
+    "hybrid"
+  ],
+  "grammarFocus": [
+    "passive",
+    "reporting-change"
+  ]
+}

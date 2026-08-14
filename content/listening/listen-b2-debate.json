@@ -1,0 +1,48 @@
+{
+  "id": "listen-b2-debate",
+  "title": "Pros, cons and persuasion",
+  "titleIt": "Pro, contro e persuasione",
+  "level": "B2",
+  "description": "Listen to a short debate-style exchange weighing options.",
+  "audioText": "One advantage is greater flexibility. However, a major drawback is weaker collaboration. Therefore, we should expand training across all teams.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What is named as an advantage?",
+      "promptIt": "Cosa viene indicato come vantaggio?",
+      "transcript": "One advantage is greater flexibility.",
+      "options": [
+        "greater flexibility",
+        "higher costs",
+        "weaker collaboration",
+        "fewer holidays"
+      ],
+      "answer": "greater flexibility"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What is the major drawback?",
+      "promptIt": "Qual è il grande inconveniente?",
+      "transcript": "A major drawback is weaker collaboration.",
+      "options": [
+        "weaker collaboration",
+        "better pay",
+        "more offices",
+        "faster trains"
+      ],
+      "answer": "weaker collaboration"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: ____, we should expand training across all teams.",
+      "promptIt": "Completa: ____, we should expand training across all teams.",
+      "transcript": "Therefore, we should expand training across all teams.",
+      "answer": "Therefore",
+      "explanation": "Therefore introduces a logical conclusion."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "a2-station",
+  "type": "passage",
+  "level": "A2",
+  "title": "At the station",
+  "titleIt": "Alla stazione",
+  "description": "A short text about platforms, departures, and a delay.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Please check the platform number.",
+      "translation": "Per favore controlla il numero del binario.",
+      "tokens": [
+        {
+          "word": "Please",
+          "lemma": "please",
+          "pos": "adverb",
+          "phonetic": "/pliːz/",
+          "meanings": [
+            {
+              "translation": "per favore",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "check",
+          "lemma": "check",
+          "pos": "verb",
+          "phonetic": "/tʃek/",
+          "meanings": [
+            {
+              "translation": "controllare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "platform",
+          "lemma": "platform",
+          "pos": "noun",
+          "phonetic": "/ˈplætfɔːm/",
+          "meanings": [
+            {
+              "translation": "binario",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "pos": "noun",
+          "phonetic": "/ˈnʌmbə/",
+          "meanings": [
+            {
+              "translation": "numero",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Our train departs at 10:15.",
+      "translation": "Il nostro treno parte alle 10:15.",
+      "tokens": [
+        {
+          "word": "Our",
+          "lemma": "our",
+          "pos": "determiner",
+          "phonetic": "/aʊə/",
+          "meanings": [
+            {
+              "translation": "nostro / nostra",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "train",
+          "lemma": "train",
+          "pos": "noun",
+          "phonetic": "/treɪn/",
+          "meanings": [
+            {
+              "translation": "treno",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "departs",
+          "lemma": "depart",
+          "pos": "verb",
+          "phonetic": "/dɪˈpɑːts/",
+          "meanings": [
+            {
+              "translation": "parte",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "pos": "preposition",
+          "phonetic": "/æt/",
+          "meanings": [
+            {
+              "translation": "a / alle",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "10:15",
+          "lemma": "10:15",
+          "pos": "number",
+          "phonetic": "/ten fɪfˈtiːn/",
+          "meanings": [
+            {
+              "translation": "10:15",
+              "partOfSpeech": "number"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "There is a short delay.",
+      "translation": "C'è un breve ritardo.",
+      "tokens": [
+        {
+          "word": "There",
+          "lemma": "there",
+          "pos": "pronoun",
+          "phonetic": "/ðeə/",
+          "meanings": [
+            {
+              "translation": "c'è / ci sono",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "short",
+          "lemma": "short",
+          "pos": "adjective",
+          "phonetic": "/ʃɔːt/",
+          "meanings": [
+            {
+              "translation": "breve / corto",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "delay",
+          "lemma": "delay",
+          "pos": "noun",
+          "phonetic": "/dɪˈleɪ/",
+          "meanings": [
+            {
+              "translation": "ritardo",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "platform",
+    "depart",
+    "delay",
+    "arrive"
+  ],
+  "grammarFocus": [
+    "present-simple",
+    "there-is"
+  ]
+}

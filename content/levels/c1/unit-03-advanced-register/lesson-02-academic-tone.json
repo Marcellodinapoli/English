@@ -1,0 +1,136 @@
+{
+  "id": "c1-u3-l2",
+  "unitId": "c1-u3",
+  "levelId": "C1",
+  "title": "Academic tone",
+  "titleIt": "Tono accademico",
+  "description": "Write with impersonal style, nominalisation, and analytical distance.",
+  "estimatedMinutes": 18,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "c1-academic",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Write with academic precision",
+    "body": "Use nominalisation and impersonal constructions to create analytical distance and emphasise ideas over personality.",
+    "bodyIt": "Usa nominalizzazione e costruzioni impersonali per creare distanza analitica ed enfatizzare le idee rispetto alla personalità.",
+    "objectives": [
+      "Recognise features of academic tone",
+      "Use nominalisation effectively",
+      "Prefer analysis over personal opinion"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "academic",
+      "lemma": "academic",
+      "translation": "accademico",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "example": "Academic tone avoids slang and exaggeration.",
+      "exampleTranslation": "Il tono accademico evita slang ed esagerazioni."
+    },
+    {
+      "word": "nominalisation",
+      "lemma": "nominalisation",
+      "translation": "nominalizzazione",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌnɒmɪnəlaɪˈzeɪʃn/",
+      "example": "Nominalisation turns 'implement' into 'implementation'.",
+      "exampleTranslation": "La nominalizzazione trasforma 'implement' in 'implementation'."
+    },
+    {
+      "word": "analysis",
+      "lemma": "analysis",
+      "translation": "analisi",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈnæləsɪs/",
+      "example": "The analysis focuses on long-term outcomes.",
+      "exampleTranslation": "L'analisi si concentra sugli esiti a lungo termine."
+    },
+    {
+      "word": "emphasise",
+      "lemma": "emphasise",
+      "translation": "enfatizzare",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈemfəsaɪz/",
+      "example": "Academic writing emphasises evidence and logic.",
+      "exampleTranslation": "La scrittura accademica enfatizza prove e logica."
+    }
+  ],
+  "readingRef": "c1-academic",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which is more academic?",
+      "promptIt": "Quale è più accademico?",
+      "options": [
+        "the implementation of policy",
+        "how people do the policy thing",
+        "guys rolling out stuff",
+        "people just winging it"
+      ],
+      "answer": "the implementation of policy",
+      "explanation": "Nominalisation is typical of academic style."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Academic writing favours ____, which turns processes into abstract nouns.",
+      "promptIt": "Completa: Academic writing favours ____, which turns processes into abstract nouns.",
+      "answer": "nominalisation",
+      "explanation": "Nominalisation packages actions as nouns."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Academic tone tends to emphasise...",
+      "promptIt": "Il tono accademico tende a enfatizzare...",
+      "options": [
+        "analysis over personal opinion",
+        "slang over precision",
+        "emotion over evidence",
+        "jokes over structure"
+      ],
+      "answer": "analysis over personal opinion",
+      "explanation": "Distance and analysis define academic register."
+    }
+  ],
+  "review": {
+    "summary": [
+      "academic / nominalisation / analysis / emphasise",
+      "Impersonal style",
+      "Evidence over opinion"
+    ],
+    "tip": "Rewrite one personal sentence using a nominalisation."
+  }
+}

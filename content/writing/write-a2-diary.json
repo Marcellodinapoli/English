@@ -1,0 +1,24 @@
+{
+  "id": "write-a2-diary",
+  "title": "Write a diary entry",
+  "titleIt": "Scrivi un diario",
+  "level": "A2",
+  "description": "Short writing tasks about your past day.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write 2–3 sentences about what you did yesterday.",
+      "promptIt": "Scrivi 2–3 frasi su cosa hai fatto ieri.",
+      "minWords": 8,
+      "hints": ["Yesterday I went to...", "I bought...", "It was cheaper than..."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write one sentence comparing two places or things.",
+      "promptIt": "Scrivi una frase che confronta due luoghi o cose.",
+      "minWords": 5,
+      "hints": ["The shop is cheaper than...", "Today is warmer than yesterday."]
+    }
+  ]
+}

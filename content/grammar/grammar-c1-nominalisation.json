@@ -1,0 +1,55 @@
+{
+  "id": "grammar-c1-nominalisation",
+  "level": "C1",
+  "title": "Nominalisation — verb to noun",
+  "titleIt": "Nominalizzazione — da verbo a nome",
+  "examples": [
+    "They analysed the data → The analysis of the data...",
+    "Sales improved → There was an improvement in sales.",
+    "We decided → A decision was made."
+  ],
+  "pattern": "Turn key verbs/adjectives into nouns to densify formal prose",
+  "explanation": "Nominalisation is common in academic and professional writing because it packages actions as concepts.",
+  "explanationIt": "La nominalizzazione è comune nella scrittura accademica e professionale perché trasforma azioni in concetti.",
+  "realUse": [
+    "The analysis of the findings suggests a substantial improvement.",
+    "Implementation will require substantial resources.",
+    "Evaluation of the criteria remains essential."
+  ],
+  "relatedErrorTypes": [
+    "nominalisation"
+  ],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses nominalisation?",
+      "options": [
+        "The analysis of the findings suggests improvement.",
+        "They analysed the findings and saw improvement.",
+        "We look at findings and improve stuff.",
+        "Findings got better after we checked."
+      ],
+      "answer": "The analysis of the findings suggests improvement.",
+      "explanation": "Analysis and improvement are nouns derived from verbs."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "There was a significant ____ in outcomes. (improve)",
+      "answer": "improvement"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Choose the more academic version.",
+      "options": [
+        "The evaluation of the criteria remains essential.",
+        "We really need to check the criteria, yeah.",
+        "Checking criteria is kinda needed.",
+        "Criteria check please now."
+      ],
+      "answer": "The evaluation of the criteria remains essential."
+    }
+  ]
+}

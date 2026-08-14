@@ -1,0 +1,39 @@
+{
+  "id": "grammar-b1-will-going",
+  "level": "B1",
+  "title": "Will vs going to",
+  "titleIt": "Will vs going to",
+  "examples": ["I am going to book the tickets tonight.", "Don't worry — I will help you.", "We will call you later."],
+  "pattern": "going to = planned intention  |  will = offer / spontaneous decision / prediction",
+  "explanation": "Use going to for plans you already have. Use will for offers, promises, and decisions made at the moment of speaking.",
+  "explanationIt": "Usa going to per piani già decisi. Usa will per offerte, promesse e decisioni prese al momento.",
+  "realUse": [
+    "I am going to arrange a meeting on Friday.",
+    "I will help with the booking.",
+    "Looking at my schedule, Friday works for me."
+  ],
+  "relatedErrorTypes": ["will_going_to"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence for a decided plan.",
+      "options": ["I am going to book the tickets tonight.", "I will going to book the tickets tonight.", "I going book the tickets tonight.", "I am will book the tickets tonight."],
+      "answer": "I am going to book the tickets tonight.",
+      "explanation": "Going to shows a prior intention."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "Don't worry — I ____ help you.",
+      "answer": "will"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: I will going to call him later.",
+      "options": ["I am going to call him later.", "I will going call him later.", "I going to call him later.", "I will to call him later."],
+      "answer": "I am going to call him later."
+    }
+  ]
+}

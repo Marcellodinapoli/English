@@ -1,0 +1,113 @@
+{
+  "id": "c1-u2-l1",
+  "unitId": "c1-u2",
+  "levelId": "C1",
+  "title": "Structuring an argument",
+  "titleIt": "Strutturare un'argomentazione",
+  "description": "Organise a sophisticated argument with clear staging and emphasis.",
+  "estimatedMinutes": 18,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "c1-argument",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Build arguments that land",
+    "body": "Master framing, signposting, and cleft structures to highlight key points.",
+    "bodyIt": "Padroneggia inquadramento, signal language e strutture cleft per evidenziare i punti chiave.",
+    "objectives": [
+      "Frame a thesis precisely",
+      "Signpost stages of an argument",
+      "Use cleft sentences for emphasis"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "premise",
+      "lemma": "premise",
+      "translation": "premessa",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpremɪs/",
+      "example": "The premise of the argument is that regulation drives quality.",
+      "exampleTranslation": "La premessa dell'argomentazione è che la regolamentazione guida la qualità."
+    },
+    {
+      "word": "signpost",
+      "lemma": "signpost",
+      "translation": "segnalare (struttura)",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈsaɪnpəʊst/",
+      "example": "Signpost each stage so the audience can follow.",
+      "exampleTranslation": "Segnala ogni fase così il pubblico può seguire."
+    },
+    {
+      "word": "it is ... that",
+      "lemma": "it is that",
+      "translation": "struttura cleft",
+      "partOfSpeech": "phrase",
+      "phonetic": "/ɪt ɪz ðæt/",
+      "example": "It is the lack of evidence that weakens the claim.",
+      "exampleTranslation": "È la mancanza di prove che indebolisce la tesi."
+    }
+  ],
+  "readingRef": "c1-argument",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses a cleft for emphasis?",
+      "promptIt": "Quale frase usa una cleft per enfasi?",
+      "options": [
+        "It is the methodology that raises concern.",
+        "The methodology raises concern.",
+        "Methodology concern raises.",
+        "Raising concern methodology is."
+      ],
+      "answer": "It is the methodology that raises concern.",
+      "explanation": "Cleft sentences foreground one element: It is X that..."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "The ____ of the argument must be stated clearly.",
+      "promptIt": "Completa: The ____ of the argument must be stated clearly.",
+      "answer": "premise",
+      "explanation": "A premise is the starting assumption of an argument."
+    }
+  ],
+  "review": {
+    "summary": [
+      "premise / signpost / cleft",
+      "Firstly / moreover / in conclusion",
+      "Emphasising key points"
+    ],
+    "tip": "Rewrite one flat claim as a cleft sentence for stronger emphasis."
+  }
+}

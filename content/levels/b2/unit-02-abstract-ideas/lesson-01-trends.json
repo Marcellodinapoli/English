@@ -1,0 +1,113 @@
+{
+  "id": "b2-u2-l1",
+  "unitId": "b2-u2",
+  "levelId": "B2",
+  "title": "Trends and change",
+  "titleIt": "Tendenze e cambiamento",
+  "description": "Describe trends, shifts, and long-term change with precision.",
+  "estimatedMinutes": 16,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "b2-trends",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Talk about trends clearly",
+    "body": "You will learn vocabulary for describing patterns of change and practise summarising what the data shows.",
+    "bodyIt": "Imparerai vocabolario per descrivere andamenti e praticherai a riassumere ciò che mostrano i dati.",
+    "objectives": [
+      "Describe rising and falling trends",
+      "Use passive structures to report findings",
+      "Summarise a change in clear English"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "trend",
+      "lemma": "trend",
+      "translation": "tendenza",
+      "partOfSpeech": "noun",
+      "phonetic": "/trend/",
+      "example": "Remote work has become a major trend.",
+      "exampleTranslation": "Il lavoro da remoto è diventato una tendenza importante."
+    },
+    {
+      "word": "shift",
+      "lemma": "shift",
+      "translation": "spostamento / cambiamento",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɪft/",
+      "example": "There has been a clear shift towards hybrid work.",
+      "exampleTranslation": "C'è stato un chiaro spostamento verso il lavoro ibrido."
+    },
+    {
+      "word": "gradually",
+      "lemma": "gradually",
+      "translation": "gradualmente",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈɡrædʒuəli/",
+      "example": "Costs have gradually increased over the decade.",
+      "exampleTranslation": "I costi sono aumentati gradualmente nel corso del decennio."
+    }
+  ],
+  "readingRef": "b2-trends",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What does trend mean?",
+      "promptIt": "Cosa significa trend?",
+      "options": [
+        "A general direction of change",
+        "A type of meeting",
+        "A travel ticket",
+        "A shopping list"
+      ],
+      "answer": "A general direction of change",
+      "explanation": "A trend is a general pattern or direction of change over time."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "There has been a clear ____ towards hybrid work.",
+      "promptIt": "Completa: There has been a clear ____ towards hybrid work.",
+      "answer": "shift",
+      "explanation": "Shift refers to a noticeable change in direction or preference."
+    }
+  ],
+  "review": {
+    "summary": [
+      "trend / shift / gradually",
+      "Passive for reporting findings",
+      "Describing change over time"
+    ],
+    "tip": "Describe one workplace or technology trend in two sentences today."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "a2-u3-l1",
+  "unitId": "a2-u3",
+  "levelId": "A2",
+  "title": "Hobbies",
+  "titleIt": "Hobby",
+  "description": "Talk about free-time activities and what you enjoy doing.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a2-hobbies", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about your hobbies",
+    "body": "Learn words for free-time activities and say what you like doing.",
+    "bodyIt": "Impara parole per le attività del tempo libero e di' cosa ti piace fare.",
+    "objectives": [
+      "Name common hobbies",
+      "Use like / enjoy + -ing",
+      "Read a short text about free time"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "hobby",
+      "lemma": "hobby",
+      "translation": "hobby / passatempo",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhɒbi/",
+      "example": "My favourite hobby is cooking.",
+      "exampleTranslation": "Il mio hobby preferito è cucinare."
+    },
+    {
+      "word": "cinema",
+      "lemma": "cinema",
+      "translation": "cinema",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɪnəmə/",
+      "example": "We often go to the cinema.",
+      "exampleTranslation": "Andiamo spesso al cinema."
+    },
+    {
+      "word": "enjoy",
+      "lemma": "enjoy",
+      "translation": "godersi / piacere",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "example": "I enjoy reading in the evening.",
+      "exampleTranslation": "Mi piace leggere la sera."
+    },
+    {
+      "word": "sport",
+      "lemma": "sport",
+      "translation": "sport",
+      "partOfSpeech": "noun",
+      "phonetic": "/spɔːt/",
+      "example": "She plays sport twice a week.",
+      "exampleTranslation": "Fa sport due volte a settimana."
+    }
+  ],
+  "readingRef": "a2-hobbies",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "promptIt": "Scegli la frase corretta.",
+      "options": [
+        "I enjoy reading in the evening.",
+        "I enjoy to reading in the evening.",
+        "I enjoy read in the evening.",
+        "I enjoying reading in the evening."
+      ],
+      "answer": "I enjoy reading in the evening.",
+      "explanation": "Use enjoy + -ing (enjoy reading)."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "We often go to the ____ on Friday.",
+      "promptIt": "Completa: We often go to the ____ on Friday.",
+      "answer": "cinema",
+      "explanation": "Cinema is the place where you watch films."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What does hobby mean?",
+      "promptIt": "Cosa significa hobby?",
+      "options": ["hobby / passatempo", "lavoro", "biglietto", "ritardo"],
+      "answer": "hobby / passatempo",
+      "explanation": "A hobby is an activity you do for fun in your free time."
+    }
+  ],
+  "review": {
+    "summary": ["hobby / cinema / sport", "enjoy + -ing", "My favourite hobby is..."],
+    "tip": "Tell a friend two hobbies you enjoy using enjoy + -ing."
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "id": "b2-making-case",
+  "type": "passage",
+  "level": "B2",
+  "title": "Making a case",
+  "titleIt": "Sostenere una tesi",
+  "description": "A short persuasive text using claim, evidence, and conclusion.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Our claim is that training investment improves long-term performance.",
+      "translation": "La nostra tesi è che l'investimento in formazione migliora le prestazioni a lungo termine.",
+      "tokens": [
+        {
+          "word": "Our",
+          "lemma": "our",
+          "pos": "determiner",
+          "phonetic": "/ˈaʊə/",
+          "meanings": [
+            {
+              "translation": "nostro",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "claim",
+          "lemma": "claim",
+          "pos": "verb",
+          "phonetic": "/kleɪm/",
+          "meanings": [
+            {
+              "translation": "affermare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "is",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "pos": "conjunction",
+          "phonetic": "/ðæt/",
+          "meanings": [
+            {
+              "translation": "che / quello",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "training",
+          "lemma": "training",
+          "pos": "other",
+          "phonetic": "/training/",
+          "meanings": [
+            {
+              "translation": "training",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "investment",
+          "lemma": "investment",
+          "pos": "other",
+          "phonetic": "/investment/",
+          "meanings": [
+            {
+              "translation": "investment",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "improves",
+          "lemma": "improves",
+          "pos": "other",
+          "phonetic": "/improves/",
+          "meanings": [
+            {
+              "translation": "improves",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "long-term",
+          "lemma": "long-term",
+          "pos": "adjective",
+          "phonetic": "/ˌlɒŋˈtɜːm/",
+          "meanings": [
+            {
+              "translation": "a lungo termine",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "pos": "noun",
+          "phonetic": "/pəˈfɔːməns/",
+          "meanings": [
+            {
+              "translation": "prestazione",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "The evidence from last year's survey supports this view clearly.",
+      "translation": "Le prove del sondaggio dell'anno scorso supportano chiaramente questa visione.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "evidence",
+          "lemma": "evidence",
+          "pos": "noun",
+          "phonetic": "/ˈevɪdəns/",
+          "meanings": [
+            {
+              "translation": "prove / evidenza",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "pos": "preposition",
+          "phonetic": "/frɒm/",
+          "meanings": [
+            {
+              "translation": "da",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "last",
+          "lemma": "last",
+          "pos": "adjective",
+          "phonetic": "/lɑːst/",
+          "meanings": [
+            {
+              "translation": "ultimo / scorso",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "year's",
+          "lemma": "year's",
+          "pos": "other",
+          "phonetic": "/year's/",
+          "meanings": [
+            {
+              "translation": "year's",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "survey",
+          "lemma": "survey",
+          "pos": "noun",
+          "phonetic": "/ˈsɜːveɪ/",
+          "meanings": [
+            {
+              "translation": "sondaggio",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "supports",
+          "lemma": "supports",
+          "pos": "verb",
+          "phonetic": "/səˈpɔːts/",
+          "meanings": [
+            {
+              "translation": "sostiene",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "pos": "determiner",
+          "phonetic": "/ðɪs/",
+          "meanings": [
+            {
+              "translation": "questo",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "view",
+          "lemma": "view",
+          "pos": "noun",
+          "phonetic": "/vjuː/",
+          "meanings": [
+            {
+              "translation": "opinione / vista",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "clearly",
+          "lemma": "clearly",
+          "pos": "adverb",
+          "phonetic": "/ˈklɪəli/",
+          "meanings": [
+            {
+              "translation": "chiaramente",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Therefore, we should expand the programme across all teams.",
+      "translation": "Pertanto, dovremmo espandere il programma in tutti i team.",
+      "tokens": [
+        {
+          "word": "Therefore",
+          "lemma": "therefore",
+          "pos": "adverb",
+          "phonetic": "/ˈðeəfɔː/",
+          "meanings": [
+            {
+              "translation": "pertanto",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "should",
+          "lemma": "should",
+          "pos": "verb",
+          "phonetic": "/ʃʊd/",
+          "meanings": [
+            {
+              "translation": "dovrebbe",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "expand",
+          "lemma": "expand",
+          "pos": "other",
+          "phonetic": "/expand/",
+          "meanings": [
+            {
+              "translation": "expand",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "programme",
+          "lemma": "programme",
+          "pos": "other",
+          "phonetic": "/programme/",
+          "meanings": [
+            {
+              "translation": "programme",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "across",
+          "lemma": "across",
+          "pos": "preposition",
+          "phonetic": "/əˈkrɒs/",
+          "meanings": [
+            {
+              "translation": "attraverso",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "all",
+          "lemma": "all",
+          "pos": "determiner",
+          "phonetic": "/ɔːl/",
+          "meanings": [
+            {
+              "translation": "tutti",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "teams",
+          "lemma": "teams",
+          "pos": "noun",
+          "phonetic": "/tiːmz/",
+          "meanings": [
+            {
+              "translation": "squadre / team",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "claim",
+    "evidence",
+    "therefore",
+    "performance"
+  ],
+  "grammarFocus": [
+    "cause-effect",
+    "modals-recommendation"
+  ]
+}

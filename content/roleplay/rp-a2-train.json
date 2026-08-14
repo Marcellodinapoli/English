@@ -1,0 +1,27 @@
+{
+  "id": "rp-a2-train",
+  "title": "Buy a train ticket",
+  "titleIt": "Comprare un biglietto del treno",
+  "category": "travel",
+  "level": "A2",
+  "description": "Buy a ticket, ask about the platform, and check the departure time.",
+  "descriptionIt": "Compra un biglietto, chiedi il binario e controlla l'orario di partenza.",
+  "setting": "Ticket office at a busy train station. You need to travel to Florence today.",
+  "yourRole": "Traveller",
+  "aiRole": "Ticket clerk",
+  "aiCharacter": "Helpful ticket clerk named Anna. Speaks clearly and confirms details.",
+  "goals": [
+    "Ask for a ticket to Florence",
+    "Confirm the departure time",
+    "Ask which platform to use"
+  ],
+  "openingLine": "Good morning! Where would you like to go today?",
+  "suggestedPhrases": [
+    "I'd like a ticket to Florence, please.",
+    "What time does the train depart?",
+    "Which platform is it?",
+    "Is there a delay?"
+  ],
+  "maxTurns": 10,
+  "estimatedMinutes": 10
+}

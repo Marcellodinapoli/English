@@ -1,0 +1,83 @@
+{
+  "passageId": "c1-academic",
+  "level": "C1",
+  "questions": [
+    {
+      "id": "c1-academic-main",
+      "passageId": "c1-academic",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Academic tone",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Academic tone",
+      "explanation": "The passage is about: Academic tone — An academic-style paragraph highlighting nominalisation and hedging.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "C1"
+    },
+    {
+      "id": "c1-academic-detail",
+      "passageId": "c1-academic",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "The analysis of the findings suggests a substantial improvement in outcomes.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "The analysis of the findings suggests a substantial improvement in outcomes.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    },
+    {
+      "id": "c1-academic-tf",
+      "passageId": "c1-academic",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"Nominalisation allows writers to present processes in a more compact form.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "C1"
+    },
+    {
+      "id": "c1-academic-short",
+      "passageId": "c1-academic",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"analysis\". Type that focus item.",
+      "correctAnswer": "analysis",
+      "explanation": "\"analysis\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "C1"
+    },
+    {
+      "id": "c1-academic-detail2",
+      "passageId": "c1-academic",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "Claims remain tentative where the available evidence appears limited.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "Claims remain tentative where the available evidence appears limited.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    }
+  ]
+}

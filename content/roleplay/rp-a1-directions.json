@@ -1,0 +1,27 @@
+{
+  "id": "rp-a1-directions",
+  "title": "Ask for directions",
+  "titleIt": "Chiedere indicazioni",
+  "category": "travel",
+  "level": "A1",
+  "description": "Ask where a place is and follow simple directions.",
+  "descriptionIt": "Chiedi dove si trova un posto e segui indicazioni semplici.",
+  "setting": "A street near the train station. You are looking for a café.",
+  "yourRole": "Visitor",
+  "aiRole": "Local person",
+  "aiCharacter": "Friendly local named Pat. Gives short, clear directions.",
+  "goals": [
+    "Ask where the café is",
+    "Confirm left or right",
+    "Thank the person"
+  ],
+  "openingLine": "Excuse me — can I help you?",
+  "suggestedPhrases": [
+    "Where is the café?",
+    "Is it near the station?",
+    "Turn left?",
+    "Thank you."
+  ],
+  "maxTurns": 10,
+  "estimatedMinutes": 8
+}

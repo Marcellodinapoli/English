@@ -1,0 +1,92 @@
+{
+  "id": "a1-u1-l1",
+  "unitId": "a1-u1",
+  "levelId": "A1",
+  "title": "Hello",
+  "titleIt": "Saluti",
+  "description": "Greet people and introduce yourself.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a1-meeting-someone", "required": true },
+    { "id": "grammar", "type": "grammar", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Introduce yourself with confidence",
+    "body": "You will practise greetings, the verb to be, and a short reading with interactive words.",
+    "bodyIt": "Eserciterai i saluti, il verbo to be e una lettura con parole interattive.",
+    "objectives": [
+      "Greet someone politely",
+      "Say where you are from",
+      "Understand contextual word meanings (book)"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "meet",
+      "lemma": "meet",
+      "translation": "incontrare / conoscere",
+      "partOfSpeech": "verb",
+      "phonetic": "/miːt/",
+      "example": "Nice to meet you.",
+      "exampleTranslation": "Piacere di conoscerti."
+    },
+    {
+      "word": "from",
+      "lemma": "from",
+      "translation": "da / di",
+      "partOfSpeech": "preposition",
+      "phonetic": "/frɒm/",
+      "example": "I am from Italy.",
+      "exampleTranslation": "Vengo dall'Italia."
+    },
+    {
+      "word": "book",
+      "lemma": "book",
+      "translation": "prenotare / libro",
+      "partOfSpeech": "verb",
+      "phonetic": "/bʊk/",
+      "example": "I can book a table.",
+      "exampleTranslation": "Posso prenotare un tavolo."
+    }
+  ],
+  "readingRef": "a1-meeting-someone",
+  "grammar": {
+    "examples": ["I am tired.", "I am hungry.", "I am ready."],
+    "pattern": "I + am + adjective",
+    "explanation": "Use am with I. Use is with he/she/it. Use are with you/we/they.",
+    "explanationIt": "Usa am con I. Usa is con he/she/it. Usa are con you/we/they."
+  },
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["I am from Italy.", "I is from Italy.", "I are from Italy.", "I be from Italy."],
+      "answer": "I am from Italy.",
+      "explanation": "With I we use am."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Nice to ____ you.",
+      "answer": "meet",
+      "explanation": "Nice to meet you is a common phrase."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "In “I can book a table”, what does book mean?",
+      "options": ["libro", "prenotare", "tavolo", "leggere"],
+      "answer": "prenotare",
+      "explanation": "Here book is a verb: to reserve."
+    }
+  ],
+  "review": {
+    "summary": ["Hello / Nice to meet you", "I am from...", "to be: am / is / are", "book = prenotare (context)"],
+    "tip": "Click every word in the reading to build your personal vocabulary."
+  }
+}

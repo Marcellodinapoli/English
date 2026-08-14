@@ -1,0 +1,27 @@
+{
+  "id": "rp-c1-negotiation",
+  "title": "High-stakes negotiation",
+  "titleIt": "Negoziazione ad alto rischio",
+  "category": "work",
+  "level": "C1",
+  "description": "Negotiate terms with a counterpart using concession and precise rebuttal.",
+  "descriptionIt": "Negozia i termini con una controparte usando concessione e replica precisa.",
+  "setting": "A formal negotiation room discussing a multi-year partnership contract.",
+  "yourRole": "Lead negotiator",
+  "aiRole": "Counterpart",
+  "aiCharacter": "Senior counterpart named Elena. Polished, firm, and responds to precise language.",
+  "goals": [
+    "Frame your premise clearly",
+    "Concede one limited point",
+    "Deliver a measured rebuttal and close on next steps"
+  ],
+  "openingLine": "Let us begin. What is the central premise of your proposal?",
+  "suggestedPhrases": [
+    "The premise is that transparency strengthens trust.",
+    "Admittedly, short-term costs will rise.",
+    "Nevertheless, long-term gains outweigh those costs.",
+    "It is the quality of the evidence that supports this position."
+  ],
+  "maxTurns": 16,
+  "estimatedMinutes": 18
+}

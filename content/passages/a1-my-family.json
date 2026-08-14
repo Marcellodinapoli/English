@@ -1,0 +1,201 @@
+{
+  "id": "a1-my-family",
+  "type": "passage",
+  "level": "A1.2",
+  "title": "My family",
+  "titleIt": "La mia famiglia",
+  "description": "A learner describes their family.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "This is my family.",
+      "translation": "Questa è la mia famiglia.",
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "pos": "pronoun",
+          "phonetic": "/ðɪs/",
+          "meanings": [{ "translation": "questo / questa", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "my",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "family",
+          "lemma": "family",
+          "pos": "noun",
+          "phonetic": "/ˈfæməli/",
+          "meanings": [{ "translation": "famiglia", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "My mother is a teacher.",
+      "translation": "Mia madre è un'insegnante.",
+      "tokens": [
+        {
+          "word": "My",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "mother",
+          "lemma": "mother",
+          "pos": "noun",
+          "phonetic": "/ˈmʌðə/",
+          "meanings": [{ "translation": "madre / mamma", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "teacher",
+          "lemma": "teacher",
+          "pos": "noun",
+          "phonetic": "/ˈtiːtʃə/",
+          "meanings": [{ "translation": "insegnante", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "My father works in a bank.",
+      "translation": "Mio padre lavora in una banca.",
+      "tokens": [
+        {
+          "word": "My",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "father",
+          "lemma": "father",
+          "pos": "noun",
+          "phonetic": "/ˈfɑːðə/",
+          "meanings": [{ "translation": "padre / papà", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "works",
+          "lemma": "work",
+          "pos": "verb",
+          "phonetic": "/wɜːks/",
+          "meanings": [{ "translation": "lavora", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "pos": "preposition",
+          "phonetic": "/ɪn/",
+          "meanings": [{ "translation": "in / dentro", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "bank",
+          "lemma": "bank",
+          "pos": "noun",
+          "phonetic": "/bæŋk/",
+          "meanings": [
+            { "translation": "banca", "partOfSpeech": "noun" },
+            { "translation": "riva / sponda", "partOfSpeech": "noun", "note": "altro significato" }
+          ]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "I have one sister and one brother.",
+      "translation": "Ho una sorella e un fratello.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæv/",
+          "meanings": [{ "translation": "avere", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "pos": "number",
+          "phonetic": "/wʌn/",
+          "meanings": [{ "translation": "uno / una", "partOfSpeech": "number" }]
+        },
+        {
+          "word": "sister",
+          "lemma": "sister",
+          "pos": "noun",
+          "phonetic": "/ˈsɪstə/",
+          "meanings": [{ "translation": "sorella", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "pos": "conjunction",
+          "phonetic": "/ænd/",
+          "meanings": [{ "translation": "e", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "pos": "number",
+          "phonetic": "/wʌn/",
+          "meanings": [{ "translation": "uno / una", "partOfSpeech": "number" }]
+        },
+        {
+          "word": "brother",
+          "lemma": "brother",
+          "pos": "noun",
+          "phonetic": "/ˈbrʌðə/",
+          "meanings": [{ "translation": "fratello", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["family", "mother", "father", "sister", "brother"],
+  "grammarFocus": ["possessives", "have"]
+}

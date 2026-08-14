@@ -1,0 +1,113 @@
+{
+  "id": "c1-u3-l2",
+  "unitId": "c1-u3",
+  "levelId": "C1",
+  "title": "Academic tone",
+  "titleIt": "Tono accademico",
+  "description": "Use nominalisation and cautious claims for academic writing.",
+  "estimatedMinutes": 18,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "c1-academic",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Write with academic precision",
+    "body": "Practise turning verbs into nouns and hedging claims appropriately.",
+    "bodyIt": "Pratica a trasformare verbi in nomi e ad attenuare le affermazioni in modo appropriato.",
+    "objectives": [
+      "Use nominalisation for density and formality",
+      "Hedge claims carefully",
+      "Maintain an impersonal academic tone"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "nominalisation",
+      "lemma": "nominalisation",
+      "translation": "nominalizzazione",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌnɒmɪnəlaɪˈzeɪʃn/",
+      "example": "Nominalisation makes academic writing more compact.",
+      "exampleTranslation": "La nominalizzazione rende la scrittura accademica più compatta."
+    },
+    {
+      "word": "tentative",
+      "lemma": "tentative",
+      "translation": "cauto / provvisorio",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtentətɪv/",
+      "example": "Academic writers often make tentative claims.",
+      "exampleTranslation": "Gli autori accademici spesso fanno affermazioni caute."
+    },
+    {
+      "word": "impersonal",
+      "lemma": "impersonal",
+      "translation": "impersonale",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪmˈpɜːsənl/",
+      "example": "An impersonal style avoids overusing I and we.",
+      "exampleTranslation": "Uno stile impersonale evita di usare troppo I e we."
+    }
+  ],
+  "readingRef": "c1-academic",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which sentence shows stronger academic tone?",
+      "promptIt": "Quale frase mostra un tono più accademico?",
+      "options": [
+        "The analysis suggests a substantial improvement.",
+        "I totally think it got way better.",
+        "Stuff got better, basically.",
+        "It's obviously perfect."
+      ],
+      "answer": "The analysis suggests a substantial improvement.",
+      "explanation": "Suggests and substantial are typical of cautious academic wording."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "____ turns verbs into nouns and densifies formal prose.",
+      "promptIt": "Completa: ____ turns verbs into nouns and densifies formal prose.",
+      "answer": "Nominalisation",
+      "explanation": "Nominalisation is a hallmark of academic register."
+    }
+  ],
+  "review": {
+    "summary": [
+      "nominalisation / tentative / impersonal",
+      "suggests / appears / may",
+      "Academic hedging"
+    ],
+    "tip": "Rewrite I found that sales rose as The data indicate a rise in sales."
+  }
+}

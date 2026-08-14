@@ -1,0 +1,113 @@
+{
+  "id": "c1-u2-l2",
+  "unitId": "c1-u2",
+  "levelId": "C1",
+  "title": "Counterarguments",
+  "titleIt": "Controargomentazioni",
+  "description": "Acknowledge opposing views and respond with measured rebuttal.",
+  "estimatedMinutes": 18,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "c1-counter",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Handle opposing views",
+    "body": "Practise conceding limited ground, then refuting with stronger evidence.",
+    "bodyIt": "Pratica a concedere terreno limitato e poi confutare con prove più solide.",
+    "objectives": [
+      "Acknowledge a counterargument fairly",
+      "Concede without collapsing your position",
+      "Deliver a precise rebuttal"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "counterargument",
+      "lemma": "counterargument",
+      "translation": "controargomentazione",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkaʊntərˌɑːɡjumənt/",
+      "example": "A strong essay anticipates the main counterargument.",
+      "exampleTranslation": "Un saggio solido anticipa la principale controargomentazione."
+    },
+    {
+      "word": "concede",
+      "lemma": "concede",
+      "translation": "concedere",
+      "partOfSpeech": "verb",
+      "phonetic": "/kənˈsiːd/",
+      "example": "We can concede that costs will rise initially.",
+      "exampleTranslation": "Possiamo concedere che i costi aumenteranno inizialmente."
+    },
+    {
+      "word": "rebuttal",
+      "lemma": "rebuttal",
+      "translation": "replica / confutazione",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɪˈbʌtl/",
+      "example": "Her rebuttal focused on the quality of the data.",
+      "exampleTranslation": "La sua replica si è concentrata sulla qualità dei dati."
+    }
+  ],
+  "readingRef": "c1-counter",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What does concede mean in argumentation?",
+      "promptIt": "Cosa significa concede nell'argomentazione?",
+      "options": [
+        "Admit a limited point while keeping your overall position",
+        "End the discussion abruptly",
+        "Ignore the other side",
+        "Change the topic completely"
+      ],
+      "answer": "Admit a limited point while keeping your overall position",
+      "explanation": "To concede is to accept a limited opposing point without abandoning your case."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "A careful ____ addresses the strongest opposing claim.",
+      "promptIt": "Completa: A careful ____ addresses the strongest opposing claim.",
+      "answer": "rebuttal",
+      "explanation": "A rebuttal responds directly to an opposing argument."
+    }
+  ],
+  "review": {
+    "summary": [
+      "counterargument / concede / rebuttal",
+      "Admittedly / nevertheless",
+      "Fair but firm response"
+    ],
+    "tip": "State one opposing view, concede one detail, then rebut with evidence."
+  }
+}

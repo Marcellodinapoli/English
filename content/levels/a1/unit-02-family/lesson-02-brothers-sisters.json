@@ -1,0 +1,99 @@
+{
+  "id": "a1-u2-l2",
+  "unitId": "a1-u2",
+  "levelId": "A1",
+  "title": "Brothers and sisters",
+  "titleIt": "Fratelli e sorelle",
+  "description": "Talk about siblings and ages with have/has.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a1-brothers-sisters", "required": true },
+    { "id": "grammar", "type": "grammar", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about your siblings",
+    "body": "Learn more family words and say how many brothers or sisters you have.",
+    "bodyIt": "Impara altre parole sulla famiglia e di' quanti fratelli o sorelle hai.",
+    "objectives": [
+      "Use brother, sister, older, younger",
+      "Say I have / She has",
+      "Ask Do you have...?"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "older",
+      "lemma": "old",
+      "translation": "più grande (di età)",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈəʊldə/",
+      "example": "My older brother is 20.",
+      "exampleTranslation": "Mio fratello maggiore ha 20 anni."
+    },
+    {
+      "word": "younger",
+      "lemma": "young",
+      "translation": "più piccolo (di età)",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈjʌŋɡə/",
+      "example": "I have a younger sister.",
+      "exampleTranslation": "Ho una sorella minore."
+    },
+    {
+      "word": "years old",
+      "lemma": "year",
+      "translation": "anni (di età)",
+      "partOfSpeech": "phrase",
+      "phonetic": "/jɪəz əʊld/",
+      "example": "She is 15 years old.",
+      "exampleTranslation": "Ha 15 anni."
+    },
+    {
+      "word": "only child",
+      "lemma": "child",
+      "translation": "figlio unico / figlia unica",
+      "partOfSpeech": "phrase",
+      "phonetic": "/ˈəʊnli tʃaɪld/",
+      "example": "I am an only child.",
+      "exampleTranslation": "Sono figlio unico."
+    }
+  ],
+  "readingRef": "a1-brothers-sisters",
+  "grammar": {
+    "examples": ["I have two sisters.", "He has one brother.", "Do you have siblings?"],
+    "pattern": "I/you/we/they + have · he/she + has · Do you have...?",
+    "explanation": "Use have/has for siblings. Ask with Do you have...?",
+    "explanationIt": "Usa have/has per fratelli e sorelle. Chiedi con Do you have...?"
+  },
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "She ____ one brother.",
+      "options": ["has", "have", "is", "are"],
+      "answer": "has",
+      "explanation": "With she we use has."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "I ____ two sisters.",
+      "answer": "have"
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "My ____ brother is 20.",
+      "options": ["older", "oldly", "more old", "olds"],
+      "answer": "older"
+    }
+  ],
+  "review": {
+    "summary": ["older / younger", "years old", "I have / She has", "Do you have...?"],
+    "tip": "Write three true sentences about your brothers or sisters."
+  }
+}

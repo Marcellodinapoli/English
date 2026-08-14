@@ -1,0 +1,24 @@
+{
+  "id": "write-b2-essay",
+  "title": "Write a short essay",
+  "titleIt": "Scrivi un breve saggio",
+  "level": "B2",
+  "description": "Structured writing on a news topic or debate.",
+  "estimatedMinutes": 15,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write a short paragraph (4–6 sentences) summarising a news story and your view.",
+      "promptIt": "Scrivi un breve paragrafo (4–6 frasi) riassumendo una notizia e la tua opinione.",
+      "minWords": 40,
+      "hints": ["The headline is about...", "According to the report...", "In my opinion...", "However..."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write two sentences using a Second Conditional about a proposal.",
+      "promptIt": "Scrivi due frasi con il Second Conditional su una proposta.",
+      "minWords": 12,
+      "hints": ["If the proposal were accepted...", "...companies would need to...", "If we offered a discount, they would..."]
+    }
+  ]
+}

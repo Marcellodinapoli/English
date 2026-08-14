@@ -1,0 +1,34 @@
+{
+  "id": "speak-b1-advice",
+  "title": "Give advice",
+  "titleIt": "Dai consigli",
+  "level": "B1",
+  "description": "Practise polite advice with should and If I were you.",
+  "estimatedMinutes": 9,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "You should book early.",
+      "hint": "should + base verb"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "If I were you, I would call the hotel first.",
+      "hint": "Soft, polite advice"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Give advice to a friend who is nervous about travelling alone.",
+      "promptIt": "Dai un consiglio a un amico che è nervoso per un viaggio da solo.",
+      "exampleAnswer": "You should start with a short trip. If I were you, I would book a hotel near the station.",
+      "hint": "Use should and If I were you"
+    }
+  ]
+}

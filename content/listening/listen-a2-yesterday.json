@@ -1,0 +1,38 @@
+{
+  "id": "listen-a2-yesterday",
+  "title": "Yesterday at the shop",
+  "titleIt": "Ieri al negozio",
+  "level": "A2",
+  "description": "Listen to a short story about yesterday and choose what you hear.",
+  "audioText": "Yesterday I went to the shop. I bought milk and bread. The bread was cheaper than at the supermarket.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "Where did the speaker go yesterday?",
+      "promptIt": "Dove è andato il parlante ieri?",
+      "transcript": "Yesterday I went to the shop.",
+      "options": ["the shop", "the bank", "school", "the hospital"],
+      "answer": "the shop"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What did they buy?",
+      "promptIt": "Cosa ha comprato?",
+      "transcript": "I bought milk and bread.",
+      "options": ["milk and bread", "coffee and tea", "eggs and cheese", "fruit and juice"],
+      "answer": "milk and bread"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: The bread was ____ than at the supermarket.",
+      "promptIt": "Completa: The bread was ____ than at the supermarket.",
+      "transcript": "The bread was cheaper than at the supermarket.",
+      "answer": "cheaper",
+      "explanation": "Cheaper is the comparative form of cheap."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "zero-yes-no",
+  "type": "passage",
+  "level": "ZERO",
+  "title": "Yes or no",
+  "titleIt": "Sì o no",
+  "description": "Short yes and no answers.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Are you ready? Yes, I am.",
+      "translation": "Sei pronto? Sì.",
+      "tokens": [
+        {
+          "word": "Are",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɑː/",
+          "meanings": [{ "translation": "sei / siete", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [{ "translation": "tu / voi", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "ready",
+          "lemma": "ready",
+          "pos": "adjective",
+          "phonetic": "/ˈredi/",
+          "meanings": [{ "translation": "pronto / pronta", "partOfSpeech": "adjective" }]
+        },
+        { "word": "?", "lemma": "?", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "Yes",
+          "lemma": "yes",
+          "pos": "adverb",
+          "phonetic": "/jes/",
+          "meanings": [{ "translation": "sì", "partOfSpeech": "adverb" }]
+        },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "am",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/æm/",
+          "meanings": [{ "translation": "sono", "partOfSpeech": "verb" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Coffee? No, thank you.",
+      "translation": "Caffè? No, grazie.",
+      "tokens": [
+        {
+          "word": "Coffee",
+          "lemma": "coffee",
+          "pos": "noun",
+          "phonetic": "/ˈkɒfi/",
+          "meanings": [{ "translation": "caffè", "partOfSpeech": "noun" }]
+        },
+        { "word": "?", "lemma": "?", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "No",
+          "lemma": "no",
+          "pos": "adverb",
+          "phonetic": "/nəʊ/",
+          "meanings": [{ "translation": "no", "partOfSpeech": "adverb" }]
+        },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "thank",
+          "lemma": "thank",
+          "pos": "verb",
+          "phonetic": "/θæŋk/",
+          "meanings": [{ "translation": "ringraziare", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [{ "translation": "tu / voi", "partOfSpeech": "pronoun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "OK. Sorry.",
+      "translation": "Va bene. Scusa.",
+      "tokens": [
+        {
+          "word": "OK",
+          "lemma": "OK",
+          "pos": "interjection",
+          "phonetic": "/ˌəʊˈkeɪ/",
+          "meanings": [{ "translation": "va bene", "partOfSpeech": "interjection" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "Sorry",
+          "lemma": "sorry",
+          "pos": "adjective",
+          "phonetic": "/ˈsɒri/",
+          "meanings": [{ "translation": "scusa / mi dispiace", "partOfSpeech": "adjective" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["yes", "no", "OK", "sorry"],
+  "grammarFocus": ["short-answers"]
+}

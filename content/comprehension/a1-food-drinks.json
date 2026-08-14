@@ -1,0 +1,83 @@
+{
+  "passageId": "a1-food-drinks",
+  "level": "A1",
+  "questions": [
+    {
+      "id": "a1-food-drinks-main",
+      "passageId": "a1-food-drinks",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Food and drinks",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Food and drinks",
+      "explanation": "The passage is about: Food and drinks — Preferences about food and drinks.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A1"
+    },
+    {
+      "id": "a1-food-drinks-detail",
+      "passageId": "a1-food-drinks",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "I have breakfast at eight.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "I have breakfast at eight.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    },
+    {
+      "id": "a1-food-drinks-tf",
+      "passageId": "a1-food-drinks",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"I like coffee, but I don't like tea.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A1"
+    },
+    {
+      "id": "a1-food-drinks-short",
+      "passageId": "a1-food-drinks",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"breakfast\". Type that focus item.",
+      "correctAnswer": "breakfast",
+      "explanation": "\"breakfast\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A1"
+    },
+    {
+      "id": "a1-food-drinks-detail2",
+      "passageId": "a1-food-drinks",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "For lunch I want a sandwich and water.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "For lunch I want a sandwich and water.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    }
+  ]
+}

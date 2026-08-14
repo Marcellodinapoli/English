@@ -1,0 +1,34 @@
+{
+  "id": "speak-b2-persuade",
+  "title": "Persuade politely",
+  "titleIt": "Persuadi con tatto",
+  "level": "B2",
+  "description": "Make a case and soften proposals diplomatically.",
+  "estimatedMinutes": 10,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "Our claim is supported by clear evidence; therefore, we should expand.",
+      "hint": "Claim + evidence + therefore"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "I would suggest reconsidering the deadline slightly.",
+      "hint": "Diplomatic suggestion"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Persuade a colleague to delay a launch: give one reason and one soft suggestion.",
+      "promptIt": "Persuadi un collega a ritardare un lancio: dai un motivo e un suggerimento soft.",
+      "exampleAnswer": "The evidence shows we need more testing. Therefore, I would suggest delaying the launch slightly. It might be better to confirm the figures first.",
+      "hint": "Use therefore, would suggest, might"
+    }
+  ]
+}

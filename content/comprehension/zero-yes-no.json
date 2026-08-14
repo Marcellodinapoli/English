@@ -1,0 +1,83 @@
+{
+  "passageId": "zero-yes-no",
+  "level": "ZERO",
+  "questions": [
+    {
+      "id": "zero-yes-no-main",
+      "passageId": "zero-yes-no",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Yes or no",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Yes or no",
+      "explanation": "The passage is about: Yes or no — Short yes and no answers.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-yes-no-detail",
+      "passageId": "zero-yes-no",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Are you ready? Yes, I am.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Are you ready? Yes, I am.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-yes-no-tf",
+      "passageId": "zero-yes-no",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"Coffee? No, thank you.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-yes-no-short",
+      "passageId": "zero-yes-no",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"yes\". Type that focus item.",
+      "correctAnswer": "yes",
+      "explanation": "\"yes\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-yes-no-detail2",
+      "passageId": "zero-yes-no",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "OK. Sorry.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "OK. Sorry.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "ZERO"
+    }
+  ]
+}

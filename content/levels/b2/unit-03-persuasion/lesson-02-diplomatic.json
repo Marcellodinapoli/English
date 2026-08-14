@@ -1,0 +1,113 @@
+{
+  "id": "b2-u3-l2",
+  "unitId": "b2-u3",
+  "levelId": "B2",
+  "title": "Diplomatic language",
+  "titleIt": "Linguaggio diplomatico",
+  "description": "Soften disagreement and make polite suggestions at work.",
+  "estimatedMinutes": 16,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "b2-diplomatic",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Disagree without offending",
+    "body": "Learn hedging and softening phrases for sensitive conversations.",
+    "bodyIt": "Impara frasi di attenuazione e softener per conversazioni delicate.",
+    "objectives": [
+      "Soften disagreement politely",
+      "Make tentative suggestions",
+      "Use modal verbs for deduction and tact"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "diplomatic",
+      "lemma": "diplomatic",
+      "translation": "diplomatico",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌdɪpləˈmætɪk/",
+      "example": "A diplomatic reply can protect the relationship.",
+      "exampleTranslation": "Una risposta diplomatica può proteggere la relazione."
+    },
+    {
+      "word": "hedge",
+      "lemma": "hedge",
+      "translation": "attenuare",
+      "partOfSpeech": "verb",
+      "phonetic": "/hedʒ/",
+      "example": "You can hedge a strong opinion with might or seem.",
+      "exampleTranslation": "Puoi attenuare un'opinione forte con might o seem."
+    },
+    {
+      "word": "would suggest",
+      "lemma": "would suggest",
+      "translation": "vorrei suggerire",
+      "partOfSpeech": "phrase",
+      "phonetic": "/wʊd səˈdʒest/",
+      "example": "I would suggest delaying the launch slightly.",
+      "exampleTranslation": "Vorrei suggerire di ritardare leggermente il lancio."
+    }
+  ],
+  "readingRef": "b2-diplomatic",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which is more diplomatic?",
+      "promptIt": "Quale è più diplomatico?",
+      "options": [
+        "I would suggest reconsidering the timeline.",
+        "That idea is terrible.",
+        "You're completely wrong.",
+        "No way."
+      ],
+      "answer": "I would suggest reconsidering the timeline.",
+      "explanation": "Would suggest softens the recommendation and sounds professional."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "It ____ be better to check the figures again.",
+      "promptIt": "Completa: It ____ be better to check the figures again.",
+      "answer": "might",
+      "explanation": "Might softens a suggestion and leaves room for discussion."
+    }
+  ],
+  "review": {
+    "summary": [
+      "diplomatic / hedge / would suggest",
+      "might / seem / perhaps",
+      "Softening disagreement"
+    ],
+    "tip": "Rewrite one blunt disagreement using I would suggest or It might be better."
+  }
+}

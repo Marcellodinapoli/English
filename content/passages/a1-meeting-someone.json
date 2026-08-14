@@ -1,0 +1,250 @@
+{
+  "id": "a1-meeting-someone",
+  "type": "passage",
+  "level": "A1.1",
+  "title": "Meeting someone",
+  "titleIt": "Incontrare qualcuno",
+  "description": "A short conversation between two people meeting for the first time.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Hello! My name is Marco.",
+      "translation": "Ciao! Mi chiamo Marco.",
+      "tokens": [
+        {
+          "word": "Hello",
+          "lemma": "hello",
+          "pos": "interjection",
+          "phonetic": "/həˈləʊ/",
+          "meanings": [{ "translation": "ciao / salve", "partOfSpeech": "interjection" }]
+        },
+        { "word": "!", "lemma": "!", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "My",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "name",
+          "lemma": "name",
+          "pos": "noun",
+          "phonetic": "/neɪm/",
+          "meanings": [{ "translation": "nome", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "Marco",
+          "lemma": "Marco",
+          "pos": "proper noun",
+          "phonetic": "/ˈmɑːkəʊ/",
+          "meanings": [{ "translation": "Marco", "partOfSpeech": "proper noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Nice to meet you.",
+      "translation": "Piacere di conoscerti.",
+      "tokens": [
+        {
+          "word": "Nice",
+          "lemma": "nice",
+          "pos": "adjective",
+          "phonetic": "/naɪs/",
+          "meanings": [{ "translation": "bello / piacevole", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [{ "translation": "di / a", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "meet",
+          "lemma": "meet",
+          "pos": "verb",
+          "phonetic": "/miːt/",
+          "meanings": [{ "translation": "incontrare / conoscere", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [{ "translation": "tu / te / voi", "partOfSpeech": "pronoun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "I am from Italy.",
+      "translation": "Sono italiano / vengo dall'Italia.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "am",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/æm/",
+          "meanings": [{ "translation": "sono", "partOfSpeech": "verb", "note": "forma di to be" }]
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "pos": "preposition",
+          "phonetic": "/frɒm/",
+          "meanings": [{ "translation": "da / di", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "Italy",
+          "lemma": "Italy",
+          "pos": "proper noun",
+          "phonetic": "/ˈɪtəli/",
+          "meanings": [{ "translation": "Italia", "partOfSpeech": "proper noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "I can book a table at the restaurant.",
+      "translation": "Posso prenotare un tavolo al ristorante.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "pos": "verb",
+          "phonetic": "/kæn/",
+          "meanings": [{ "translation": "posso / sapere (capacità)", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "book",
+          "lemma": "book",
+          "pos": "verb",
+          "phonetic": "/bʊk/",
+          "contextualMeaningIndex": 0,
+          "meanings": [
+            { "translation": "prenotare", "partOfSpeech": "verb" },
+            { "translation": "libro", "partOfSpeech": "noun" }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "table",
+          "lemma": "table",
+          "pos": "noun",
+          "phonetic": "/ˈteɪbl/",
+          "meanings": [{ "translation": "tavolo", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "pos": "preposition",
+          "phonetic": "/æt/",
+          "meanings": [{ "translation": "a / al", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la / i / gli / le", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "restaurant",
+          "lemma": "restaurant",
+          "pos": "noun",
+          "phonetic": "/ˈrestrɒnt/",
+          "meanings": [{ "translation": "ristorante", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "I read a book every evening.",
+      "translation": "Leggo un libro ogni sera.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "read",
+          "lemma": "read",
+          "pos": "verb",
+          "phonetic": "/riːd/",
+          "meanings": [{ "translation": "leggere", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "book",
+          "lemma": "book",
+          "pos": "noun",
+          "phonetic": "/bʊk/",
+          "contextualMeaningIndex": 0,
+          "meanings": [
+            { "translation": "libro", "partOfSpeech": "noun" },
+            { "translation": "prenotare", "partOfSpeech": "verb" }
+          ]
+        },
+        {
+          "word": "every",
+          "lemma": "every",
+          "pos": "determiner",
+          "phonetic": "/ˈevri/",
+          "meanings": [{ "translation": "ogni", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "evening",
+          "lemma": "evening",
+          "pos": "noun",
+          "phonetic": "/ˈiːvnɪŋ/",
+          "meanings": [{ "translation": "sera", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["hello", "name", "meet", "from", "book"],
+  "grammarFocus": ["to-be", "can"]
+}

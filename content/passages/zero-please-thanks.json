@@ -1,0 +1,86 @@
+{
+  "id": "zero-please-thanks",
+  "type": "passage",
+  "level": "ZERO",
+  "title": "Please and thank you",
+  "titleIt": "Per favore e grazie",
+  "description": "A polite exchange in a shop.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "A coffee, please.",
+      "translation": "Un caffè, per favore.",
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "coffee",
+          "lemma": "coffee",
+          "pos": "noun",
+          "phonetic": "/ˈkɒfi/",
+          "meanings": [{ "translation": "caffè", "partOfSpeech": "noun" }]
+        },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "please",
+          "lemma": "please",
+          "pos": "adverb",
+          "phonetic": "/pliːz/",
+          "meanings": [{ "translation": "per favore", "partOfSpeech": "adverb" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Thank you.",
+      "translation": "Grazie.",
+      "tokens": [
+        {
+          "word": "Thank",
+          "lemma": "thank",
+          "pos": "verb",
+          "phonetic": "/θæŋk/",
+          "meanings": [{ "translation": "ringraziare", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [{ "translation": "tu / voi", "partOfSpeech": "pronoun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "You're welcome.",
+      "translation": "Prego.",
+      "tokens": [
+        {
+          "word": "You're",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/jɔː/",
+          "meanings": [{ "translation": "tu sei / voi siete", "partOfSpeech": "verb", "note": "contrazione di you are" }]
+        },
+        {
+          "word": "welcome",
+          "lemma": "welcome",
+          "pos": "adjective",
+          "phonetic": "/ˈwelkəm/",
+          "meanings": [{ "translation": "benvenuto; in questa frase: prego", "partOfSpeech": "adjective" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["please", "thank", "welcome"],
+  "grammarFocus": ["polite-phrases"]
+}

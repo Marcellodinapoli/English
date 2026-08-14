@@ -1,0 +1,33 @@
+{
+  "id": "write-c1-critique",
+  "title": "Write a critique",
+  "titleIt": "Scrivi una critica",
+  "level": "C1",
+  "description": "Critique a claim with concession, rebuttal, and academic tone.",
+  "estimatedMinutes": 18,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write a short critique (6–8 sentences) of a policy or research claim.",
+      "promptIt": "Scrivi una breve critica (6–8 frasi) di una politica o di una tesi di ricerca.",
+      "minWords": 70,
+      "hints": [
+        "Admittedly...",
+        "We can concede...",
+        "Nevertheless...",
+        "The analysis suggests...",
+        "Claims remain tentative..."
+      ]
+    },
+    {
+      "id": "w2",
+      "prompt": "Transform two informal verb phrases into nominalised academic forms.",
+      "promptIt": "Trasforma due frasi verbali informali in forme nominalizzate accademiche.",
+      "minWords": 10,
+      "hints": [
+        "they analysed → the analysis of",
+        "sales improved → an improvement in sales"
+      ]
+    }
+  ]
+}

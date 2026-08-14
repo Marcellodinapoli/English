@@ -1,0 +1,83 @@
+{
+  "passageId": "a2-getting-there",
+  "level": "A2",
+  "questions": [
+    {
+      "id": "a2-getting-there-main",
+      "passageId": "a2-getting-there",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Getting there",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Getting there",
+      "explanation": "The passage is about: Getting there — A short text about a planned train journey.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A2"
+    },
+    {
+      "id": "a2-getting-there-detail",
+      "passageId": "a2-getting-there",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "I am going to take the train.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "I am going to take the train.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    },
+    {
+      "id": "a2-getting-there-tf",
+      "passageId": "a2-getting-there",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"My ticket is ready.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A2"
+    },
+    {
+      "id": "a2-getting-there-short",
+      "passageId": "a2-getting-there",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"train\". Type that focus item.",
+      "correctAnswer": "train",
+      "explanation": "\"train\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A2"
+    },
+    {
+      "id": "a2-getting-there-detail2",
+      "passageId": "a2-getting-there",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "The journey takes about two hours.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "The journey takes about two hours.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    }
+  ]
+}

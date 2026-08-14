@@ -1,0 +1,39 @@
+{
+  "id": "grammar-a1-present-simple",
+  "level": "A1",
+  "title": "Present simple — habits",
+  "titleIt": "Present simple — abitudini",
+  "examples": ["I wake up at seven.", "She goes to work.", "We eat dinner at eight."],
+  "pattern": "I/you/we/they + verb · he/she/it + verb-s/es",
+  "explanation": "Use the present simple for habits and daily routines. Add -s or -es with he, she, it.",
+  "explanationIt": "Usa il present simple per abitudini e routine. Aggiungi -s o -es con he, she, it.",
+  "realUse": [
+    "I study English every day.",
+    "He works in a shop.",
+    "Do you wake up early?"
+  ],
+  "relatedErrorTypes": ["present_simple_s", "present_simple_base"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["She goes to work.", "She go to work.", "She going to work.", "She to go work."],
+      "answer": "She goes to work.",
+      "explanation": "With she we add -es to go → goes."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "I ____ lunch at one.",
+      "answer": "eat"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: He wake up at six.",
+      "options": ["He wakes up at six.", "He wake up at six.", "He waking up at six.", "He is wake up at six."],
+      "answer": "He wakes up at six."
+    }
+  ]
+}

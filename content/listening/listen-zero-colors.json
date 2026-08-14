@@ -1,0 +1,44 @@
+{
+  "id": "listen-zero-colors",
+  "title": "Colors",
+  "titleIt": "Colori",
+  "level": "ZERO",
+  "description": "Listen and recognise basic colour words.",
+  "audioText": "It is red. The sky is blue. The grass is green. The sun is yellow.",
+  "estimatedMinutes": 5,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What colour do you hear?",
+      "promptIt": "Quale colore senti?",
+      "transcript": "It is red.",
+      "options": ["red", "blue", "green", "yellow"],
+      "answer": "red"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What colour is the sky?",
+      "promptIt": "Di che colore è il cielo?",
+      "transcript": "The sky is blue.",
+      "options": ["blue", "red", "green", "yellow"],
+      "answer": "blue"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: The grass is ____.",
+      "transcript": "The grass is green.",
+      "answer": "green",
+      "explanation": "Green means verde."
+    },
+    {
+      "id": "l4",
+      "type": "dictation",
+      "prompt": "Write what you hear.",
+      "transcript": "The sun is yellow.",
+      "answer": "The sun is yellow."
+    }
+  ]
+}

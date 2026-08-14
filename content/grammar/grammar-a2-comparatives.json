@@ -1,0 +1,39 @@
+{
+  "id": "grammar-a2-comparatives",
+  "level": "A2",
+  "title": "Comparatives — cheaper / bigger",
+  "titleIt": "Comparativi — cheaper / bigger",
+  "examples": ["This shop is cheaper.", "London is bigger than Milan.", "Today is warmer than yesterday."],
+  "pattern": "adjective + -er + than  |  more + adjective + than",
+  "explanation": "Use comparatives to compare two things. Add -er for short adjectives (cheap → cheaper). Use more for longer adjectives.",
+  "explanationIt": "Usa i comparativi per confrontare due cose. Aggiungi -er agli aggettivi brevi (cheap → cheaper). Usa more per aggettivi più lunghi.",
+  "realUse": [
+    "This bread is cheaper than that one.",
+    "The shop is closer than the supermarket.",
+    "Yesterday was colder than today."
+  ],
+  "relatedErrorTypes": ["comparatives"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["This milk is cheaper than that one.", "This milk is more cheap than that one.", "This milk is cheap than that one.", "This milk is the cheaper than that one."],
+      "answer": "This milk is cheaper than that one.",
+      "explanation": "Cheap → cheaper (add -er for short adjectives)."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "London is ____ than my town.",
+      "answer": "bigger"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: This shop is more cheap.",
+      "options": ["This shop is cheaper.", "This shop is more cheaper.", "This shop is cheap.", "This shop is the cheap."],
+      "answer": "This shop is cheaper."
+    }
+  ]
+}

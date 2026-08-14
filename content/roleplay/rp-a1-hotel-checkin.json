@@ -1,0 +1,27 @@
+{
+  "id": "rp-a1-hotel-checkin",
+  "title": "Hotel check-in",
+  "titleIt": "Check-in in hotel",
+  "category": "travel",
+  "level": "A1",
+  "description": "Check into a hotel, confirm your reservation, and ask a simple question.",
+  "descriptionIt": "Fai il check-in, conferma la prenotazione e fai una domanda semplice.",
+  "setting": "Hotel reception desk. You just arrived with your luggage.",
+  "yourRole": "Guest",
+  "aiRole": "Receptionist",
+  "aiCharacter": "Professional receptionist named Claire. Patient with learners.",
+  "goals": [
+    "Say you have a reservation",
+    "Give your name",
+    "Ask about breakfast or Wi‑Fi"
+  ],
+  "openingLine": "Good evening! Welcome to Riverside Hotel. How can I help you?",
+  "suggestedPhrases": [
+    "I have a reservation.",
+    "My name is ...",
+    "What time is breakfast?",
+    "Is there Wi‑Fi?"
+  ],
+  "maxTurns": 10,
+  "estimatedMinutes": 10
+}

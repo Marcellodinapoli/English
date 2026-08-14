@@ -1,0 +1,83 @@
+{
+  "passageId": "a2-yesterday",
+  "level": "A2",
+  "questions": [
+    {
+      "id": "a2-yesterday-main",
+      "passageId": "a2-yesterday",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Yesterday",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Yesterday",
+      "explanation": "The passage is about: Yesterday — A short text about a past day and a trip to the shop.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A2"
+    },
+    {
+      "id": "a2-yesterday-detail",
+      "passageId": "a2-yesterday",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Yesterday I went to the shop.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Yesterday I went to the shop.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    },
+    {
+      "id": "a2-yesterday-tf",
+      "passageId": "a2-yesterday",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"I bought milk and bread.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A2"
+    },
+    {
+      "id": "a2-yesterday-short",
+      "passageId": "a2-yesterday",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"yesterday\". Type that focus item.",
+      "correctAnswer": "yesterday",
+      "explanation": "\"yesterday\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A2"
+    },
+    {
+      "id": "a2-yesterday-detail2",
+      "passageId": "a2-yesterday",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "The bread was cheaper than at the supermarket.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "The bread was cheaper than at the supermarket.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    }
+  ]
+}

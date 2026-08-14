@@ -1,0 +1,102 @@
+{
+  "id": "b1-u2-l1",
+  "unitId": "b1-u2",
+  "levelId": "B1",
+  "title": "Have you ever...?",
+  "titleIt": "Hai mai...?",
+  "description": "Ask and answer about life experiences with the Present Perfect.",
+  "estimatedMinutes": 14,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "b1-have-you-ever", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about life experiences",
+    "body": "Learn to ask Have you ever...? and answer with ever, never, and already.",
+    "bodyIt": "Impara a chiedere Have you ever...? e a rispondere con ever, never e already.",
+    "objectives": [
+      "Form Have you ever + past participle",
+      "Use ever, never, and already",
+      "Read a short text about experiences"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "ever",
+      "lemma": "ever",
+      "translation": "mai (in domande/esperienze)",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈevə/",
+      "example": "Have you ever travelled alone?",
+      "exampleTranslation": "Hai mai viaggiato da solo?"
+    },
+    {
+      "word": "never",
+      "lemma": "never",
+      "translation": "mai / non... mai",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈnevə/",
+      "example": "I have never tried sushi.",
+      "exampleTranslation": "Non ho mai provato il sushi."
+    },
+    {
+      "word": "already",
+      "lemma": "already",
+      "translation": "già",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ɔːlˈredi/",
+      "example": "I have already visited London.",
+      "exampleTranslation": "Ho già visitato Londra."
+    },
+    {
+      "word": "experience",
+      "lemma": "experience",
+      "translation": "esperienza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪkˈspɪəriəns/",
+      "example": "It was an amazing experience.",
+      "exampleTranslation": "È stata un'esperienza fantastica."
+    }
+  ],
+  "readingRef": "b1-have-you-ever",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "promptIt": "Scegli la frase corretta.",
+      "options": [
+        "Have you ever travelled alone?",
+        "Have you ever travel alone?",
+        "Did you ever travelling alone?",
+        "Have you ever travelled alone ever?"
+      ],
+      "answer": "Have you ever travelled alone?",
+      "explanation": "Have you ever + past participle asks about life experience."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "I have ____ tried skydiving.",
+      "promptIt": "Completa: I have ____ tried skydiving.",
+      "answer": "never",
+      "explanation": "Never means at no time in your life."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What does already mean?",
+      "promptIt": "Cosa significa already?",
+      "options": ["già", "mai", "ancora", "sempre"],
+      "answer": "già",
+      "explanation": "Already means something happened before now, often sooner than expected."
+    }
+  ],
+  "review": {
+    "summary": ["Have you ever...?", "ever / never / already", "Present Perfect for experience"],
+    "tip": "Ask a friend three Have you ever...? questions about travel or food."
+  }
+}

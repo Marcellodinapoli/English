@@ -1,0 +1,83 @@
+{
+  "passageId": "c1-presentation",
+  "level": "C1",
+  "questions": [
+    {
+      "id": "c1-presentation-main",
+      "passageId": "c1-presentation",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Presenting ideas",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Presenting ideas",
+      "explanation": "The passage is about: Presenting ideas — A short professional presentation excerpt on register and clarity.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "C1"
+    },
+    {
+      "id": "c1-presentation-detail",
+      "passageId": "c1-presentation",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Let me outline the three key points of today's presentation.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Let me outline the three key points of today's presentation.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    },
+    {
+      "id": "c1-presentation-tf",
+      "passageId": "c1-presentation",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"Rarely have we seen such a compelling case for strategic change.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "C1"
+    },
+    {
+      "id": "c1-presentation-short",
+      "passageId": "c1-presentation",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"outline\". Type that focus item.",
+      "correctAnswer": "outline",
+      "explanation": "\"outline\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "C1"
+    },
+    {
+      "id": "c1-presentation-detail2",
+      "passageId": "c1-presentation",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "The key takeaway is that register and nuance matter as much as content.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "The key takeaway is that register and nuance matter as much as content.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    }
+  ]
+}

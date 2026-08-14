@@ -1,0 +1,48 @@
+{
+  "id": "listen-b2-trends",
+  "title": "Trends and change",
+  "titleIt": "Tendenze e cambiamento",
+  "level": "B2",
+  "description": "Listen to a short report on workplace trends.",
+  "audioText": "Remote work has gradually become a major trend. According to recent surveys, a clear shift towards hybrid models has been reported.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What has become a major trend?",
+      "promptIt": "Cosa è diventato una tendenza importante?",
+      "transcript": "Remote work has gradually become a major trend.",
+      "options": [
+        "Remote work",
+        "Night shifts",
+        "Travel bans",
+        "Cash payments"
+      ],
+      "answer": "Remote work"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What kind of shift has been reported?",
+      "promptIt": "Che tipo di spostamento è stato riportato?",
+      "transcript": "A clear shift towards hybrid models has been reported.",
+      "options": [
+        "towards hybrid models",
+        "towards longer hours",
+        "towards lower pay",
+        "towards fewer meetings"
+      ],
+      "answer": "towards hybrid models"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: Remote work has ____ become a major trend.",
+      "promptIt": "Completa: Remote work has ____ become a major trend.",
+      "transcript": "Remote work has gradually become a major trend.",
+      "answer": "gradually",
+      "explanation": "Gradually means slowly over time."
+    }
+  ]
+}

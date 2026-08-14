@@ -1,0 +1,292 @@
+{
+  "id": "a2-last-weekend",
+  "type": "passage",
+  "level": "A2",
+  "title": "Last weekend",
+  "titleIt": "Il weekend scorso",
+  "description": "A short text about past weekend activities.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Last weekend I met my friends on Saturday.",
+      "translation": "Il weekend scorso ho incontrato i miei amici sabato.",
+      "tokens": [
+        {
+          "word": "Last",
+          "lemma": "last",
+          "pos": "adjective",
+          "phonetic": "/lɑːst/",
+          "meanings": [
+            {
+              "translation": "scorso / ultimo",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "weekend",
+          "lemma": "weekend",
+          "pos": "noun",
+          "phonetic": "/ˌwiːkˈend/",
+          "meanings": [
+            {
+              "translation": "fine settimana",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "met",
+          "lemma": "meet",
+          "pos": "verb",
+          "phonetic": "/met/",
+          "meanings": [
+            {
+              "translation": "incontrai / ho incontrato",
+              "partOfSpeech": "verb",
+              "note": "Past Simple di meet"
+            }
+          ]
+        },
+        {
+          "word": "my",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [
+            {
+              "translation": "mio / mia",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "friends",
+          "lemma": "friend",
+          "pos": "noun",
+          "phonetic": "/frendz/",
+          "meanings": [
+            {
+              "translation": "amici",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "pos": "preposition",
+          "phonetic": "/ɒn/",
+          "meanings": [
+            {
+              "translation": "su / a",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "Saturday",
+          "lemma": "Saturday",
+          "pos": "noun",
+          "phonetic": "/ˈsætədeɪ/",
+          "meanings": [
+            {
+              "translation": "sabato",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "We watched a film at home.",
+      "translation": "Abbiamo guardato un film a casa.",
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "watched",
+          "lemma": "watch",
+          "pos": "verb",
+          "phonetic": "/wɒtʃt/",
+          "meanings": [
+            {
+              "translation": "guardai / ho guardato",
+              "partOfSpeech": "verb",
+              "note": "Past Simple di watch"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "film",
+          "lemma": "film",
+          "pos": "noun",
+          "phonetic": "/fɪlm/",
+          "meanings": [
+            {
+              "translation": "film",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "pos": "preposition",
+          "phonetic": "/æt/",
+          "meanings": [
+            {
+              "translation": "a / alle",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "home",
+          "lemma": "home",
+          "pos": "noun",
+          "phonetic": "/həʊm/",
+          "meanings": [
+            {
+              "translation": "casa",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "On Sunday afternoon I relaxed.",
+      "translation": "Domenica pomeriggio mi sono rilassato.",
+      "tokens": [
+        {
+          "word": "On",
+          "lemma": "on",
+          "pos": "preposition",
+          "phonetic": "/ɒn/",
+          "meanings": [
+            {
+              "translation": "di / il",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "Sunday",
+          "lemma": "Sunday",
+          "pos": "noun",
+          "phonetic": "/ˈsʌndeɪ/",
+          "meanings": [
+            {
+              "translation": "domenica",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "afternoon",
+          "lemma": "afternoon",
+          "pos": "noun",
+          "phonetic": "/ˌɑːftəˈnuːn/",
+          "meanings": [
+            {
+              "translation": "pomeriggio",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "relaxed",
+          "lemma": "relax",
+          "pos": "verb",
+          "phonetic": "/rɪˈlækst/",
+          "meanings": [
+            {
+              "translation": "mi sono rilassato",
+              "partOfSpeech": "verb",
+              "note": "Past Simple di relax"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "weekend",
+    "met",
+    "watched",
+    "relaxed"
+  ],
+  "grammarFocus": [
+    "past-simple"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "passageId": "b1-travel-stories",
+  "level": "B1",
+  "questions": [
+    {
+      "id": "b1-travel-stories-main",
+      "passageId": "b1-travel-stories",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Travel stories",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Travel stories",
+      "explanation": "The passage is about: Travel stories — A short travel story mixing experience and past events.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "B1"
+    },
+    {
+      "id": "b1-travel-stories-detail",
+      "passageId": "b1-travel-stories",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "I have travelled abroad twice.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "I have travelled abroad twice.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B1"
+    },
+    {
+      "id": "b1-travel-stories-tf",
+      "passageId": "b1-travel-stories",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"Last year we missed the connecting flight.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "B1"
+    },
+    {
+      "id": "b1-travel-stories-short",
+      "passageId": "b1-travel-stories",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"abroad\". Type that focus item.",
+      "correctAnswer": "abroad",
+      "explanation": "\"abroad\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "B1"
+    },
+    {
+      "id": "b1-travel-stories-detail2",
+      "passageId": "b1-travel-stories",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "After that we explored the old town on foot.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "After that we explored the old town on foot.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B1"
+    }
+  ]
+}

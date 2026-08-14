@@ -1,0 +1,39 @@
+{
+  "id": "grammar-c1-inversion",
+  "level": "C1",
+  "title": "Inversion — Rarely have we...",
+  "titleIt": "Inversione — Rarely have we...",
+  "examples": ["Rarely have we seen such progress.", "Never have I heard a more compelling argument.", "Not only did she outline the plan, but she also answered every question."],
+  "pattern": "Negative adverb + auxiliary + subject + main verb",
+  "explanation": "In formal English, negative adverbs at the start of a sentence trigger inversion: the auxiliary comes before the subject.",
+  "explanationIt": "In inglese formale, gli avverbi negativi all'inizio della frase causano l'inversione: l'ausiliare precede il soggetto.",
+  "realUse": [
+    "Rarely have we seen such a compelling case.",
+    "Never before has the board approved a change so quickly.",
+    "Not only does register matter, but nuance does too."
+  ],
+  "relatedErrorTypes": ["inversion"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct formal sentence.",
+      "options": ["Rarely have we seen such progress.", "Rarely we have seen such progress.", "Rarely have seen we such progress.", "We rarely have seen such progress."],
+      "answer": "Rarely have we seen such progress.",
+      "explanation": "After Rarely, invert: have + subject (we)."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "Never ____ I heard a more compelling argument.",
+      "answer": "have"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: Not only she outlined the plan, but she answered questions.",
+      "options": ["Not only did she outline the plan, but she also answered questions.", "Not only she did outline the plan, but she answered questions.", "Not only outlined she the plan, but she answered questions.", "Not only has outline she the plan, but she answered questions."],
+      "answer": "Not only did she outline the plan, but she also answered questions."
+    }
+  ]
+}

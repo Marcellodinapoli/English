@@ -1,0 +1,24 @@
+{
+  "id": "write-b1-email",
+  "title": "Write a work email",
+  "titleIt": "Scrivi un'email di lavoro",
+  "level": "B1",
+  "description": "Short writing tasks for professional email communication.",
+  "estimatedMinutes": 10,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write a short email to a colleague sharing your opinion on a project idea.",
+      "promptIt": "Scrivi una breve email a un collega con la tua opinione su un'idea di progetto.",
+      "minWords": 20,
+      "hints": ["In my opinion...", "I agree that...", "However, I think..."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write one sentence about a deadline using the Present Perfect.",
+      "promptIt": "Scrivi una frase su una scadenza usando il Present Perfect.",
+      "minWords": 6,
+      "hints": ["We have finished...", "I have worked on...", "The deadline is..."]
+    }
+  ]
+}

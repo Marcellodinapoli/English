@@ -1,0 +1,314 @@
+{
+  "id": "b1-travel-stories",
+  "type": "passage",
+  "level": "B1",
+  "title": "Travel stories",
+  "titleIt": "Storie di viaggio",
+  "description": "A short travel story mixing experience and past events.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "I have travelled abroad twice.",
+      "translation": "Ho viaggiato all'estero due volte.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæv/",
+          "meanings": [
+            {
+              "translation": "ho / abbiamo",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "travelled",
+          "lemma": "travel",
+          "pos": "verb",
+          "phonetic": "/ˈtrævld/",
+          "meanings": [
+            {
+              "translation": "viaggiato",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "abroad",
+          "lemma": "abroad",
+          "pos": "adverb",
+          "phonetic": "/əˈbrɔːd/",
+          "meanings": [
+            {
+              "translation": "all'estero",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "twice",
+          "lemma": "twice",
+          "pos": "adverb",
+          "phonetic": "/twaɪs/",
+          "meanings": [
+            {
+              "translation": "due volte",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Last year we missed the connecting flight.",
+      "translation": "L'anno scorso abbiamo perso il volo di coincidenza.",
+      "tokens": [
+        {
+          "word": "Last",
+          "lemma": "last",
+          "pos": "adjective",
+          "phonetic": "/lɑːst/",
+          "meanings": [
+            {
+              "translation": "scorso / ultimo",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "year",
+          "lemma": "year",
+          "pos": "noun",
+          "phonetic": "/jɪə/",
+          "meanings": [
+            {
+              "translation": "anno",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "missed",
+          "lemma": "miss",
+          "pos": "verb",
+          "phonetic": "/mɪst/",
+          "meanings": [
+            {
+              "translation": "persi / abbiamo perso",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "connecting",
+          "lemma": "connect",
+          "pos": "adjective",
+          "phonetic": "/kəˈnektɪŋ/",
+          "meanings": [
+            {
+              "translation": "di coincidenza",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "flight",
+          "lemma": "flight",
+          "pos": "noun",
+          "phonetic": "/flaɪt/",
+          "meanings": [
+            {
+              "translation": "volo",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "After that we explored the old town on foot.",
+      "translation": "Dopo di che abbiamo esplorato il centro storico a piedi.",
+      "tokens": [
+        {
+          "word": "After",
+          "lemma": "after",
+          "pos": "preposition",
+          "phonetic": "/ˈɑːftə/",
+          "meanings": [
+            {
+              "translation": "dopo",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "pos": "pronoun",
+          "phonetic": "/ðæt/",
+          "meanings": [
+            {
+              "translation": "quello / ciò",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "explored",
+          "lemma": "explore",
+          "pos": "verb",
+          "phonetic": "/ɪkˈsplɔːd/",
+          "meanings": [
+            {
+              "translation": "abbiamo esplorato",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "old",
+          "lemma": "old",
+          "pos": "adjective",
+          "phonetic": "/əʊld/",
+          "meanings": [
+            {
+              "translation": "vecchio / antico",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "town",
+          "lemma": "town",
+          "pos": "noun",
+          "phonetic": "/taʊn/",
+          "meanings": [
+            {
+              "translation": "città / centro",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "pos": "preposition",
+          "phonetic": "/ɒn/",
+          "meanings": [
+            {
+              "translation": "su / a",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "foot",
+          "lemma": "foot",
+          "pos": "noun",
+          "phonetic": "/fʊt/",
+          "meanings": [
+            {
+              "translation": "piede",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "abroad",
+    "missed",
+    "explore",
+    "memorable"
+  ],
+  "grammarFocus": [
+    "present-perfect",
+    "past-simple"
+  ]
+}

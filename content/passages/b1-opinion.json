@@ -1,0 +1,270 @@
+{
+  "id": "b1-opinion",
+  "type": "passage",
+  "level": "B1",
+  "title": "My opinion",
+  "titleIt": "La mia opinione",
+  "description": "A short text about work opinions and team collaboration.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "In my opinion, flexible hours help people work better.",
+      "translation": "Secondo me, gli orari flessibili aiutano le persone a lavorare meglio.",
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "pos": "preposition",
+          "phonetic": "/ɪn/",
+          "meanings": [{ "translation": "in", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "my",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "opinion",
+          "lemma": "opinion",
+          "pos": "noun",
+          "phonetic": "/əˈpɪnjən/",
+          "meanings": [{ "translation": "opinione", "partOfSpeech": "noun" }]
+        },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "flexible",
+          "lemma": "flexible",
+          "pos": "adjective",
+          "phonetic": "/ˈfleksɪbl/",
+          "meanings": [{ "translation": "flessibile", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "hours",
+          "lemma": "hour",
+          "pos": "noun",
+          "phonetic": "/aʊəz/",
+          "meanings": [{ "translation": "ore", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "help",
+          "lemma": "help",
+          "pos": "verb",
+          "phonetic": "/help/",
+          "meanings": [{ "translation": "aiutare", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "people",
+          "lemma": "people",
+          "pos": "noun",
+          "phonetic": "/ˈpiːpl/",
+          "meanings": [{ "translation": "persone", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "work",
+          "lemma": "work",
+          "pos": "verb",
+          "phonetic": "/wɜːk/",
+          "meanings": [{ "translation": "lavorare", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "better",
+          "lemma": "well",
+          "pos": "adverb",
+          "phonetic": "/ˈbetə/",
+          "meanings": [{ "translation": "meglio", "partOfSpeech": "adverb" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "My colleague agrees, but our manager has a different view.",
+      "translation": "Il mio collega è d'accordo, ma il nostro manager ha un'opinione diversa.",
+      "tokens": [
+        {
+          "word": "My",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "colleague",
+          "lemma": "colleague",
+          "pos": "noun",
+          "phonetic": "/ˈkɒliːɡ/",
+          "meanings": [{ "translation": "collega", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "agrees",
+          "lemma": "agree",
+          "pos": "verb",
+          "phonetic": "/əˈɡriːz/",
+          "meanings": [{ "translation": "è d'accordo", "partOfSpeech": "verb" }]
+        },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "but",
+          "lemma": "but",
+          "pos": "conjunction",
+          "phonetic": "/bʌt/",
+          "meanings": [{ "translation": "ma", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "our",
+          "lemma": "our",
+          "pos": "determiner",
+          "phonetic": "/aʊə/",
+          "meanings": [{ "translation": "nostro / nostra", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "manager",
+          "lemma": "manager",
+          "pos": "noun",
+          "phonetic": "/ˈmænɪdʒə/",
+          "meanings": [{ "translation": "manager / responsabile", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæz/",
+          "meanings": [{ "translation": "ha", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "different",
+          "lemma": "different",
+          "pos": "adjective",
+          "phonetic": "/ˈdɪfrənt/",
+          "meanings": [{ "translation": "diverso", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "view",
+          "lemma": "view",
+          "pos": "noun",
+          "phonetic": "/vjuː/",
+          "meanings": [{ "translation": "opinione / punto di vista", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "We have finished one project, but the deadline for the next one is tight.",
+      "translation": "Abbiamo finito un progetto, ma la scadenza per il prossimo è stretta.",
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [{ "translation": "noi", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæv/",
+          "meanings": [{ "translation": "abbiamo", "partOfSpeech": "verb", "note": "Present Perfect" }]
+        },
+        {
+          "word": "finished",
+          "lemma": "finish",
+          "pos": "verb",
+          "phonetic": "/ˈfɪnɪʃt/",
+          "meanings": [{ "translation": "finito", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "pos": "determiner",
+          "phonetic": "/wʌn/",
+          "meanings": [{ "translation": "uno", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "pos": "noun",
+          "phonetic": "/ˈprɒdʒekt/",
+          "meanings": [{ "translation": "progetto", "partOfSpeech": "noun" }]
+        },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "but",
+          "lemma": "but",
+          "pos": "conjunction",
+          "phonetic": "/bʌt/",
+          "meanings": [{ "translation": "ma", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "deadline",
+          "lemma": "deadline",
+          "pos": "noun",
+          "phonetic": "/ˈdedlaɪn/",
+          "meanings": [{ "translation": "scadenza", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "pos": "preposition",
+          "phonetic": "/fɔː/",
+          "meanings": [{ "translation": "per", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "next",
+          "lemma": "next",
+          "pos": "adjective",
+          "phonetic": "/nekst/",
+          "meanings": [{ "translation": "prossimo", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "pos": "pronoun",
+          "phonetic": "/wʌn/",
+          "meanings": [{ "translation": "uno", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "tight",
+          "lemma": "tight",
+          "pos": "adjective",
+          "phonetic": "/taɪt/",
+          "meanings": [{ "translation": "stretto / serrato", "partOfSpeech": "adjective" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["opinion", "agree", "colleague", "deadline", "project"],
+  "grammarFocus": ["present-perfect", "opinion-phrases"]
+}

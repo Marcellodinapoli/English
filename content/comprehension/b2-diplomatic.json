@@ -1,0 +1,83 @@
+{
+  "passageId": "b2-diplomatic",
+  "level": "B2",
+  "questions": [
+    {
+      "id": "b2-diplomatic-main",
+      "passageId": "b2-diplomatic",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Diplomatic language",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Diplomatic language",
+      "explanation": "The passage is about: Diplomatic language — A workplace dialogue style text using soft suggestions.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "B2"
+    },
+    {
+      "id": "b2-diplomatic-detail",
+      "passageId": "b2-diplomatic",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "I would suggest reconsidering the deadline slightly.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "I would suggest reconsidering the deadline slightly.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    },
+    {
+      "id": "b2-diplomatic-tf",
+      "passageId": "b2-diplomatic",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"It might be better to check the figures before we confirm.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "B2"
+    },
+    {
+      "id": "b2-diplomatic-short",
+      "passageId": "b2-diplomatic",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"suggest\". Type that focus item.",
+      "correctAnswer": "suggest",
+      "explanation": "\"suggest\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "B2"
+    },
+    {
+      "id": "b2-diplomatic-detail2",
+      "passageId": "b2-diplomatic",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "That seems to be a reasonable compromise for both sides.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "That seems to be a reasonable compromise for both sides.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    }
+  ]
+}

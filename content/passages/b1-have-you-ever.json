@@ -1,0 +1,255 @@
+{
+  "id": "b1-have-you-ever",
+  "type": "passage",
+  "level": "B1",
+  "title": "Have you ever...?",
+  "titleIt": "Hai mai...?",
+  "description": "A short text about life experiences with the Present Perfect.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Have you ever travelled alone?",
+      "translation": "Hai mai viaggiato da solo?",
+      "tokens": [
+        {
+          "word": "Have",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæv/",
+          "meanings": [
+            {
+              "translation": "avere",
+              "partOfSpeech": "verb",
+              "note": "Present Perfect"
+            }
+          ]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [
+            {
+              "translation": "tu / voi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "ever",
+          "lemma": "ever",
+          "pos": "adverb",
+          "phonetic": "/ˈevə/",
+          "meanings": [
+            {
+              "translation": "mai",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "travelled",
+          "lemma": "travel",
+          "pos": "verb",
+          "phonetic": "/ˈtrævld/",
+          "meanings": [
+            {
+              "translation": "viaggiato",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "alone",
+          "lemma": "alone",
+          "pos": "adverb",
+          "phonetic": "/əˈləʊn/",
+          "meanings": [
+            {
+              "translation": "da solo",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I have never tried skydiving.",
+      "translation": "Non ho mai provato il paracadutismo.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæv/",
+          "meanings": [
+            {
+              "translation": "ho / abbiamo",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "never",
+          "lemma": "never",
+          "pos": "adverb",
+          "phonetic": "/ˈnevə/",
+          "meanings": [
+            {
+              "translation": "mai / non... mai",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "tried",
+          "lemma": "try",
+          "pos": "verb",
+          "phonetic": "/traɪd/",
+          "meanings": [
+            {
+              "translation": "provato",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "skydiving",
+          "lemma": "skydive",
+          "pos": "noun",
+          "phonetic": "/ˈskaɪdaɪvɪŋ/",
+          "meanings": [
+            {
+              "translation": "paracadutismo",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "I have already visited London twice.",
+      "translation": "Ho già visitato Londra due volte.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæv/",
+          "meanings": [
+            {
+              "translation": "ho / abbiamo",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "already",
+          "lemma": "already",
+          "pos": "adverb",
+          "phonetic": "/ɔːlˈredi/",
+          "meanings": [
+            {
+              "translation": "già",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "visited",
+          "lemma": "visit",
+          "pos": "verb",
+          "phonetic": "/ˈvɪzɪtɪd/",
+          "meanings": [
+            {
+              "translation": "visitato",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "London",
+          "lemma": "London",
+          "pos": "noun",
+          "phonetic": "/ˈlʌndən/",
+          "meanings": [
+            {
+              "translation": "Londra",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "twice",
+          "lemma": "twice",
+          "pos": "adverb",
+          "phonetic": "/twaɪs/",
+          "meanings": [
+            {
+              "translation": "due volte",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "ever",
+    "never",
+    "already",
+    "experience"
+  ],
+  "grammarFocus": [
+    "present-perfect",
+    "ever-never"
+  ]
+}

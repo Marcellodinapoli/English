@@ -1,0 +1,34 @@
+{
+  "id": "speak-a2-hobbies",
+  "title": "Talk about hobbies",
+  "titleIt": "Parla di hobby",
+  "level": "A2",
+  "description": "Practise talking about free time and what you enjoy.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "I enjoy reading in the evening.",
+      "hint": "enjoy + -ing"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "My favourite hobby is cooking.",
+      "hint": "favourite hobby is..."
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Say two hobbies you enjoy.",
+      "promptIt": "Di' due hobby che ti piacciono.",
+      "exampleAnswer": "I enjoy cooking. I also like going to the cinema with friends.",
+      "hint": "Use enjoy + -ing"
+    }
+  ]
+}

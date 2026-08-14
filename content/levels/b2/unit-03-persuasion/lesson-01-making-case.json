@@ -1,0 +1,113 @@
+{
+  "id": "b2-u3-l1",
+  "unitId": "b2-u3",
+  "levelId": "B2",
+  "title": "Making a case",
+  "titleIt": "Sostenere una tesi",
+  "description": "Build a clear argument with claims, reasons, and evidence.",
+  "estimatedMinutes": 16,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "b2-making-case",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Make a persuasive case",
+    "body": "Practise stating a claim, supporting it with evidence, and signalling your conclusion.",
+    "bodyIt": "Pratica a enunciare una tesi, sostenerla con prove e segnalare la conclusione.",
+    "objectives": [
+      "State a clear claim",
+      "Support ideas with evidence",
+      "Signal cause, effect, and conclusion"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "claim",
+      "lemma": "claim",
+      "translation": "tesi / affermazione",
+      "partOfSpeech": "noun",
+      "phonetic": "/kleɪm/",
+      "example": "Her claim is supported by recent survey data.",
+      "exampleTranslation": "La sua tesi è supportata da recenti dati di sondaggio."
+    },
+    {
+      "word": "evidence",
+      "lemma": "evidence",
+      "translation": "prove / evidenza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈevɪdəns/",
+      "example": "We need stronger evidence before we decide.",
+      "exampleTranslation": "Ci servono prove più solide prima di decidere."
+    },
+    {
+      "word": "therefore",
+      "lemma": "therefore",
+      "translation": "pertanto",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈðeəfɔː/",
+      "example": "Demand has risen; therefore, we should expand.",
+      "exampleTranslation": "La domanda è aumentata; pertanto, dovremmo espanderci."
+    }
+  ],
+  "readingRef": "b2-making-case",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What is evidence?",
+      "promptIt": "Cos'è evidence?",
+      "options": [
+        "Facts that support a claim",
+        "A polite greeting",
+        "A travel delay",
+        "A type of grammar"
+      ],
+      "answer": "Facts that support a claim",
+      "explanation": "Evidence is information or facts used to support an argument."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Demand has risen; ____, we should expand.",
+      "promptIt": "Completa: Demand has risen; ____, we should expand.",
+      "answer": "therefore",
+      "explanation": "Therefore signals a logical conclusion."
+    }
+  ],
+  "review": {
+    "summary": [
+      "claim / evidence / therefore",
+      "Because / as a result",
+      "Building a short case"
+    ],
+    "tip": "Defend one workplace change with a claim, one reason, and one piece of evidence."
+  }
+}

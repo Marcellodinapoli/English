@@ -1,0 +1,69 @@
+{
+  "id": "C1",
+  "name": "C1",
+  "label": "Advanced",
+  "description": "Present ideas professionally and master register and nuance in English.",
+  "order": 5,
+  "units": [
+    {
+      "id": "c1-u1",
+      "levelId": "C1",
+      "title": "Professional English",
+      "titleIt": "Inglese professionale",
+      "description": "Deliver presentations and choose the right tone for every situation.",
+      "order": 1,
+      "lessons": [
+        {
+          "id": "c1-u1-l1",
+          "title": "Presenting ideas",
+          "order": 1
+        },
+        {
+          "id": "c1-u1-l2",
+          "title": "Register & nuance",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "c1-u2",
+      "levelId": "C1",
+      "title": "Argumentation",
+      "titleIt": "Argomentazione",
+      "description": "Structure arguments and respond to counterarguments with precision.",
+      "order": 2,
+      "lessons": [
+        {
+          "id": "c1-u2-l1",
+          "title": "Structuring an argument",
+          "order": 1
+        },
+        {
+          "id": "c1-u2-l2",
+          "title": "Counterarguments",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "c1-u3",
+      "levelId": "C1",
+      "title": "Advanced register",
+      "titleIt": "Registro avanzato",
+      "description": "Move confidently between formal, informal, and academic tone.",
+      "order": 3,
+      "lessons": [
+        {
+          "id": "c1-u3-l1",
+          "title": "Formal vs informal",
+          "order": 1
+        },
+        {
+          "id": "c1-u3-l2",
+          "title": "Academic tone",
+          "order": 2
+        }
+      ]
+    }
+  ]
+}

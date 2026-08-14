@@ -1,0 +1,55 @@
+{
+  "id": "grammar-c1-cleft",
+  "level": "C1",
+  "title": "Cleft sentences — It is ... that...",
+  "titleIt": "Frasi cleft — It is ... that...",
+  "examples": [
+    "It is the methodology that raises concern.",
+    "It was the data that convinced the panel.",
+    "It is clarity that audiences value most."
+  ],
+  "pattern": "It is/was + emphasised element + that/who + clause",
+  "explanation": "Cleft sentences highlight one piece of information by moving it into a focused It is... structure.",
+  "explanationIt": "Le frasi cleft evidenziano un'informazione spostandola in una struttura focalizzata It is...",
+  "realUse": [
+    "It is the quality of the evidence that determines the strength of the claim.",
+    "It was the premise that needed clarification.",
+    "It is the long-term impact that matters most."
+  ],
+  "relatedErrorTypes": [
+    "cleft"
+  ],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct cleft sentence.",
+      "options": [
+        "It is the quality of the evidence that determines the claim.",
+        "It the quality of the evidence determines the claim.",
+        "Is it the quality that the evidence determines claim.",
+        "It are the quality of the evidence that determine the claim."
+      ],
+      "answer": "It is the quality of the evidence that determines the claim.",
+      "explanation": "Use It is + focused noun phrase + that + clause."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "It ____ the lack of data that weakens the argument.",
+      "answer": "is"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: It was the results what convinced us.",
+      "options": [
+        "It was the results that convinced us.",
+        "It was the results what convinced us.",
+        "It were the results that convinced us.",
+        "It the results was that convinced us."
+      ],
+      "answer": "It was the results that convinced us."
+    }
+  ]
+}

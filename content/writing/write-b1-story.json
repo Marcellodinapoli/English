@@ -1,0 +1,24 @@
+{
+  "id": "write-b1-story",
+  "title": "Write a travel story",
+  "titleIt": "Scrivi una storia di viaggio",
+  "level": "B1",
+  "description": "Short writing tasks about experiences and travel stories.",
+  "estimatedMinutes": 10,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write a short paragraph about a memorable trip. Use Present Perfect and Past Simple.",
+      "promptIt": "Scrivi un breve paragrafo su un viaggio memorabile. Usa Present Perfect e Past Simple.",
+      "minWords": 25,
+      "hints": ["I have travelled...", "Last year we...", "After that we explored..."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write one Have you ever...? question and your own answer.",
+      "promptIt": "Scrivi una domanda Have you ever...? e la tua risposta.",
+      "minWords": 8,
+      "hints": ["Have you ever...?", "I have never...", "I have already..."]
+    }
+  ]
+}

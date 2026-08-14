@@ -1,0 +1,169 @@
+{
+  "id": "a2-yesterday",
+  "type": "passage",
+  "level": "A2",
+  "title": "Yesterday",
+  "titleIt": "Ieri",
+  "description": "A short text about a past day and a trip to the shop.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Yesterday I went to the shop.",
+      "translation": "Ieri sono andato al negozio.",
+      "tokens": [
+        {
+          "word": "Yesterday",
+          "lemma": "yesterday",
+          "pos": "adverb",
+          "phonetic": "/ˈjestədeɪ/",
+          "meanings": [{ "translation": "ieri", "partOfSpeech": "adverb" }]
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "went",
+          "lemma": "go",
+          "pos": "verb",
+          "phonetic": "/went/",
+          "meanings": [{ "translation": "andai / sono andato", "partOfSpeech": "verb", "note": "Past Simple di go" }]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [{ "translation": "a / verso", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "shop",
+          "lemma": "shop",
+          "pos": "noun",
+          "phonetic": "/ʃɒp/",
+          "meanings": [{ "translation": "negozio", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I bought milk and bread.",
+      "translation": "Ho comprato latte e pane.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "bought",
+          "lemma": "buy",
+          "pos": "verb",
+          "phonetic": "/bɔːt/",
+          "meanings": [{ "translation": "comprai / ho comprato", "partOfSpeech": "verb", "note": "Past Simple di buy" }]
+        },
+        {
+          "word": "milk",
+          "lemma": "milk",
+          "pos": "noun",
+          "phonetic": "/mɪlk/",
+          "meanings": [{ "translation": "latte", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "pos": "conjunction",
+          "phonetic": "/ænd/",
+          "meanings": [{ "translation": "e", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "bread",
+          "lemma": "bread",
+          "pos": "noun",
+          "phonetic": "/bred/",
+          "meanings": [{ "translation": "pane", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The bread was cheaper than at the supermarket.",
+      "translation": "Il pane costava meno che al supermercato.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "bread",
+          "lemma": "bread",
+          "pos": "noun",
+          "phonetic": "/bred/",
+          "meanings": [{ "translation": "pane", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/wɒz/",
+          "meanings": [{ "translation": "era", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "cheaper",
+          "lemma": "cheap",
+          "pos": "adjective",
+          "phonetic": "/ˈtʃiːpə/",
+          "meanings": [{ "translation": "più economico", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "pos": "conjunction",
+          "phonetic": "/ðæn/",
+          "meanings": [{ "translation": "di / che", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "pos": "preposition",
+          "phonetic": "/æt/",
+          "meanings": [{ "translation": "a / al", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "supermarket",
+          "lemma": "supermarket",
+          "pos": "noun",
+          "phonetic": "/ˈsuːpəmɑːkɪt/",
+          "meanings": [{ "translation": "supermercato", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["yesterday", "went", "bought", "cheaper"],
+  "grammarFocus": ["past-simple", "comparatives"]
+}

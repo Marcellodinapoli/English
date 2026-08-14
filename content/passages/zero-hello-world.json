@@ -1,0 +1,71 @@
+{
+  "id": "zero-hello-world",
+  "type": "passage",
+  "level": "ZERO",
+  "title": "Hello",
+  "titleIt": "Ciao",
+  "description": "A first greeting in English.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Hello.",
+      "translation": "Ciao.",
+      "tokens": [
+        {
+          "word": "Hello",
+          "lemma": "hello",
+          "pos": "interjection",
+          "phonetic": "/həˈləʊ/",
+          "meanings": [{ "translation": "ciao / salve", "partOfSpeech": "interjection" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Hi. My name is Anna.",
+      "translation": "Ciao. Mi chiamo Anna.",
+      "tokens": [
+        {
+          "word": "Hi",
+          "lemma": "hi",
+          "pos": "interjection",
+          "phonetic": "/haɪ/",
+          "meanings": [{ "translation": "ciao (informale)", "partOfSpeech": "interjection" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "My",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "name",
+          "lemma": "name",
+          "pos": "noun",
+          "phonetic": "/neɪm/",
+          "meanings": [{ "translation": "nome", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb", "note": "forma di to be" }]
+        },
+        {
+          "word": "Anna",
+          "lemma": "Anna",
+          "pos": "proper noun",
+          "phonetic": "/ˈænə/",
+          "meanings": [{ "translation": "Anna", "partOfSpeech": "proper noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["hello", "hi", "name"],
+  "grammarFocus": ["to-be-am-is"]
+}

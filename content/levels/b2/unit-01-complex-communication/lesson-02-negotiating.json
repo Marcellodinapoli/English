@@ -1,0 +1,79 @@
+{
+  "id": "b2-u1-l2",
+  "unitId": "b2-u1",
+  "levelId": "B2",
+  "title": "Negotiating",
+  "titleIt": "Negoziare",
+  "description": "Make proposals, counter-offers, and reach agreements.",
+  "estimatedMinutes": 16,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "b2-news-debate", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Negotiate with confidence",
+    "body": "Learn key phrases for making offers, responding to proposals, and finding compromise.",
+    "bodyIt": "Impara frasi chiave per fare offerte, rispondere a proposte e trovare un compromesso.",
+    "objectives": [
+      "Make and respond to proposals",
+      "Use conditional structures in negotiations",
+      "Reach a polite agreement"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "proposal",
+      "lemma": "proposal",
+      "translation": "proposta",
+      "partOfSpeech": "noun",
+      "phonetic": "/prəˈpəʊzl/",
+      "example": "We received a new proposal.",
+      "exampleTranslation": "Abbiamo ricevuto una nuova proposta."
+    },
+    {
+      "word": "compromise",
+      "lemma": "compromise",
+      "translation": "compromesso",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɒmprəmaɪz/",
+      "example": "We found a compromise both sides accepted.",
+      "exampleTranslation": "Abbiamo trovato un compromesso accettato da entrambe le parti."
+    },
+    {
+      "word": "counter-offer",
+      "lemma": "counter-offer",
+      "translation": "controproposta",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkaʊntərˌɒfə/",
+      "example": "They made a counter-offer on the price.",
+      "exampleTranslation": "Hanno fatto una controproposta sul prezzo."
+    }
+  ],
+  "readingRef": "b2-news-debate",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "If we accept your proposal, what will you offer?",
+      "promptIt": "Quale struttura è tipica di una negoziazione?",
+      "options": ["If we accept your proposal, we expect a discount.", "I went to the shop.", "My name is Anna.", "Hello, nice to meet you."],
+      "answer": "If we accept your proposal, we expect a discount.",
+      "explanation": "Conditionals are common in negotiations: If X, then Y."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "We need to find a ____ that works for both parties.",
+      "promptIt": "Completa: We need to find a ____ that works for both parties.",
+      "answer": "compromise",
+      "explanation": "A compromise is an agreement where both sides give something."
+    }
+  ],
+  "review": {
+    "summary": ["proposal / counter-offer / compromise", "If we..., then...", "Negotiation phrases"],
+    "tip": "Practise making one proposal and one counter-offer out loud."
+  }
+}

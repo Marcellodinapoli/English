@@ -1,0 +1,83 @@
+{
+  "passageId": "zero-hello-world",
+  "level": "ZERO",
+  "questions": [
+    {
+      "id": "zero-hello-world-main",
+      "passageId": "zero-hello-world",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Hello",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Hello",
+      "explanation": "The passage is about: Hello — A first greeting in English.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-hello-world-detail",
+      "passageId": "zero-hello-world",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Hello.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Hello.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-hello-world-tf",
+      "passageId": "zero-hello-world",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"Hi. My name is Anna.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-hello-world-short",
+      "passageId": "zero-hello-world",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"hello\". Type that focus item.",
+      "correctAnswer": "hello",
+      "explanation": "\"hello\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-hello-world-detail2",
+      "passageId": "zero-hello-world",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "Hi. My name is Anna.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "Hi. My name is Anna.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "ZERO"
+    }
+  ]
+}

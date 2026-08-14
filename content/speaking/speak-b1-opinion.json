@@ -1,0 +1,34 @@
+{
+  "id": "speak-b1-opinion",
+  "title": "Share your opinion",
+  "titleIt": "Esprimi la tua opinione",
+  "level": "B1",
+  "description": "Practise giving opinions and responding to others.",
+  "estimatedMinutes": 9,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "In my opinion, flexible hours help people work better.",
+      "hint": "In my opinion introduces your view"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "I agree with you, however I see your point.",
+      "hint": "Agree with + however for polite disagreement"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Give your opinion on remote work in two sentences.",
+      "promptIt": "Esprimi la tua opinione sul lavoro da remoto in due frasi.",
+      "exampleAnswer": "In my opinion, remote work is good for focus. However, I miss talking to colleagues in person.",
+      "hint": "Use In my opinion and however"
+    }
+  ]
+}

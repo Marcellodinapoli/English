@@ -1,0 +1,79 @@
+{
+  "id": "a2-u1-l1",
+  "unitId": "a2-u1",
+  "levelId": "A2",
+  "title": "Yesterday",
+  "titleIt": "Ieri",
+  "description": "Talk about what you did yesterday using the Past Simple.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a2-yesterday", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about yesterday",
+    "body": "You will learn how to describe past activities and use time expressions like yesterday and last week.",
+    "bodyIt": "Imparerai a descrivere attività passate e a usare espressioni come yesterday e last week.",
+    "objectives": [
+      "Use the Past Simple for finished actions",
+      "Say what you did yesterday",
+      "Read a short text about a past day"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "yesterday",
+      "lemma": "yesterday",
+      "translation": "ieri",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈjestədeɪ/",
+      "example": "I went to the shop yesterday.",
+      "exampleTranslation": "Sono andato al negozio ieri."
+    },
+    {
+      "word": "went",
+      "lemma": "go",
+      "translation": "andò / sono andato",
+      "partOfSpeech": "verb",
+      "phonetic": "/went/",
+      "example": "She went home early.",
+      "exampleTranslation": "È tornata a casa presto."
+    },
+    {
+      "word": "bought",
+      "lemma": "buy",
+      "translation": "comprò / ho comprato",
+      "partOfSpeech": "verb",
+      "phonetic": "/bɔːt/",
+      "example": "I bought some bread.",
+      "exampleTranslation": "Ho comprato del pane."
+    }
+  ],
+  "readingRef": "a2-yesterday",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "promptIt": "Scegli la frase corretta.",
+      "options": ["I went to the shop yesterday.", "I go to the shop yesterday.", "I going to the shop yesterday.", "I goes to the shop yesterday."],
+      "answer": "I went to the shop yesterday.",
+      "explanation": "Use Past Simple (went) for finished actions in the past."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Yesterday I ____ some milk.",
+      "promptIt": "Completa: Yesterday I ____ some milk.",
+      "answer": "bought",
+      "explanation": "The Past Simple of buy is bought."
+    }
+  ],
+  "review": {
+    "summary": ["yesterday / last week", "Past Simple: went, bought", "I went to the shop."],
+    "tip": "Tell someone three things you did yesterday using went or bought."
+  }
+}

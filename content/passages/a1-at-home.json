@@ -1,0 +1,57 @@
+{
+  "id": "a1-at-home",
+  "type": "passage",
+  "level": "A1.4",
+  "title": "At home",
+  "titleIt": "A casa",
+  "description": "A short description of a home.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "There is a kitchen in my home.",
+      "translation": "C'è una cucina a casa mia.",
+      "tokens": [
+        { "word": "There", "lemma": "there", "pos": "pronoun", "phonetic": "/ðeə/", "meanings": [{ "translation": "ci (in there is)", "partOfSpeech": "pronoun" }] },
+        { "word": "is", "lemma": "be", "pos": "verb", "phonetic": "/ɪz/", "meanings": [{ "translation": "è", "partOfSpeech": "verb" }] },
+        { "word": "a", "lemma": "a", "pos": "article", "phonetic": "/ə/", "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }] },
+        { "word": "kitchen", "lemma": "kitchen", "pos": "noun", "phonetic": "/ˈkɪtʃɪn/", "meanings": [{ "translation": "cucina", "partOfSpeech": "noun" }] },
+        { "word": "in", "lemma": "in", "pos": "preposition", "phonetic": "/ɪn/", "meanings": [{ "translation": "in", "partOfSpeech": "preposition" }] },
+        { "word": "my", "lemma": "my", "pos": "determiner", "phonetic": "/maɪ/", "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }] },
+        { "word": "home", "lemma": "home", "pos": "noun", "phonetic": "/həʊm/", "meanings": [{ "translation": "casa", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "There are two bedrooms and one bathroom.",
+      "translation": "Ci sono due camere da letto e un bagno.",
+      "tokens": [
+        { "word": "There", "lemma": "there", "pos": "pronoun", "phonetic": "/ðeə/", "meanings": [{ "translation": "ci (in there are)", "partOfSpeech": "pronoun" }] },
+        { "word": "are", "lemma": "be", "pos": "verb", "phonetic": "/ɑː/", "meanings": [{ "translation": "sono / ci sono", "partOfSpeech": "verb" }] },
+        { "word": "two", "lemma": "two", "pos": "number", "phonetic": "/tuː/", "meanings": [{ "translation": "due", "partOfSpeech": "number" }] },
+        { "word": "bedrooms", "lemma": "bedroom", "pos": "noun", "phonetic": "/ˈbedruːmz/", "meanings": [{ "translation": "camere da letto", "partOfSpeech": "noun" }] },
+        { "word": "and", "lemma": "and", "pos": "conjunction", "phonetic": "/ænd/", "meanings": [{ "translation": "e", "partOfSpeech": "conjunction" }] },
+        { "word": "one", "lemma": "one", "pos": "number", "phonetic": "/wʌn/", "meanings": [{ "translation": "uno", "partOfSpeech": "number" }] },
+        { "word": "bathroom", "lemma": "bathroom", "pos": "noun", "phonetic": "/ˈbɑːθruːm/", "meanings": [{ "translation": "bagno", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "We watch TV in the living room.",
+      "translation": "Guardiamo la TV in soggiorno.",
+      "tokens": [
+        { "word": "We", "lemma": "we", "pos": "pronoun", "phonetic": "/wiː/", "meanings": [{ "translation": "noi", "partOfSpeech": "pronoun" }] },
+        { "word": "watch", "lemma": "watch", "pos": "verb", "phonetic": "/wɒtʃ/", "meanings": [{ "translation": "guardare", "partOfSpeech": "verb" }] },
+        { "word": "TV", "lemma": "TV", "pos": "noun", "phonetic": "/ˌtiːˈviː/", "meanings": [{ "translation": "TV / televisione", "partOfSpeech": "noun" }] },
+        { "word": "in", "lemma": "in", "pos": "preposition", "phonetic": "/ɪn/", "meanings": [{ "translation": "in", "partOfSpeech": "preposition" }] },
+        { "word": "the", "lemma": "the", "pos": "article", "phonetic": "/ðə/", "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }] },
+        { "word": "living", "lemma": "live", "pos": "adjective", "phonetic": "/ˈlɪvɪŋ/", "meanings": [{ "translation": "soggiorno (in living room)", "partOfSpeech": "adjective" }] },
+        { "word": "room", "lemma": "room", "pos": "noun", "phonetic": "/ruːm/", "meanings": [{ "translation": "stanza", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["kitchen", "bedroom", "bathroom", "living room"],
+  "grammarFocus": ["there-is-are"]
+}

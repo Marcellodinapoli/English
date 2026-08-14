@@ -1,0 +1,38 @@
+{
+  "id": "listen-b1-opinion",
+  "title": "Opinions at work",
+  "titleIt": "Opinioni al lavoro",
+  "level": "B1",
+  "description": "Listen to workplace opinions and identify key points.",
+  "audioText": "In my opinion, flexible hours help people work better. My colleague agrees, but our manager has a different view.",
+  "estimatedMinutes": 7,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What does the speaker think about flexible hours?",
+      "promptIt": "Cosa pensa il parlante sugli orari flessibili?",
+      "transcript": "In my opinion, flexible hours help people work better.",
+      "options": ["They help people work better", "They are a bad idea", "They are not mentioned", "They cause problems"],
+      "answer": "They help people work better"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "Who agrees with the speaker?",
+      "promptIt": "Chi è d'accordo con il parlante?",
+      "transcript": "My colleague agrees.",
+      "options": ["My colleague", "The manager", "The client", "Nobody"],
+      "answer": "My colleague"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: In my ____, flexible hours help people.",
+      "promptIt": "Completa: In my ____, flexible hours help people.",
+      "transcript": "In my opinion, flexible hours help people work better.",
+      "answer": "opinion",
+      "explanation": "In my opinion is a standard phrase for giving your view."
+    }
+  ]
+}

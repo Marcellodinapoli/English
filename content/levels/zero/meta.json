@@ -1,0 +1,46 @@
+{
+  "id": "ZERO",
+  "name": "ZERO",
+  "label": "Absolute Beginner",
+  "description": "Start from nothing: greetings, colours, simple phrases, and first words.",
+  "order": 0,
+  "units": [
+    {
+      "id": "zero-u1",
+      "levelId": "ZERO",
+      "title": "First Steps",
+      "titleIt": "Primi passi",
+      "description": "Your first words in English: greetings and numbers.",
+      "order": 1,
+      "lessons": [
+        { "id": "zero-u1-l1", "title": "Hello", "order": 1 },
+        { "id": "zero-u1-l2", "title": "Numbers 1–10", "order": 2 },
+        { "id": "zero-u1-l3", "title": "Goodbye", "order": 3 }
+      ]
+    },
+    {
+      "id": "zero-u2",
+      "levelId": "ZERO",
+      "title": "People & things",
+      "titleIt": "Persone e cose",
+      "description": "Name colours and point to things around you.",
+      "order": 2,
+      "lessons": [
+        { "id": "zero-u2-l1", "title": "Colors", "order": 1 },
+        { "id": "zero-u2-l2", "title": "This is / That is", "order": 2 }
+      ]
+    },
+    {
+      "id": "zero-u3",
+      "levelId": "ZERO",
+      "title": "Simple phrases",
+      "titleIt": "Frasi semplici",
+      "description": "Polite words and yes/no answers.",
+      "order": 3,
+      "lessons": [
+        { "id": "zero-u3-l1", "title": "Please and thank you", "order": 1 },
+        { "id": "zero-u3-l2", "title": "Yes or no", "order": 2 }
+      ]
+    }
+  ]
+}

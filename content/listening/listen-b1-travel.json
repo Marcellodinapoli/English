@@ -1,0 +1,38 @@
+{
+  "id": "listen-b1-travel",
+  "title": "Travel experiences",
+  "titleIt": "Esperienze di viaggio",
+  "level": "B1",
+  "description": "Listen to a travel story and identify key details.",
+  "audioText": "I have travelled abroad twice. Last year we missed the connecting flight. After that we explored the old town on foot.",
+  "estimatedMinutes": 7,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "How many times has the speaker travelled abroad?",
+      "promptIt": "Quante volte ha viaggiato all'estero il parlante?",
+      "transcript": "I have travelled abroad twice.",
+      "options": ["twice", "once", "three times", "never"],
+      "answer": "twice"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What happened last year?",
+      "promptIt": "Cosa è successo l'anno scorso?",
+      "transcript": "Last year we missed the connecting flight.",
+      "options": ["They missed the connecting flight", "They cancelled the hotel", "They lost their passports", "They arrived early"],
+      "answer": "They missed the connecting flight"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: After that we explored the old town on ____.",
+      "promptIt": "Completa: After that we explored the old town on ____.",
+      "transcript": "After that we explored the old town on foot.",
+      "answer": "foot",
+      "explanation": "On foot means walking."
+    }
+  ]
+}

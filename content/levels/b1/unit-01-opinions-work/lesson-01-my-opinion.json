@@ -1,0 +1,79 @@
+{
+  "id": "b1-u1-l1",
+  "unitId": "b1-u1",
+  "levelId": "B1",
+  "title": "My opinion",
+  "titleIt": "La mia opinione",
+  "description": "Express what you think and agree or disagree politely.",
+  "estimatedMinutes": 14,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "b1-opinion", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Share your point of view",
+    "body": "Learn phrases to give opinions, support your ideas, and respond to others respectfully.",
+    "bodyIt": "Impara frasi per esprimere opinioni, sostenere le tue idee e rispondere con rispetto.",
+    "objectives": [
+      "Use I think / In my opinion",
+      "Agree and disagree politely",
+      "Read a short opinion text"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "opinion",
+      "lemma": "opinion",
+      "translation": "opinione",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈpɪnjən/",
+      "example": "In my opinion, remote work is better.",
+      "exampleTranslation": "Secondo me, il lavoro da remoto è meglio."
+    },
+    {
+      "word": "agree",
+      "lemma": "agree",
+      "translation": "essere d'accordo",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈɡriː/",
+      "example": "I agree with you.",
+      "exampleTranslation": "Sono d'accordo con te."
+    },
+    {
+      "word": "however",
+      "lemma": "however",
+      "translation": "tuttavia / però",
+      "partOfSpeech": "adverb",
+      "phonetic": "/haʊˈevə/",
+      "example": "However, I see your point.",
+      "exampleTranslation": "Tuttavia, capisco il tuo punto di vista."
+    }
+  ],
+  "readingRef": "b1-opinion",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which phrase introduces an opinion?",
+      "promptIt": "Quale frase introduce un'opinione?",
+      "options": ["In my opinion", "Goodbye", "How much is it?", "My name is Marco."],
+      "answer": "In my opinion",
+      "explanation": "In my opinion is a common way to share your view."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "I ____ with you on this point.",
+      "promptIt": "Completa: I ____ with you on this point.",
+      "answer": "agree",
+      "explanation": "Agree with means to share the same view."
+    }
+  ],
+  "review": {
+    "summary": ["In my opinion / I think", "I agree / I disagree", "however = tuttavia"],
+    "tip": "Practise giving your opinion on a film or restaurant in two sentences."
+  }
+}

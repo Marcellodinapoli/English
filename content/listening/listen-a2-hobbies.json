@@ -1,0 +1,38 @@
+{
+  "id": "listen-a2-hobbies",
+  "title": "Hobbies and free time",
+  "titleIt": "Hobby e tempo libero",
+  "level": "A2",
+  "description": "Listen to a short talk about hobbies and free-time activities.",
+  "audioText": "In my free time I enjoy reading and cooking. My favourite hobby is cooking. On Fridays we often go to the cinema with friends.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What does the speaker enjoy?",
+      "promptIt": "Cosa piace al parlante?",
+      "transcript": "In my free time I enjoy reading and cooking.",
+      "options": ["reading and cooking", "running and swimming", "painting and dancing", "shopping and driving"],
+      "answer": "reading and cooking"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What is the favourite hobby?",
+      "promptIt": "Qual è l'hobby preferito?",
+      "transcript": "My favourite hobby is cooking.",
+      "options": ["cooking", "reading", "cinema", "sport"],
+      "answer": "cooking"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: On Fridays we often go to the ____.",
+      "promptIt": "Completa: On Fridays we often go to the ____.",
+      "transcript": "On Fridays we often go to the cinema with friends.",
+      "answer": "cinema",
+      "explanation": "Cinema is where you watch films."
+    }
+  ]
+}

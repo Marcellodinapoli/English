@@ -1,0 +1,448 @@
+{
+  "id": "b2-pros-cons",
+  "type": "passage",
+  "level": "B2",
+  "title": "Pros and cons",
+  "titleIt": "Pro e contro",
+  "description": "A balanced discussion of advantages and drawbacks.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "One advantage of hybrid work is greater flexibility for employees.",
+      "translation": "Un vantaggio del lavoro ibrido è una maggiore flessibilità per i dipendenti.",
+      "tokens": [
+        {
+          "word": "One",
+          "lemma": "one",
+          "pos": "numeral",
+          "phonetic": "/wʌn/",
+          "meanings": [
+            {
+              "translation": "uno",
+              "partOfSpeech": "numeral"
+            }
+          ]
+        },
+        {
+          "word": "advantage",
+          "lemma": "advantage",
+          "pos": "noun",
+          "phonetic": "/ədˈvɑːntɪdʒ/",
+          "meanings": [
+            {
+              "translation": "vantaggio",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "pos": "preposition",
+          "phonetic": "/ɒv/",
+          "meanings": [
+            {
+              "translation": "di",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "hybrid",
+          "lemma": "hybrid",
+          "pos": "adjective",
+          "phonetic": "/ˈhaɪbrɪd/",
+          "meanings": [
+            {
+              "translation": "ibrido",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "work",
+          "lemma": "work",
+          "pos": "verb",
+          "phonetic": "/wɜːk/",
+          "meanings": [
+            {
+              "translation": "lavorare / lavoro",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "is",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "greater",
+          "lemma": "greater",
+          "pos": "other",
+          "phonetic": "/greater/",
+          "meanings": [
+            {
+              "translation": "greater",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "flexibility",
+          "lemma": "flexibility",
+          "pos": "noun",
+          "phonetic": "/ˌfleksəˈbɪləti/",
+          "meanings": [
+            {
+              "translation": "flessibilità",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "pos": "preposition",
+          "phonetic": "/fɔː/",
+          "meanings": [
+            {
+              "translation": "per",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "employees",
+          "lemma": "employees",
+          "pos": "noun",
+          "phonetic": "/ɪmˈplɔɪiːz/",
+          "meanings": [
+            {
+              "translation": "dipendenti",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "However, a major drawback is that collaboration can feel weaker.",
+      "translation": "Tuttavia, un grande inconveniente è che la collaborazione può sembrare più debole.",
+      "tokens": [
+        {
+          "word": "However",
+          "lemma": "however",
+          "pos": "adverb",
+          "phonetic": "/haʊˈevə/",
+          "meanings": [
+            {
+              "translation": "tuttavia",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "major",
+          "lemma": "major",
+          "pos": "adjective",
+          "phonetic": "/ˈmeɪdʒə/",
+          "meanings": [
+            {
+              "translation": "maggiore / principale",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "drawback",
+          "lemma": "drawback",
+          "pos": "noun",
+          "phonetic": "/ˈdrɔːbæk/",
+          "meanings": [
+            {
+              "translation": "inconveniente",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "is",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "pos": "conjunction",
+          "phonetic": "/ðæt/",
+          "meanings": [
+            {
+              "translation": "che / quello",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "collaboration",
+          "lemma": "collaboration",
+          "pos": "noun",
+          "phonetic": "/kəˌlæbəˈreɪʃn/",
+          "meanings": [
+            {
+              "translation": "collaborazione",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "pos": "verb",
+          "phonetic": "/kæn/",
+          "meanings": [
+            {
+              "translation": "potere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "feel",
+          "lemma": "feel",
+          "pos": "verb",
+          "phonetic": "/fiːl/",
+          "meanings": [
+            {
+              "translation": "sentire / sentirsi",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "weaker",
+          "lemma": "weaker",
+          "pos": "other",
+          "phonetic": "/weaker/",
+          "meanings": [
+            {
+              "translation": "weaker",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "On balance, many teams prefer a mixed model despite the challenges.",
+      "translation": "Tutto sommato, molti team preferiscono un modello misto nonostante le difficoltà.",
+      "tokens": [
+        {
+          "word": "On",
+          "lemma": "on",
+          "pos": "preposition",
+          "phonetic": "/ɒn/",
+          "meanings": [
+            {
+              "translation": "su / il",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "balance",
+          "lemma": "balance",
+          "pos": "noun",
+          "phonetic": "/ˈbæləns/",
+          "meanings": [
+            {
+              "translation": "equilibrio",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "many",
+          "lemma": "many",
+          "pos": "determiner",
+          "phonetic": "/ˈmeni/",
+          "meanings": [
+            {
+              "translation": "molti",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "teams",
+          "lemma": "teams",
+          "pos": "noun",
+          "phonetic": "/tiːmz/",
+          "meanings": [
+            {
+              "translation": "squadre / team",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "prefer",
+          "lemma": "prefer",
+          "pos": "verb",
+          "phonetic": "/prɪˈfɜː/",
+          "meanings": [
+            {
+              "translation": "preferire",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "mixed",
+          "lemma": "mixed",
+          "pos": "other",
+          "phonetic": "/mixed/",
+          "meanings": [
+            {
+              "translation": "mixed",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "pos": "noun",
+          "phonetic": "/ˈmɒdl/",
+          "meanings": [
+            {
+              "translation": "modello",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "despite",
+          "lemma": "despite",
+          "pos": "preposition",
+          "phonetic": "/dɪˈspaɪt/",
+          "meanings": [
+            {
+              "translation": "nonostante",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "challenges",
+          "lemma": "challenges",
+          "pos": "other",
+          "phonetic": "/challenges/",
+          "meanings": [
+            {
+              "translation": "challenges",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "advantage",
+    "drawback",
+    "on balance",
+    "flexibility"
+  ],
+  "grammarFocus": [
+    "contrast-linkers",
+    "modals"
+  ]
+}

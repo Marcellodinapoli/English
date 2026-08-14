@@ -1,0 +1,31 @@
+{
+  "id": "write-c1-brief",
+  "title": "Write a professional brief",
+  "titleIt": "Scrivi un brief professionale",
+  "level": "C1",
+  "description": "Produce a concise formal brief with clear staging and emphasis.",
+  "estimatedMinutes": 18,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write a professional brief (6–8 sentences) outlining a recommendation and its implications.",
+      "promptIt": "Scrivi un brief professionale (6–8 frasi) delineando una raccomandazione e le sue implicazioni.",
+      "minWords": 70,
+      "hints": [
+        "The premise is...",
+        "It is ... that...",
+        "Firstly / secondly",
+        "The implications are..."
+      ]
+    },
+    {
+      "id": "w2",
+      "prompt": "Rewrite one informal sentence into formal correspondence style.",
+      "promptIt": "Riscrivi una frase informale in stile di corrispondenza formale.",
+      "minWords": 8,
+      "hints": [
+        "Can you confirm ASAP? → I should be grateful if you could confirm..."
+      ]
+    }
+  ]
+}

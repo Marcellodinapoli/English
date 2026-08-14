@@ -1,0 +1,136 @@
+{
+  "id": "b2-u2-l1",
+  "unitId": "b2-u2",
+  "levelId": "B2",
+  "title": "Trends and change",
+  "titleIt": "Tendenze e cambiamento",
+  "description": "Describe trends, shifts, and gradual change over time.",
+  "estimatedMinutes": 16,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "b2-trends",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Talk about trends and change",
+    "body": "You will learn vocabulary for describing patterns over time and explaining why change happens.",
+    "bodyIt": "Imparerai vocabolario per descrivere andamenti nel tempo e spiegare perché avviene il cambiamento.",
+    "objectives": [
+      "Describe upward and downward trends",
+      "Use language of gradual and significant change",
+      "Link causes and consequences of change"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "trend",
+      "lemma": "trend",
+      "translation": "tendenza",
+      "partOfSpeech": "noun",
+      "phonetic": "/trend/",
+      "example": "Remote work is a growing trend.",
+      "exampleTranslation": "Il lavoro remoto è una tendenza in crescita."
+    },
+    {
+      "word": "shift",
+      "lemma": "shift",
+      "translation": "spostamento / cambiamento",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɪft/",
+      "example": "There has been a shift towards flexible hours.",
+      "exampleTranslation": "C'è stato uno spostamento verso orari flessibili."
+    },
+    {
+      "word": "gradual",
+      "lemma": "gradual",
+      "translation": "graduale",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡrædʒuəl/",
+      "example": "The change has been gradual rather than sudden.",
+      "exampleTranslation": "Il cambiamento è stato graduale piuttosto che improvviso."
+    },
+    {
+      "word": "significantly",
+      "lemma": "significantly",
+      "translation": "in modo significativo",
+      "partOfSpeech": "adverb",
+      "phonetic": "/sɪɡˈnɪfɪkəntli/",
+      "example": "Demand has risen significantly this year.",
+      "exampleTranslation": "La domanda è aumentata in modo significativo quest'anno."
+    }
+  ],
+  "readingRef": "b2-trends",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What does a 'shift towards remote work' mean?",
+      "promptIt": "Cosa significa uno 'shift towards remote work'?",
+      "options": [
+        "A move in the direction of remote work",
+        "A sudden end to all office jobs",
+        "A temporary holiday from work",
+        "A decline in technology use"
+      ],
+      "answer": "A move in the direction of remote work",
+      "explanation": "A shift towards X means a change in that direction."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Sales have risen ____ over the past decade.",
+      "promptIt": "Completa: Sales have risen ____ over the past decade.",
+      "answer": "significantly",
+      "explanation": "Significantly emphasises a large degree of change."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which word best describes slow change over time?",
+      "promptIt": "Quale parola descrive meglio un cambiamento lento nel tempo?",
+      "options": [
+        "gradual",
+        "sudden",
+        "instant",
+        "abrupt"
+      ],
+      "answer": "gradual",
+      "explanation": "Gradual means happening slowly in stages."
+    }
+  ],
+  "review": {
+    "summary": [
+      "trend / shift / gradual / significantly",
+      "Cause and consequence",
+      "Describing change over time"
+    ],
+    "tip": "Describe one trend in your industry using rise, fall, or shift."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "passageId": "b2-making-case",
+  "level": "B2",
+  "questions": [
+    {
+      "id": "b2-making-case-main",
+      "passageId": "b2-making-case",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Making a case",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Making a case",
+      "explanation": "The passage is about: Making a case — A short persuasive text using claim, evidence, and conclusion.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "B2"
+    },
+    {
+      "id": "b2-making-case-detail",
+      "passageId": "b2-making-case",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Our claim is that training investment improves long-term performance.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Our claim is that training investment improves long-term performance.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    },
+    {
+      "id": "b2-making-case-tf",
+      "passageId": "b2-making-case",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"The evidence from last year's survey supports this view clearly.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "B2"
+    },
+    {
+      "id": "b2-making-case-short",
+      "passageId": "b2-making-case",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"claim\". Type that focus item.",
+      "correctAnswer": "claim",
+      "explanation": "\"claim\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "B2"
+    },
+    {
+      "id": "b2-making-case-detail2",
+      "passageId": "b2-making-case",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "Therefore, we should expand the programme across all teams.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "Therefore, we should expand the programme across all teams.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    }
+  ]
+}

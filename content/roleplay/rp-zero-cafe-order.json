@@ -1,0 +1,27 @@
+{
+  "id": "rp-zero-cafe-order",
+  "title": "Order at a café",
+  "titleIt": "Ordinare al bar",
+  "category": "daily",
+  "level": "ZERO",
+  "description": "Order a drink and pay politely at a small café.",
+  "descriptionIt": "Ordina una bevanda e paga con cortesia in un bar.",
+  "setting": "A quiet café in London. Morning rush.",
+  "yourRole": "Customer",
+  "aiRole": "Barista",
+  "aiCharacter": "Friendly barista named Sam. Speaks clearly and simply.",
+  "goals": [
+    "Greet the barista",
+    "Order a drink",
+    "Ask for the price or pay"
+  ],
+  "openingLine": "Hi there! Welcome to Corner Café. What can I get for you today?",
+  "suggestedPhrases": [
+    "Hello.",
+    "A coffee, please.",
+    "How much is it?",
+    "Thank you."
+  ],
+  "maxTurns": 8,
+  "estimatedMinutes": 8
+}

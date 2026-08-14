@@ -1,0 +1,113 @@
+{
+  "id": "c1-u3-l1",
+  "unitId": "c1-u3",
+  "levelId": "C1",
+  "title": "Formal vs informal",
+  "titleIt": "Formale vs informale",
+  "description": "Switch register confidently according to audience and purpose.",
+  "estimatedMinutes": 18,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "c1-register",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Choose the right register",
+    "body": "Compare formal and informal wording and practise converting between them.",
+    "bodyIt": "Confronta formulazioni formali e informali e pratica a convertirle.",
+    "objectives": [
+      "Identify formal and informal features",
+      "Rewrite informal language formally",
+      "Match register to context"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "register",
+      "lemma": "register",
+      "translation": "registro linguistico",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈredʒɪstə/",
+      "example": "Email to clients requires a more formal register.",
+      "exampleTranslation": "Le email ai clienti richiedono un registro più formale."
+    },
+    {
+      "word": "colloquial",
+      "lemma": "colloquial",
+      "translation": "colloquiale",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kəˈləʊkwiəl/",
+      "example": "Colloquial phrases can feel too casual in reports.",
+      "exampleTranslation": "Le espressioni colloquiali possono sembrare troppo informali nei report."
+    },
+    {
+      "word": "correspondence",
+      "lemma": "correspondence",
+      "translation": "corrispondenza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌkɒrəˈspɒndəns/",
+      "example": "Business correspondence often avoids contractions.",
+      "exampleTranslation": "La corrispondenza commerciale spesso evita le contrazioni."
+    }
+  ],
+  "readingRef": "c1-register",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which is more formal?",
+      "promptIt": "Quale è più formale?",
+      "options": [
+        "I should be grateful if you could confirm.",
+        "Can you just confirm ASAP?",
+        "Ping me when you're free.",
+        "Yeah, sort it out."
+      ],
+      "answer": "I should be grateful if you could confirm.",
+      "explanation": "Grateful if you could is a classic formal request pattern."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Business ____ often avoids contractions and slang.",
+      "promptIt": "Completa: Business ____ often avoids contractions and slang.",
+      "answer": "correspondence",
+      "explanation": "Correspondence means written communication, especially professional email or letters."
+    }
+  ],
+  "review": {
+    "summary": [
+      "register / colloquial / correspondence",
+      "Formal requests",
+      "Avoiding slang in reports"
+    ],
+    "tip": "Take one casual message and rewrite it for a senior stakeholder."
+  }
+}

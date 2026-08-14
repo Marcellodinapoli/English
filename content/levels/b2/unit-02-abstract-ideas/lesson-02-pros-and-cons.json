@@ -1,0 +1,136 @@
+{
+  "id": "b2-u2-l2",
+  "unitId": "b2-u2",
+  "levelId": "B2",
+  "title": "Pros and cons",
+  "titleIt": "Pro e contro",
+  "description": "Weigh advantages and drawbacks and reach a balanced conclusion.",
+  "estimatedMinutes": 16,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "b2-pros-cons",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Weigh pros and cons",
+    "body": "Practise balanced evaluation: state benefits, acknowledge drawbacks, and decide which side outweighs the other.",
+    "bodyIt": "Pratica una valutazione equilibrata: indica i vantaggi, riconosci gli svantaggi e decidi quale lato prevale.",
+    "objectives": [
+      "List benefits and drawbacks clearly",
+      "Use contrast markers such as however and overall",
+      "Reach a reasoned conclusion"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "benefit",
+      "lemma": "benefit",
+      "translation": "vantaggio",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbenɪfɪt/",
+      "example": "One benefit of the plan is lower cost.",
+      "exampleTranslation": "Un vantaggio del piano è il costo inferiore."
+    },
+    {
+      "word": "drawback",
+      "lemma": "drawback",
+      "translation": "svantaggio",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdrɔːbæk/",
+      "example": "The main drawback is limited contact with colleagues.",
+      "exampleTranslation": "Lo svantaggio principale è il contatto limitato con i colleghi."
+    },
+    {
+      "word": "outweigh",
+      "lemma": "outweigh",
+      "translation": "superare / pesare di più",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌaʊtˈweɪ/",
+      "example": "The benefits outweigh the risks.",
+      "exampleTranslation": "I vantaggi superano i rischi."
+    },
+    {
+      "word": "overall",
+      "lemma": "overall",
+      "translation": "nel complesso",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˌəʊvərˈɔːl/",
+      "example": "Overall, the policy has been successful.",
+      "exampleTranslation": "Nel complesso, la politica ha avuto successo."
+    }
+  ],
+  "readingRef": "b2-pros-cons",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "If benefits outweigh risks, what does that mean?",
+      "promptIt": "Se i benefici outweigh i rischi, cosa significa?",
+      "options": [
+        "The benefits are more important than the risks",
+        "The risks are more important than the benefits",
+        "There are no benefits",
+        "The risks and benefits are equal"
+      ],
+      "answer": "The benefits are more important than the risks",
+      "explanation": "Outweigh means to be more significant than something else."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "One major ____ of remote work is weaker team bonding.",
+      "promptIt": "Completa: One major ____ of remote work is weaker team bonding.",
+      "answer": "drawback",
+      "explanation": "A drawback is a disadvantage or negative aspect."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which word best introduces a balanced final judgement?",
+      "promptIt": "Quale parola introduce meglio un giudizio finale equilibrato?",
+      "options": [
+        "Overall",
+        "Suddenly",
+        "Never",
+        "Yesterday"
+      ],
+      "answer": "Overall",
+      "explanation": "Overall summarises after considering different sides."
+    }
+  ],
+  "review": {
+    "summary": [
+      "benefit / drawback / outweigh / overall",
+      "However... / On the other hand...",
+      "Balanced conclusions"
+    ],
+    "tip": "Write three pros and two cons for a decision you face this week."
+  }
+}

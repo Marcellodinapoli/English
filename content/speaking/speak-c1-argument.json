@@ -1,0 +1,34 @@
+{
+  "id": "speak-c1-argument",
+  "title": "Structure an argument",
+  "titleIt": "Struttura un'argomentazione",
+  "level": "C1",
+  "description": "Practise framing, cleft emphasis, and rebuttal.",
+  "estimatedMinutes": 12,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "It is the quality of the evidence that determines the strength of the claim.",
+      "hint": "Cleft for emphasis"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "Admittedly the costs are high; nevertheless, the long-term gains outweigh them.",
+      "hint": "Concession then contrast"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Deliver a 60-second argument: premise, one cleft emphasis, one rebuttal.",
+      "promptIt": "Presenta un'argomentazione di 60 secondi: premessa, una cleft, una replica.",
+      "exampleAnswer": "The premise is that transparency builds trust. It is clear criteria that strengthen public confidence. Admittedly costs rise initially; nevertheless, long-term gains outweigh them.",
+      "hint": "Use premise, It is... that..., Admittedly / nevertheless"
+    }
+  ]
+}

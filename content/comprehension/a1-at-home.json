@@ -1,0 +1,83 @@
+{
+  "passageId": "a1-at-home",
+  "level": "A1",
+  "questions": [
+    {
+      "id": "a1-at-home-main",
+      "passageId": "a1-at-home",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "At home",
+        "Brothers and sisters",
+        "Food and drinks",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "At home",
+      "explanation": "The passage is about: At home — A short description of a home.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A1"
+    },
+    {
+      "id": "a1-at-home-detail",
+      "passageId": "a1-at-home",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "There is a kitchen in my home.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "There is a kitchen in my home.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    },
+    {
+      "id": "a1-at-home-tf",
+      "passageId": "a1-at-home",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"There are two bedrooms and one bathroom.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A1"
+    },
+    {
+      "id": "a1-at-home-short",
+      "passageId": "a1-at-home",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"kitchen\". Type that focus item.",
+      "correctAnswer": "kitchen",
+      "explanation": "\"kitchen\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A1"
+    },
+    {
+      "id": "a1-at-home-detail2",
+      "passageId": "a1-at-home",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "We watch TV in the living room.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "We watch TV in the living room.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    }
+  ]
+}

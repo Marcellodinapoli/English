@@ -1,0 +1,39 @@
+{
+  "id": "grammar-to-be",
+  "level": "A1.1",
+  "title": "to be — am / is / are",
+  "titleIt": "Il verbo to be",
+  "examples": ["I am tired.", "She is hungry.", "They are ready."],
+  "pattern": "I + am · he/she/it + is · you/we/they + are",
+  "explanation": "Use am with I. Use is with he, she, it. Use are with you, we, they.",
+  "explanationIt": "Usa am con I. Usa is con he/she/it. Usa are con you/we/they.",
+  "realUse": [
+    "I am from Italy.",
+    "He is my brother.",
+    "Are you ready?"
+  ],
+  "relatedErrorTypes": ["to_be_am", "to_be_with_verb"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["I am a student.", "I is a student.", "I are a student.", "I be a student."],
+      "answer": "I am a student.",
+      "explanation": "With I we use am."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "She ____ from Spain.",
+      "answer": "is"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: I is happy.",
+      "options": ["I am happy.", "I are happy.", "I be happy.", "Me am happy."],
+      "answer": "I am happy."
+    }
+  ]
+}

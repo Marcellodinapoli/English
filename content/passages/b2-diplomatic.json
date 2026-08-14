@@ -1,0 +1,398 @@
+{
+  "id": "b2-diplomatic",
+  "type": "passage",
+  "level": "B2",
+  "title": "Diplomatic language",
+  "titleIt": "Linguaggio diplomatico",
+  "description": "A workplace dialogue style text using soft suggestions.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "I would suggest reconsidering the deadline slightly.",
+      "translation": "Vorrei suggerire di riconsiderare leggermente la scadenza.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "i",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "would",
+          "lemma": "would",
+          "pos": "verb",
+          "phonetic": "/wʊd/",
+          "meanings": [
+            {
+              "translation": "vorrebbe / dovrebbe",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "suggest",
+          "lemma": "suggest",
+          "pos": "verb",
+          "phonetic": "/səˈdʒest/",
+          "meanings": [
+            {
+              "translation": "suggerire",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "reconsidering",
+          "lemma": "reconsidering",
+          "pos": "other",
+          "phonetic": "/reconsidering/",
+          "meanings": [
+            {
+              "translation": "reconsidering",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "deadline",
+          "lemma": "deadline",
+          "pos": "noun",
+          "phonetic": "/ˈdedlaɪn/",
+          "meanings": [
+            {
+              "translation": "scadenza",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "slightly",
+          "lemma": "slightly",
+          "pos": "adverb",
+          "phonetic": "/ˈslaɪtli/",
+          "meanings": [
+            {
+              "translation": "leggermente",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "It might be better to check the figures before we confirm.",
+      "translation": "Potrebbe essere meglio controllare i dati prima di confermare.",
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "pos": "pronoun",
+          "phonetic": "/ɪt/",
+          "meanings": [
+            {
+              "translation": "esso",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "might",
+          "lemma": "might",
+          "pos": "verb",
+          "phonetic": "/maɪt/",
+          "meanings": [
+            {
+              "translation": "potrebbe",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/biː/",
+          "meanings": [
+            {
+              "translation": "essere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "better",
+          "lemma": "better",
+          "pos": "adjective",
+          "phonetic": "/ˈbetə/",
+          "meanings": [
+            {
+              "translation": "meglio / migliore",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [
+            {
+              "translation": "a / di",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "check",
+          "lemma": "check",
+          "pos": "other",
+          "phonetic": "/check/",
+          "meanings": [
+            {
+              "translation": "check",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "figures",
+          "lemma": "figures",
+          "pos": "other",
+          "phonetic": "/figures/",
+          "meanings": [
+            {
+              "translation": "figures",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "before",
+          "lemma": "before",
+          "pos": "preposition",
+          "phonetic": "/bɪˈfɔː/",
+          "meanings": [
+            {
+              "translation": "prima",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "confirm",
+          "lemma": "confirm",
+          "pos": "other",
+          "phonetic": "/confirm/",
+          "meanings": [
+            {
+              "translation": "confirm",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "That seems to be a reasonable compromise for both sides.",
+      "translation": "Sembra un compromesso ragionevole per entrambe le parti.",
+      "tokens": [
+        {
+          "word": "That",
+          "lemma": "that",
+          "pos": "conjunction",
+          "phonetic": "/ðæt/",
+          "meanings": [
+            {
+              "translation": "che / quello",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "seems",
+          "lemma": "seems",
+          "pos": "verb",
+          "phonetic": "/siːmz/",
+          "meanings": [
+            {
+              "translation": "sembra",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [
+            {
+              "translation": "a / di",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/biː/",
+          "meanings": [
+            {
+              "translation": "essere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "reasonable",
+          "lemma": "reasonable",
+          "pos": "other",
+          "phonetic": "/reasonable/",
+          "meanings": [
+            {
+              "translation": "reasonable",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "compromise",
+          "lemma": "compromise",
+          "pos": "other",
+          "phonetic": "/compromise/",
+          "meanings": [
+            {
+              "translation": "compromise",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "pos": "preposition",
+          "phonetic": "/fɔː/",
+          "meanings": [
+            {
+              "translation": "per",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "pos": "determiner",
+          "phonetic": "/bəʊθ/",
+          "meanings": [
+            {
+              "translation": "entrambi",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "sides",
+          "lemma": "sides",
+          "pos": "noun",
+          "phonetic": "/saɪdz/",
+          "meanings": [
+            {
+              "translation": "parti",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "suggest",
+    "might",
+    "seem",
+    "compromise"
+  ],
+  "grammarFocus": [
+    "modals-deduction",
+    "hedging"
+  ]
+}

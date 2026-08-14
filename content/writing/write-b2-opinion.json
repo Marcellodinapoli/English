@@ -1,0 +1,34 @@
+{
+  "id": "write-b2-opinion",
+  "title": "Write an opinion piece",
+  "titleIt": "Scrivi un pezzo di opinione",
+  "level": "B2",
+  "description": "Argue a position with pros, cons, and a persuasive conclusion.",
+  "estimatedMinutes": 15,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write 5–7 sentences weighing the pros and cons of hybrid work, then give your view.",
+      "promptIt": "Scrivi 5–7 frasi sui pro e contro del lavoro ibrido, poi dai la tua opinione.",
+      "minWords": 50,
+      "hints": [
+        "One advantage...",
+        "A major drawback...",
+        "However...",
+        "On balance...",
+        "Therefore..."
+      ]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write two diplomatic sentences suggesting a change at work.",
+      "promptIt": "Scrivi due frasi diplomatiche per suggerire un cambiamento al lavoro.",
+      "minWords": 12,
+      "hints": [
+        "I would suggest...",
+        "It might be better...",
+        "That seems to be..."
+      ]
+    }
+  ]
+}

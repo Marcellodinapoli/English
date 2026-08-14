@@ -1,0 +1,266 @@
+{
+  "id": "a2-getting-there",
+  "type": "passage",
+  "level": "A2",
+  "title": "Getting there",
+  "titleIt": "Come arrivare",
+  "description": "A short text about a planned train journey.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "I am going to take the train.",
+      "translation": "Prenderò il treno.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "am",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/æm/",
+          "meanings": [
+            {
+              "translation": "sono",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "going",
+          "lemma": "go",
+          "pos": "verb",
+          "phonetic": "/ˈɡəʊɪŋ/",
+          "meanings": [
+            {
+              "translation": "sto per / vado",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [
+            {
+              "translation": "a / di / verso",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "take",
+          "lemma": "take",
+          "pos": "verb",
+          "phonetic": "/teɪk/",
+          "meanings": [
+            {
+              "translation": "prendere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "train",
+          "lemma": "train",
+          "pos": "noun",
+          "phonetic": "/treɪn/",
+          "meanings": [
+            {
+              "translation": "treno",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "My ticket is ready.",
+      "translation": "Il mio biglietto è pronto.",
+      "tokens": [
+        {
+          "word": "My",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [
+            {
+              "translation": "mio / mia",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "ticket",
+          "lemma": "ticket",
+          "pos": "noun",
+          "phonetic": "/ˈtɪkɪt/",
+          "meanings": [
+            {
+              "translation": "biglietto",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "ready",
+          "lemma": "ready",
+          "pos": "adjective",
+          "phonetic": "/ˈredi/",
+          "meanings": [
+            {
+              "translation": "pronto",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The journey takes about two hours.",
+      "translation": "Il viaggio dura circa due ore.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "journey",
+          "lemma": "journey",
+          "pos": "noun",
+          "phonetic": "/ˈdʒɜːni/",
+          "meanings": [
+            {
+              "translation": "viaggio / tragitto",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "takes",
+          "lemma": "take",
+          "pos": "verb",
+          "phonetic": "/teɪks/",
+          "meanings": [
+            {
+              "translation": "dura / richiede",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "about",
+          "lemma": "about",
+          "pos": "adverb",
+          "phonetic": "/əˈbaʊt/",
+          "meanings": [
+            {
+              "translation": "circa",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "pos": "number",
+          "phonetic": "/tuː/",
+          "meanings": [
+            {
+              "translation": "due",
+              "partOfSpeech": "number"
+            }
+          ]
+        },
+        {
+          "word": "hours",
+          "lemma": "hour",
+          "pos": "noun",
+          "phonetic": "/aʊəz/",
+          "meanings": [
+            {
+              "translation": "ore",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "train",
+    "ticket",
+    "journey",
+    "going to"
+  ],
+  "grammarFocus": [
+    "going-to",
+    "present-simple"
+  ]
+}

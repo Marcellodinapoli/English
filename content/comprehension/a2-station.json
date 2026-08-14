@@ -1,0 +1,83 @@
+{
+  "passageId": "a2-station",
+  "level": "A2",
+  "questions": [
+    {
+      "id": "a2-station-main",
+      "passageId": "a2-station",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "At the station",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "At the station",
+      "explanation": "The passage is about: At the station — A short text about platforms, departures, and a delay.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A2"
+    },
+    {
+      "id": "a2-station-detail",
+      "passageId": "a2-station",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Please check the platform number.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Please check the platform number.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    },
+    {
+      "id": "a2-station-tf",
+      "passageId": "a2-station",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"Our train departs at 10:15.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A2"
+    },
+    {
+      "id": "a2-station-short",
+      "passageId": "a2-station",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"platform\". Type that focus item.",
+      "correctAnswer": "platform",
+      "explanation": "\"platform\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A2"
+    },
+    {
+      "id": "a2-station-detail2",
+      "passageId": "a2-station",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "There is a short delay.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "There is a short delay.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    }
+  ]
+}

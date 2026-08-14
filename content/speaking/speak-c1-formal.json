@@ -1,0 +1,34 @@
+{
+  "id": "speak-c1-formal",
+  "title": "Formal register speaking",
+  "titleIt": "Parlato in registro formale",
+  "level": "C1",
+  "description": "Practise formal requests and academic-style claims.",
+  "estimatedMinutes": 12,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "I should be grateful if you could confirm the revised schedule.",
+      "hint": "Formal request pattern"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "The analysis of the findings suggests a substantial improvement.",
+      "hint": "Nominalisation + hedging verb suggests"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Rewrite a casual request formally and add one tentative academic claim.",
+      "promptIt": "Riscrivi una richiesta informale in formale e aggiungi un'affermazione accademica cauta.",
+      "exampleAnswer": "I should be grateful if you could review the draft. The analysis of the findings suggests a substantial improvement, although further data would be useful.",
+      "hint": "Avoid slang; use suggests / appears"
+    }
+  ]
+}

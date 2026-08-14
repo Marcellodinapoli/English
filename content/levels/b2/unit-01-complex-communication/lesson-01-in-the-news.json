@@ -1,0 +1,79 @@
+{
+  "id": "b2-u1-l1",
+  "unitId": "b2-u1",
+  "levelId": "B2",
+  "title": "In the news",
+  "titleIt": "Nelle notizie",
+  "description": "Understand news headlines and discuss current events.",
+  "estimatedMinutes": 16,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "b2-news-debate", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Read and discuss the news",
+    "body": "You will learn vocabulary for news stories and practise summarising and reacting to headlines.",
+    "bodyIt": "Imparerai vocabolario per le notizie e praticherai riassunti e reazioni ai titoli.",
+    "objectives": [
+      "Understand common news vocabulary",
+      "Summarise a short news item",
+      "Express your reaction to a story"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "headline",
+      "lemma": "headline",
+      "translation": "titolo (di giornale)",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhedlaɪn/",
+      "example": "The headline caught my attention.",
+      "exampleTranslation": "Il titolo ha attirato la mia attenzione."
+    },
+    {
+      "word": "debate",
+      "lemma": "debate",
+      "translation": "dibattito / discutere",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈbeɪt/",
+      "example": "There is a debate about climate policy.",
+      "exampleTranslation": "C'è un dibattito sulla politica climatica."
+    },
+    {
+      "word": "report",
+      "lemma": "report",
+      "translation": "report / notizia / riferire",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɪˈpɔːt/",
+      "example": "According to the report, sales have risen.",
+      "exampleTranslation": "Secondo il report, le vendite sono aumentate."
+    }
+  ],
+  "readingRef": "b2-news-debate",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What is a headline?",
+      "promptIt": "Cos'è un headline?",
+      "options": ["The main title of a news story", "A type of meeting", "A shopping receipt", "A job application"],
+      "answer": "The main title of a news story",
+      "explanation": "A headline is the title at the top of a news article."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "According to the ____, the economy is growing.",
+      "promptIt": "Completa: According to the ____, the economy is growing.",
+      "answer": "report",
+      "explanation": "According to the report is a common news phrase."
+    }
+  ],
+  "review": {
+    "summary": ["headline / report / debate", "According to...", "Summarising news"],
+    "tip": "Read one English headline today and explain it in one sentence."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "passageId": "zero-colors",
+  "level": "ZERO",
+  "questions": [
+    {
+      "id": "zero-colors-main",
+      "passageId": "zero-colors",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Colors",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Colors",
+      "explanation": "The passage is about: Colors — Simple sentences about colours.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-colors-detail",
+      "passageId": "zero-colors",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "It is red.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "It is red.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-colors-tf",
+      "passageId": "zero-colors",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"The sky is blue.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-colors-short",
+      "passageId": "zero-colors",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"red\". Type that focus item.",
+      "correctAnswer": "red",
+      "explanation": "\"red\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-colors-detail2",
+      "passageId": "zero-colors",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "The grass is green. The sun is yellow.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "The grass is green. The sun is yellow.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "ZERO"
+    }
+  ]
+}

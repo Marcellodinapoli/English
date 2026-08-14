@@ -1,0 +1,96 @@
+{
+  "id": "zero-u2-l1",
+  "unitId": "zero-u2",
+  "levelId": "ZERO",
+  "title": "Colors",
+  "titleIt": "Colori",
+  "description": "Name basic colours in English.",
+  "estimatedMinutes": 10,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "zero-colors", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Name what you see",
+    "body": "Colours help you describe objects. Today you learn red, blue, green, and yellow.",
+    "bodyIt": "I colori ti aiutano a descrivere gli oggetti. Oggi impari red, blue, green e yellow.",
+    "objectives": [
+      "Say four basic colours",
+      "Understand “It is red”",
+      "Read a short colour text"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "red",
+      "lemma": "red",
+      "translation": "rosso",
+      "partOfSpeech": "adjective",
+      "phonetic": "/red/",
+      "example": "It is red.",
+      "exampleTranslation": "È rosso."
+    },
+    {
+      "word": "blue",
+      "lemma": "blue",
+      "translation": "blu",
+      "partOfSpeech": "adjective",
+      "phonetic": "/bluː/",
+      "example": "The sky is blue.",
+      "exampleTranslation": "Il cielo è blu."
+    },
+    {
+      "word": "green",
+      "lemma": "green",
+      "translation": "verde",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɡriːn/",
+      "example": "The grass is green.",
+      "exampleTranslation": "L'erba è verde."
+    },
+    {
+      "word": "yellow",
+      "lemma": "yellow",
+      "translation": "giallo",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈjeləʊ/",
+      "example": "The sun is yellow.",
+      "exampleTranslation": "Il sole è giallo."
+    }
+  ],
+  "readingRef": "zero-colors",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What colour is the sky often?",
+      "promptIt": "Di che colore è spesso il cielo?",
+      "options": ["blue", "red", "yellow", "green"],
+      "answer": "blue",
+      "explanation": "We often say: The sky is blue."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Complete: It is ____. (rosso)",
+      "promptIt": "Completa: It is ____. (rosso)",
+      "answer": "red",
+      "explanation": "Red means rosso."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which word means verde?",
+      "promptIt": "Quale parola significa verde?",
+      "options": ["green", "yellow", "blue", "red"],
+      "answer": "green"
+    }
+  ],
+  "review": {
+    "summary": ["red / blue / green / yellow", "It is + colour"],
+    "tip": "Point at objects at home and say: It is red / blue..."
+  }
+}

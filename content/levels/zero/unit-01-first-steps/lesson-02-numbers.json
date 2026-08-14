@@ -1,0 +1,53 @@
+{
+  "id": "zero-u1-l2",
+  "unitId": "zero-u1",
+  "levelId": "ZERO",
+  "title": "Numbers 1–10",
+  "titleIt": "Numeri 1–10",
+  "description": "Count from one to ten.",
+  "estimatedMinutes": 10,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Learn to count",
+    "body": "Numbers are essential. Today you learn one to ten — the foundation for age, time, and shopping.",
+    "bodyIt": "I numeri sono essenziali. Oggi impari da one a ten.",
+    "objectives": ["Count from 1 to 10", "Recognise number words", "Use a simple number sentence"]
+  },
+  "vocabulary": [
+    { "word": "one", "lemma": "one", "translation": "uno", "partOfSpeech": "number", "phonetic": "/wʌn/", "example": "one book", "exampleTranslation": "un libro" },
+    { "word": "two", "lemma": "two", "translation": "due", "partOfSpeech": "number", "phonetic": "/tuː/", "example": "two friends", "exampleTranslation": "due amici" },
+    { "word": "three", "lemma": "three", "translation": "tre", "partOfSpeech": "number", "phonetic": "/θriː/", "example": "three apples", "exampleTranslation": "tre mele" },
+    { "word": "four", "lemma": "four", "translation": "quattro", "partOfSpeech": "number", "phonetic": "/fɔː/", "example": "four chairs", "exampleTranslation": "quattro sedie" },
+    { "word": "five", "lemma": "five", "translation": "cinque", "partOfSpeech": "number", "phonetic": "/faɪv/", "example": "five minutes", "exampleTranslation": "cinque minuti" },
+    { "word": "six", "lemma": "six", "translation": "sei", "partOfSpeech": "number", "phonetic": "/sɪks/", "example": "six days", "exampleTranslation": "sei giorni" },
+    { "word": "seven", "lemma": "seven", "translation": "sette", "partOfSpeech": "number", "phonetic": "/ˈsevn/", "example": "seven days", "exampleTranslation": "sette giorni" },
+    { "word": "eight", "lemma": "eight", "translation": "otto", "partOfSpeech": "number", "phonetic": "/eɪt/", "example": "eight o'clock", "exampleTranslation": "le otto" },
+    { "word": "nine", "lemma": "nine", "translation": "nove", "partOfSpeech": "number", "phonetic": "/naɪn/", "example": "nine students", "exampleTranslation": "nove studenti" },
+    { "word": "ten", "lemma": "ten", "translation": "dieci", "partOfSpeech": "number", "phonetic": "/ten/", "example": "ten euros", "exampleTranslation": "dieci euro" }
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What is the English word for 5?",
+      "options": ["four", "five", "six", "nine"],
+      "answer": "five"
+    },
+    {
+      "id": "ex2",
+      "type": "multiple_choice",
+      "prompt": "What number is ten?",
+      "options": ["8", "9", "10", "2"],
+      "answer": "10"
+    }
+  ],
+  "review": {
+    "summary": ["one → ten", "Use numbers with nouns: two books"],
+    "tip": "Count out loud every morning: one, two, three..."
+  }
+}

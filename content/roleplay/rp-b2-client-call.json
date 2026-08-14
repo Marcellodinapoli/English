@@ -1,0 +1,27 @@
+{
+  "id": "rp-b2-client-call",
+  "title": "Client call",
+  "titleIt": "Chiamata con un cliente",
+  "category": "work",
+  "level": "B2",
+  "description": "Handle a client call: report progress, discuss options, and agree next steps.",
+  "descriptionIt": "Gestisci una chiamata col cliente: aggiorna, discuti opzioni e concordate i prossimi passi.",
+  "setting": "A scheduled video call with an important client reviewing project progress.",
+  "yourRole": "Account manager",
+  "aiRole": "Client",
+  "aiCharacter": "Client named Laura. Professional, direct, and expects clear recommendations.",
+  "goals": [
+    "Summarise current progress clearly",
+    "Present pros and cons of two options",
+    "Make a diplomatic recommendation"
+  ],
+  "openingLine": "Thanks for joining. Could you start with a quick update on where things stand?",
+  "suggestedPhrases": [
+    "A clear shift has been reported in demand.",
+    "One advantage is greater flexibility.",
+    "A major drawback is the timeline.",
+    "I would suggest confirming the figures first."
+  ],
+  "maxTurns": 14,
+  "estimatedMinutes": 15
+}

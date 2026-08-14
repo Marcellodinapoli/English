@@ -1,0 +1,33 @@
+{
+  "id": "speak-zero-colors",
+  "title": "Say the colors",
+  "titleIt": "Di' i colori",
+  "level": "ZERO",
+  "description": "Repeat colour words and short sentences.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "It is red.",
+      "hint": "Colour: red"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "The sky is blue.",
+      "hint": "Colour: blue"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Say a colour sentence about something near you.",
+      "promptIt": "Di' una frase con un colore su qualcosa vicino a te.",
+      "exampleAnswer": "It is green.",
+      "hint": "Use: It is + colour"
+    }
+  ]
+}

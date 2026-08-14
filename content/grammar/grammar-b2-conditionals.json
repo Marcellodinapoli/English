@@ -1,0 +1,39 @@
+{
+  "id": "grammar-b2-conditionals",
+  "level": "B2",
+  "title": "Second Conditional — If + past, would + verb",
+  "titleIt": "Second Conditional — If + passato, would + verbo",
+  "examples": ["If we accepted the proposal, we would save money.", "If I were you, I would negotiate.", "If they reduced emissions, air quality would improve."],
+  "pattern": "If + Past Simple, subject + would + base verb",
+  "explanation": "Use the Second Conditional for hypothetical or unlikely situations in the present or future.",
+  "explanationIt": "Usa il Second Conditional per situazioni ipotetiche o improbabili nel presente o futuro.",
+  "realUse": [
+    "If the proposal is accepted, companies would need to reduce emissions.",
+    "If we offered a discount, would you sign today?",
+    "If I had more time, I would read the full report."
+  ],
+  "relatedErrorTypes": ["conditionals"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["If we accepted the offer, we would save money.", "If we accept the offer, we will save money.", "If we accepted the offer, we save money.", "If we accept the offer, we would save money."],
+      "answer": "If we accepted the offer, we would save money.",
+      "explanation": "Second Conditional: If + past, would + verb."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "If they reduced emissions, air quality ____ improve.",
+      "answer": "would"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: If the proposal will be accepted, companies would reduce emissions.",
+      "options": ["If the proposal were accepted, companies would reduce emissions.", "If the proposal is accepted, companies reduce emissions.", "If the proposal accepts, companies would reduce emissions.", "If the proposal was accept, companies would reduce emissions."],
+      "answer": "If the proposal were accepted, companies would reduce emissions."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rp-a2-restaurant",
+  "title": "Order at a restaurant",
+  "titleIt": "Ordinare al ristorante",
+  "category": "daily",
+  "level": "A2",
+  "description": "Order food, ask about the menu, and pay at a restaurant.",
+  "descriptionIt": "Ordina cibo, chiedi informazioni sul menu e paga al ristorante.",
+  "setting": "A small Italian restaurant in London. You are having dinner with a friend.",
+  "yourRole": "Customer",
+  "aiRole": "Waiter",
+  "aiCharacter": "Friendly waiter named Luca. Speaks clearly and helps with the menu.",
+  "goals": [
+    "Ask for the menu",
+    "Order a main course and a drink",
+    "Ask for the bill and pay"
+  ],
+  "openingLine": "Good evening! Welcome to Bella Roma. Are you ready to order, or would you like to see the menu?",
+  "suggestedPhrases": [
+    "Can I see the menu, please?",
+    "I'd like the pasta, please.",
+    "How much is it?",
+    "Can I have the bill, please?"
+  ],
+  "maxTurns": 10,
+  "estimatedMinutes": 10
+}

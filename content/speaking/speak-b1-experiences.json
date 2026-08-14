@@ -1,0 +1,34 @@
+{
+  "id": "speak-b1-experiences",
+  "title": "Talk about experiences",
+  "titleIt": "Parla di esperienze",
+  "level": "B1",
+  "description": "Practise Have you ever...? and talk about travel experiences.",
+  "estimatedMinutes": 9,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "Have you ever travelled alone?",
+      "hint": "Have you ever + past participle"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "I have never tried skydiving, but I have already visited London.",
+      "hint": "never and already with Present Perfect"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Talk about one travel experience in two or three sentences.",
+      "promptIt": "Parla di un'esperienza di viaggio in due o tre frasi.",
+      "exampleAnswer": "I have travelled abroad twice. Last year we missed a connecting flight, but we explored the old town on foot.",
+      "hint": "Mix Present Perfect and Past Simple"
+    }
+  ]
+}

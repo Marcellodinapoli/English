@@ -1,0 +1,364 @@
+{
+  "id": "b1-making-plans",
+  "type": "passage",
+  "level": "B1",
+  "title": "Making plans",
+  "titleIt": "Fare piani",
+  "description": "A short text about arranging plans with will and going to.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Looking at my schedule, Friday works for me.",
+      "translation": "Guardando il mio calendario, venerdì va bene per me.",
+      "tokens": [
+        {
+          "word": "Looking",
+          "lemma": "look",
+          "pos": "verb",
+          "phonetic": "/ˈlʊkɪŋ/",
+          "meanings": [
+            {
+              "translation": "guardando",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "pos": "preposition",
+          "phonetic": "/æt/",
+          "meanings": [
+            {
+              "translation": "a / alle",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "my",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [
+            {
+              "translation": "mio / mia",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "schedule",
+          "lemma": "schedule",
+          "pos": "noun",
+          "phonetic": "/ˈʃedjuːl/",
+          "meanings": [
+            {
+              "translation": "programma / calendario",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "Friday",
+          "lemma": "Friday",
+          "pos": "noun",
+          "phonetic": "/ˈfraɪdeɪ/",
+          "meanings": [
+            {
+              "translation": "venerdì",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "works",
+          "lemma": "work",
+          "pos": "verb",
+          "phonetic": "/wɜːks/",
+          "meanings": [
+            {
+              "translation": "va bene / funziona",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "pos": "preposition",
+          "phonetic": "/fɔː/",
+          "meanings": [
+            {
+              "translation": "per",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "me",
+          "lemma": "me",
+          "pos": "pronoun",
+          "phonetic": "/miː/",
+          "meanings": [
+            {
+              "translation": "me / a me",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I am going to book the tickets tonight.",
+      "translation": "Stasera prenoterò i biglietti.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "am",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/æm/",
+          "meanings": [
+            {
+              "translation": "sono",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "going",
+          "lemma": "go",
+          "pos": "verb",
+          "phonetic": "/ˈɡəʊɪŋ/",
+          "meanings": [
+            {
+              "translation": "sto per / vado",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [
+            {
+              "translation": "a / di / verso",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "book",
+          "lemma": "book",
+          "pos": "verb",
+          "phonetic": "/bʊk/",
+          "meanings": [
+            {
+              "translation": "prenotare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "tickets",
+          "lemma": "ticket",
+          "pos": "noun",
+          "phonetic": "/ˈtɪkɪts/",
+          "meanings": [
+            {
+              "translation": "biglietti",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "tonight",
+          "lemma": "tonight",
+          "pos": "adverb",
+          "phonetic": "/təˈnaɪt/",
+          "meanings": [
+            {
+              "translation": "stasera",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Don't worry — I will help with the booking.",
+      "translation": "Non preoccuparti — ti aiuterò con la prenotazione.",
+      "tokens": [
+        {
+          "word": "Don't",
+          "lemma": "do",
+          "pos": "verb",
+          "phonetic": "/dəʊnt/",
+          "meanings": [
+            {
+              "translation": "non",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "worry",
+          "lemma": "worry",
+          "pos": "verb",
+          "phonetic": "/ˈwʌri/",
+          "meanings": [
+            {
+              "translation": "preoccuparsi",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "—",
+          "lemma": "—",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "will",
+          "lemma": "will",
+          "pos": "modal",
+          "phonetic": "/wɪl/",
+          "meanings": [
+            {
+              "translation": "volere / futuro",
+              "partOfSpeech": "modal"
+            }
+          ]
+        },
+        {
+          "word": "help",
+          "lemma": "help",
+          "pos": "verb",
+          "phonetic": "/help/",
+          "meanings": [
+            {
+              "translation": "aiutare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "pos": "preposition",
+          "phonetic": "/wɪð/",
+          "meanings": [
+            {
+              "translation": "con",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "booking",
+          "lemma": "booking",
+          "pos": "noun",
+          "phonetic": "/ˈbʊkɪŋ/",
+          "meanings": [
+            {
+              "translation": "prenotazione",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "schedule",
+    "available",
+    "arrange",
+    "booking"
+  ],
+  "grammarFocus": [
+    "going-to",
+    "will"
+  ]
+}

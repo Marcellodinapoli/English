@@ -1,0 +1,83 @@
+{
+  "passageId": "c1-argument",
+  "level": "C1",
+  "questions": [
+    {
+      "id": "c1-argument-main",
+      "passageId": "c1-argument",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Structuring an argument",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Structuring an argument",
+      "explanation": "The passage is about: Structuring an argument — An advanced excerpt on framing and emphasising an argument.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "C1"
+    },
+    {
+      "id": "c1-argument-detail",
+      "passageId": "c1-argument",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "The premise is that transparent criteria strengthen public trust.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "The premise is that transparent criteria strengthen public trust.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    },
+    {
+      "id": "c1-argument-tf",
+      "passageId": "c1-argument",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"It is the quality of the evidence that determines the strength of the claim.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "C1"
+    },
+    {
+      "id": "c1-argument-short",
+      "passageId": "c1-argument",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"premise\". Type that focus item.",
+      "correctAnswer": "premise",
+      "explanation": "\"premise\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "C1"
+    },
+    {
+      "id": "c1-argument-detail2",
+      "passageId": "c1-argument",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "Firstly, we outline the framework; secondly, we evaluate the implications.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "Firstly, we outline the framework; secondly, we evaluate the implications.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    }
+  ]
+}

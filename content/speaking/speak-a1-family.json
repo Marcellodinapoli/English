@@ -1,0 +1,32 @@
+{
+  "id": "speak-a1-family",
+  "title": "Talk about family",
+  "titleIt": "Parla della famiglia",
+  "level": "A1.2",
+  "description": "Describe people in your family.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "This is my family.",
+      "hint": "Opening sentence"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "My mother is a teacher.",
+      "hint": "Job + family member"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Describe one person in your family.",
+      "promptIt": "Descrivi una persona della tua famiglia.",
+      "exampleAnswer": "My father works in a bank.",
+      "hint": "Use my + mother/father/sister/brother"
+    }
+  ]
+}

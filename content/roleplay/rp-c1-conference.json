@@ -1,0 +1,27 @@
+{
+  "id": "rp-c1-conference",
+  "title": "Conference Q&A",
+  "titleIt": "Q&A in conferenza",
+  "category": "social",
+  "level": "C1",
+  "description": "Respond to challenging conference questions in formal academic register.",
+  "descriptionIt": "Rispondi a domande impegnative in conferenza con registro formale e accademico.",
+  "setting": "A professional conference after your talk; the audience asks critical questions.",
+  "yourRole": "Speaker",
+  "aiRole": "Audience member",
+  "aiCharacter": "Academic audience member named Dr Patel. Precise, sceptical, and fair.",
+  "goals": [
+    "Acknowledge a challenging question",
+    "Use tentative academic claims",
+    "Signpost a structured response"
+  ],
+  "openingLine": "Thank you for the presentation. How would you respond to the main counterargument?",
+  "suggestedPhrases": [
+    "Admittedly, that concern is valid.",
+    "The analysis of the findings suggests...",
+    "Claims remain tentative where evidence is limited.",
+    "Firstly..., secondly..., in conclusion..."
+  ],
+  "maxTurns": 16,
+  "estimatedMinutes": 18
+}

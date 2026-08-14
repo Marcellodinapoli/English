@@ -1,0 +1,69 @@
+{
+  "id": "B2",
+  "name": "B2",
+  "label": "Upper Intermediate",
+  "description": "Discuss news, debate ideas, and negotiate with confidence.",
+  "order": 4,
+  "units": [
+    {
+      "id": "b2-u1",
+      "levelId": "B2",
+      "title": "Complex communication",
+      "titleIt": "Comunicazione complessa",
+      "description": "Understand news stories and practise negotiation skills.",
+      "order": 1,
+      "lessons": [
+        {
+          "id": "b2-u1-l1",
+          "title": "In the news",
+          "order": 1
+        },
+        {
+          "id": "b2-u1-l2",
+          "title": "Negotiating",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "b2-u2",
+      "levelId": "B2",
+      "title": "Abstract ideas",
+      "titleIt": "Idee astratte",
+      "description": "Discuss trends, change, and weigh advantages and disadvantages.",
+      "order": 2,
+      "lessons": [
+        {
+          "id": "b2-u2-l1",
+          "title": "Trends and change",
+          "order": 1
+        },
+        {
+          "id": "b2-u2-l2",
+          "title": "Pros and cons",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "b2-u3",
+      "levelId": "B2",
+      "title": "Persuasion",
+      "titleIt": "Persuasione",
+      "description": "Make a clear case and use diplomatic language.",
+      "order": 3,
+      "lessons": [
+        {
+          "id": "b2-u3-l1",
+          "title": "Making a case",
+          "order": 1
+        },
+        {
+          "id": "b2-u3-l2",
+          "title": "Diplomatic language",
+          "order": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rp-c1-boardroom",
+  "title": "Boardroom presentation",
+  "titleIt": "Presentazione in sala riunioni",
+  "category": "work",
+  "level": "C1",
+  "description": "Present a proposal to the board, handle questions, and negotiate with senior executives.",
+  "descriptionIt": "Presenta una proposta al consiglio, gestisci le domande e negozia con i dirigenti.",
+  "setting": "A formal boardroom at a multinational company. You are presenting a strategic proposal.",
+  "yourRole": "Presenter",
+  "aiRole": "Board member",
+  "aiCharacter": "Senior executive named Margaret. Direct, professional, and expects precise language.",
+  "goals": [
+    "Open with a clear outline of your proposal",
+    "Respond to challenging questions with nuance",
+    "Reach agreement on next steps"
+  ],
+  "openingLine": "Thank you for joining us. We have thirty minutes. Please begin whenever you are ready.",
+  "suggestedPhrases": [
+    "Let me outline the three key points.",
+    "The key takeaway is that we must act now.",
+    "I would respectfully suggest...",
+    "Rarely have we seen such an opportunity."
+  ],
+  "maxTurns": 16,
+  "estimatedMinutes": 18
+}

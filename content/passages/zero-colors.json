@@ -1,0 +1,142 @@
+{
+  "id": "zero-colors",
+  "type": "passage",
+  "level": "ZERO",
+  "title": "Colors",
+  "titleIt": "Colori",
+  "description": "Simple sentences about colours.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "It is red.",
+      "translation": "È rosso.",
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "pos": "pronoun",
+          "phonetic": "/ɪt/",
+          "meanings": [{ "translation": "esso / essa", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "red",
+          "lemma": "red",
+          "pos": "adjective",
+          "phonetic": "/red/",
+          "meanings": [{ "translation": "rosso", "partOfSpeech": "adjective" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "The sky is blue.",
+      "translation": "Il cielo è blu.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / la / i / le", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "sky",
+          "lemma": "sky",
+          "pos": "noun",
+          "phonetic": "/skaɪ/",
+          "meanings": [{ "translation": "cielo", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "blue",
+          "lemma": "blue",
+          "pos": "adjective",
+          "phonetic": "/bluː/",
+          "meanings": [{ "translation": "blu", "partOfSpeech": "adjective" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The grass is green. The sun is yellow.",
+      "translation": "L'erba è verde. Il sole è giallo.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "grass",
+          "lemma": "grass",
+          "pos": "noun",
+          "phonetic": "/ɡrɑːs/",
+          "meanings": [{ "translation": "erba", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "green",
+          "lemma": "green",
+          "pos": "adjective",
+          "phonetic": "/ɡriːn/",
+          "meanings": [{ "translation": "verde", "partOfSpeech": "adjective" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "sun",
+          "lemma": "sun",
+          "pos": "noun",
+          "phonetic": "/sʌn/",
+          "meanings": [{ "translation": "sole", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "yellow",
+          "lemma": "yellow",
+          "pos": "adjective",
+          "phonetic": "/ˈjeləʊ/",
+          "meanings": [{ "translation": "giallo", "partOfSpeech": "adjective" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["red", "blue", "green", "yellow"],
+  "grammarFocus": ["to-be-is"]
+}

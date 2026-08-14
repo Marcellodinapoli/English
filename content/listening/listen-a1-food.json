@@ -1,0 +1,42 @@
+{
+  "id": "listen-a1-food",
+  "title": "Food and drinks",
+  "titleIt": "Cibo e bevande",
+  "level": "A1.3",
+  "description": "Listen to food preferences and a simple order.",
+  "audioText": "I like coffee, but I don't like tea. For lunch I want a sandwich and water. A coffee, please.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "l1",
+      "type": "comprehension",
+      "prompt": "What does he like?",
+      "promptIt": "Cosa gli piace?",
+      "transcript": "I like coffee, but I don't like tea.",
+      "options": ["coffee", "tea", "water only", "sandwich only"],
+      "answer": "coffee"
+    },
+    {
+      "id": "l2",
+      "type": "listen_identify",
+      "prompt": "What does he want for lunch?",
+      "transcript": "For lunch I want a sandwich and water.",
+      "options": ["a sandwich and water", "tea and cake", "pasta only", "coffee and milk"],
+      "answer": "a sandwich and water"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: A coffee, ____.",
+      "transcript": "A coffee, please.",
+      "answer": "please"
+    },
+    {
+      "id": "l4",
+      "type": "dictation",
+      "prompt": "Write what you hear.",
+      "transcript": "I don't like tea.",
+      "answer": "I don't like tea."
+    }
+  ]
+}

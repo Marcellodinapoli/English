@@ -1,0 +1,113 @@
+{
+  "id": "b2-u2-l2",
+  "unitId": "b2-u2",
+  "levelId": "B2",
+  "title": "Pros and cons",
+  "titleIt": "Pro e contro",
+  "description": "Weigh advantages and disadvantages in a balanced discussion.",
+  "estimatedMinutes": 16,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "b2-pros-cons",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Weigh both sides",
+    "body": "Learn language for advantages, drawbacks, and balanced conclusions.",
+    "bodyIt": "Impara il linguaggio per vantaggi, svantaggi e conclusioni equilibrate.",
+    "objectives": [
+      "List clear pros and cons",
+      "Use linking language for contrast",
+      "Reach a balanced conclusion"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "advantage",
+      "lemma": "advantage",
+      "translation": "vantaggio",
+      "partOfSpeech": "noun",
+      "phonetic": "/ədˈvɑːntɪdʒ/",
+      "example": "One advantage is greater flexibility.",
+      "exampleTranslation": "Un vantaggio è una maggiore flessibilità."
+    },
+    {
+      "word": "drawback",
+      "lemma": "drawback",
+      "translation": "inconveniente",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdrɔːbæk/",
+      "example": "A major drawback is reduced collaboration.",
+      "exampleTranslation": "Un grande inconveniente è la collaborazione ridotta."
+    },
+    {
+      "word": "on balance",
+      "lemma": "on balance",
+      "translation": "tutto sommato",
+      "partOfSpeech": "phrase",
+      "phonetic": "/ɒn ˈbæləns/",
+      "example": "On balance, the benefits outweigh the risks.",
+      "exampleTranslation": "Tutto sommato, i benefici superano i rischi."
+    }
+  ],
+  "readingRef": "b2-pros-cons",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which word means a disadvantage?",
+      "promptIt": "Quale parola significa uno svantaggio?",
+      "options": [
+        "drawback",
+        "benefit",
+        "advantage",
+        "opportunity"
+      ],
+      "answer": "drawback",
+      "explanation": "A drawback is a disadvantage or negative point."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "____ balance, the benefits outweigh the risks.",
+      "promptIt": "Completa: ____ balance, the benefits outweigh the risks.",
+      "answer": "On",
+      "explanation": "On balance introduces a careful overall judgement."
+    }
+  ],
+  "review": {
+    "summary": [
+      "advantage / drawback / on balance",
+      "However / although",
+      "Balanced conclusions"
+    ],
+    "tip": "Write three pros and two cons of remote work, then give your conclusion."
+  }
+}

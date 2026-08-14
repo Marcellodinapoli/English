@@ -1,0 +1,33 @@
+{
+  "id": "speak-zero-hello",
+  "title": "Say Hello",
+  "titleIt": "Di' ciao",
+  "level": "ZERO",
+  "description": "Listen and repeat your first greetings.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "Hello.",
+      "hint": "A simple greeting"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "Hi. My name is Anna.",
+      "hint": "Introduce a name"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Say your name in English.",
+      "promptIt": "Di' il tuo nome in inglese.",
+      "exampleAnswer": "My name is Marco.",
+      "hint": "Use: My name is..."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "a1-u2-l1",
+  "unitId": "a1-u2",
+  "levelId": "A1",
+  "title": "My family",
+  "titleIt": "La mia famiglia",
+  "description": "Family members and short descriptions.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a1-my-family", "required": true },
+    { "id": "grammar", "type": "grammar", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about your family",
+    "body": "Learn family vocabulary and describe people with to be and have.",
+    "bodyIt": "Impara il vocabolario della famiglia e descrivi le persone con to be e have.",
+    "objectives": ["Name family members", "Use my mother / my father", "Read a short family text"]
+  },
+  "vocabulary": [
+    {
+      "word": "family",
+      "lemma": "family",
+      "translation": "famiglia",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfæməli/",
+      "example": "This is my family.",
+      "exampleTranslation": "Questa è la mia famiglia."
+    },
+    {
+      "word": "mother",
+      "lemma": "mother",
+      "translation": "madre",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmʌðə/",
+      "example": "My mother is a teacher.",
+      "exampleTranslation": "Mia madre è un'insegnante."
+    },
+    {
+      "word": "father",
+      "lemma": "father",
+      "translation": "padre",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfɑːðə/",
+      "example": "My father works in a bank.",
+      "exampleTranslation": "Mio padre lavora in una banca."
+    },
+    {
+      "word": "sister",
+      "lemma": "sister",
+      "translation": "sorella",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɪstə/",
+      "example": "I have one sister.",
+      "exampleTranslation": "Ho una sorella."
+    },
+    {
+      "word": "brother",
+      "lemma": "brother",
+      "translation": "fratello",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbrʌðə/",
+      "example": "I have one brother.",
+      "exampleTranslation": "Ho un fratello."
+    }
+  ],
+  "readingRef": "a1-my-family",
+  "grammar": {
+    "examples": ["I have one sister.", "She has two brothers.", "We have a big family."],
+    "pattern": "I / you / we / they + have  |  he / she / it + has",
+    "explanation": "Use have/has to talk about possession and family.",
+    "explanationIt": "Usa have/has per parlare di possesso e famiglia."
+  },
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "My ____ is a teacher.",
+      "options": ["mother", "meet", "from", "hello"],
+      "answer": "mother"
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "I ____ one brother.",
+      "answer": "have"
+    }
+  ],
+  "review": {
+    "summary": ["family / mother / father / sister / brother", "I have...", "possessive my"],
+    "tip": "Describe your real family in three short sentences."
+  }
+}

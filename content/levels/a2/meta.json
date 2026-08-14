@@ -1,0 +1,45 @@
+{
+  "id": "A2",
+  "name": "A2",
+  "label": "Elementary",
+  "description": "Talk about daily life, travel, free time, and past events.",
+  "order": 2,
+  "units": [
+    {
+      "id": "a2-u1",
+      "levelId": "A2",
+      "title": "Daily life",
+      "titleIt": "Vita quotidiana",
+      "description": "Describe yesterday and handle everyday shopping.",
+      "order": 1,
+      "lessons": [
+        { "id": "a2-u1-l1", "title": "Yesterday", "order": 1 },
+        { "id": "a2-u1-l2", "title": "At the shop", "order": 2 }
+      ]
+    },
+    {
+      "id": "a2-u2",
+      "levelId": "A2",
+      "title": "Travel",
+      "titleIt": "Viaggi",
+      "description": "Talk about journeys and manage simple station situations.",
+      "order": 2,
+      "lessons": [
+        { "id": "a2-u2-l1", "title": "Getting there", "order": 1 },
+        { "id": "a2-u2-l2", "title": "At the station", "order": 2 }
+      ]
+    },
+    {
+      "id": "a2-u3",
+      "levelId": "A2",
+      "title": "Free time",
+      "titleIt": "Tempo libero",
+      "description": "Describe hobbies and talk about last weekend.",
+      "order": 3,
+      "lessons": [
+        { "id": "a2-u3-l1", "title": "Hobbies", "order": 1 },
+        { "id": "a2-u3-l2", "title": "Last weekend", "order": 2 }
+      ]
+    }
+  ]
+}

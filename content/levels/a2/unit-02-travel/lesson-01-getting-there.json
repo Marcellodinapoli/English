@@ -1,0 +1,102 @@
+{
+  "id": "a2-u2-l1",
+  "unitId": "a2-u2",
+  "levelId": "A2",
+  "title": "Getting there",
+  "titleIt": "Come arrivare",
+  "description": "Talk about how you travel and use going to for future plans.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a2-getting-there", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about your journey",
+    "body": "Learn words for transport and say how you are going to travel.",
+    "bodyIt": "Impara il vocabolario dei mezzi di trasporto e di' come hai intenzione di viaggiare.",
+    "objectives": [
+      "Name common forms of transport",
+      "Use going to for travel plans",
+      "Read a short text about a journey"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "train",
+      "lemma": "train",
+      "translation": "treno",
+      "partOfSpeech": "noun",
+      "phonetic": "/treɪn/",
+      "example": "I am going to take the train.",
+      "exampleTranslation": "Prenderò il treno."
+    },
+    {
+      "word": "flight",
+      "lemma": "flight",
+      "translation": "volo",
+      "partOfSpeech": "noun",
+      "phonetic": "/flaɪt/",
+      "example": "Our flight leaves at six.",
+      "exampleTranslation": "Il nostro volo parte alle sei."
+    },
+    {
+      "word": "ticket",
+      "lemma": "ticket",
+      "translation": "biglietto",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtɪkɪt/",
+      "example": "I need a ticket to Rome.",
+      "exampleTranslation": "Mi serve un biglietto per Roma."
+    },
+    {
+      "word": "journey",
+      "lemma": "journey",
+      "translation": "viaggio / tragitto",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒɜːni/",
+      "example": "The journey takes two hours.",
+      "exampleTranslation": "Il viaggio dura due ore."
+    }
+  ],
+  "readingRef": "a2-getting-there",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "promptIt": "Scegli la frase corretta.",
+      "options": [
+        "I am going to take the train.",
+        "I going to take the train.",
+        "I am go to take the train.",
+        "I am going take the train."
+      ],
+      "answer": "I am going to take the train.",
+      "explanation": "Use am/is/are + going to + verb for future plans."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "I need a ____ to Milan.",
+      "promptIt": "Completa: I need a ____ to Milan.",
+      "answer": "ticket",
+      "explanation": "A ticket is what you buy to travel by train, bus, or plane."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What does journey mean?",
+      "promptIt": "Cosa significa journey?",
+      "options": ["viaggio / tragitto", "biglietto", "stazione", "valigia"],
+      "answer": "viaggio / tragitto",
+      "explanation": "Journey means the trip from one place to another."
+    }
+  ],
+  "review": {
+    "summary": ["train / flight / ticket", "going to + verb", "The journey takes two hours."],
+    "tip": "Say how you are going to travel next weekend using going to."
+  }
+}

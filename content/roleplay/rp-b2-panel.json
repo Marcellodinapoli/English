@@ -1,0 +1,27 @@
+{
+  "id": "rp-b2-panel",
+  "title": "Panel discussion",
+  "titleIt": "Discussione in panel",
+  "category": "social",
+  "level": "B2",
+  "description": "Join a community panel debating a local issue with balanced arguments.",
+  "descriptionIt": "Partecipa a un panel della comunità dibattendendo un tema locale con argomenti equilibrati.",
+  "setting": "A public panel at a community centre discussing city transport changes.",
+  "yourRole": "Panel speaker",
+  "aiRole": "Moderator",
+  "aiCharacter": "Moderator named Chris. Keeps time, invites both sides, and asks follow-ups.",
+  "goals": [
+    "State a clear claim with evidence",
+    "Acknowledge one opposing point",
+    "Offer a practical recommendation"
+  ],
+  "openingLine": "Welcome to the panel. What is your main position on the proposed change?",
+  "suggestedPhrases": [
+    "Our claim is supported by recent survey data.",
+    "However, a major drawback remains cost.",
+    "On balance, the benefits outweigh the risks.",
+    "Therefore, I would recommend a phased approach."
+  ],
+  "maxTurns": 14,
+  "estimatedMinutes": 15
+}

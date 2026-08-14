@@ -1,0 +1,55 @@
+{
+  "id": "grammar-b2-modals-deduction",
+  "level": "B2",
+  "title": "Modals of deduction — must / might / can't",
+  "titleIt": "Modali di deduzione — must / might / can't",
+  "examples": [
+    "It must be the right approach.",
+    "It might be better to wait.",
+    "That can't be accurate."
+  ],
+  "pattern": "must / might / may / can't + base verb",
+  "explanation": "Use must for strong certainty, might/may for possibility, and can't for strong impossibility.",
+  "explanationIt": "Usa must per forte certezza, might/may per possibilità e can't per forte impossibilità.",
+  "realUse": [
+    "It might be better to check the figures before we confirm.",
+    "That must be a reasonable compromise.",
+    "This can't be the final version."
+  ],
+  "relatedErrorTypes": [
+    "modals"
+  ],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the softest deduction.",
+      "options": [
+        "It might be better to wait.",
+        "It must be better to wait.",
+        "It can't be better to wait.",
+        "It is better must wait."
+      ],
+      "answer": "It might be better to wait.",
+      "explanation": "Might expresses possibility and softens the suggestion."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "That ____ be accurate — the numbers do not match.",
+      "answer": "can't"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: It musts be a compromise.",
+      "options": [
+        "It must be a compromise.",
+        "It musts be a compromise.",
+        "It must to be a compromise.",
+        "It musting be a compromise."
+      ],
+      "answer": "It must be a compromise."
+    }
+  ]
+}

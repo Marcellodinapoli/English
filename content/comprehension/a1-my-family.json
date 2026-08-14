@@ -1,0 +1,83 @@
+{
+  "passageId": "a1-my-family",
+  "level": "A1",
+  "questions": [
+    {
+      "id": "a1-my-family-main",
+      "passageId": "a1-my-family",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "My family",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "My family",
+      "explanation": "The passage is about: My family — A learner describes their family.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A1"
+    },
+    {
+      "id": "a1-my-family-detail",
+      "passageId": "a1-my-family",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "This is my family.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "This is my family.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    },
+    {
+      "id": "a1-my-family-tf",
+      "passageId": "a1-my-family",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"My mother is a teacher.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A1"
+    },
+    {
+      "id": "a1-my-family-short",
+      "passageId": "a1-my-family",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"family\". Type that focus item.",
+      "correctAnswer": "family",
+      "explanation": "\"family\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A1"
+    },
+    {
+      "id": "a1-my-family-detail2",
+      "passageId": "a1-my-family",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "I have one sister and one brother.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "I have one sister and one brother.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    }
+  ]
+}

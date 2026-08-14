@@ -1,0 +1,83 @@
+{
+  "passageId": "a1-in-the-city",
+  "level": "A1",
+  "questions": [
+    {
+      "id": "a1-in-the-city-main",
+      "passageId": "a1-in-the-city",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "In the city",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "In the city",
+      "explanation": "The passage is about: In the city — Places and simple directions in town.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A1"
+    },
+    {
+      "id": "a1-in-the-city-detail",
+      "passageId": "a1-in-the-city",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Where is the station?",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Where is the station?",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    },
+    {
+      "id": "a1-in-the-city-tf",
+      "passageId": "a1-in-the-city",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"It is near the park.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A1"
+    },
+    {
+      "id": "a1-in-the-city-short",
+      "passageId": "a1-in-the-city",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"station\". Type that focus item.",
+      "correctAnswer": "station",
+      "explanation": "\"station\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A1"
+    },
+    {
+      "id": "a1-in-the-city-detail2",
+      "passageId": "a1-in-the-city",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "Turn left at the shop. The café is on the right.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "Turn left at the shop. The café is on the right.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A1"
+    }
+  ]
+}

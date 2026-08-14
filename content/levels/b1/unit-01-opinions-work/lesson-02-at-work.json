@@ -1,0 +1,79 @@
+{
+  "id": "b1-u1-l2",
+  "unitId": "b1-u1",
+  "levelId": "B1",
+  "title": "At work",
+  "titleIt": "Al lavoro",
+  "description": "Talk about your job, tasks, and workplace routines.",
+  "estimatedMinutes": 14,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "b1-opinion", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Navigate the workplace",
+    "body": "Learn vocabulary for jobs, deadlines, and team communication at work.",
+    "bodyIt": "Impara vocabolario per lavoro, scadenze e comunicazione in team.",
+    "objectives": [
+      "Describe your role and responsibilities",
+      "Talk about deadlines and meetings",
+      "Use the Present Perfect for work experience"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "deadline",
+      "lemma": "deadline",
+      "translation": "scadenza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdedlaɪn/",
+      "example": "The deadline is on Friday.",
+      "exampleTranslation": "La scadenza è venerdì."
+    },
+    {
+      "word": "colleague",
+      "lemma": "colleague",
+      "translation": "collega",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɒliːɡ/",
+      "example": "My colleague helped me with the report.",
+      "exampleTranslation": "Il mio collega mi ha aiutato con il report."
+    },
+    {
+      "word": "project",
+      "lemma": "project",
+      "translation": "progetto",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈprɒdʒekt/",
+      "example": "We have finished the project.",
+      "exampleTranslation": "Abbiamo finito il progetto."
+    }
+  ],
+  "readingRef": "b1-opinion",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What does deadline mean?",
+      "promptIt": "Cosa significa deadline?",
+      "options": ["scadenza", "collega", "progetto", "riunione"],
+      "answer": "scadenza",
+      "explanation": "A deadline is the last day or time to finish something."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "We have ____ the project this week.",
+      "promptIt": "Completa: We have ____ the project this week.",
+      "answer": "finished",
+      "explanation": "Use Present Perfect (have finished) for a recent completed action."
+    }
+  ],
+  "review": {
+    "summary": ["deadline / colleague / project", "I have worked here for...", "At work phrases"],
+    "tip": "Describe your job in three sentences using colleague and project."
+  }
+}

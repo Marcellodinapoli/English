@@ -1,0 +1,79 @@
+{
+  "id": "zero-u1-l1",
+  "unitId": "zero-u1",
+  "levelId": "ZERO",
+  "title": "Hello",
+  "titleIt": "Ciao",
+  "description": "Your first English greetings.",
+  "estimatedMinutes": 8,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "zero-hello-world", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Start with a greeting",
+    "body": "In English, we use Hello or Hi to greet someone. Today you will learn how to say hello and introduce your name.",
+    "bodyIt": "In inglese usiamo Hello o Hi per salutare. Oggi impari a dire ciao e a presentarti.",
+    "objectives": [
+      "Say Hello and Hi",
+      "Introduce yourself with My name is...",
+      "Read a short greeting"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "Hello",
+      "lemma": "hello",
+      "translation": "Ciao / Salve",
+      "partOfSpeech": "interjection",
+      "phonetic": "/həˈləʊ/",
+      "example": "Hello!",
+      "exampleTranslation": "Ciao!"
+    },
+    {
+      "word": "Hi",
+      "lemma": "hi",
+      "translation": "Ciao (informale)",
+      "partOfSpeech": "interjection",
+      "phonetic": "/haɪ/",
+      "example": "Hi, Anna.",
+      "exampleTranslation": "Ciao, Anna."
+    },
+    {
+      "word": "name",
+      "lemma": "name",
+      "translation": "nome",
+      "partOfSpeech": "noun",
+      "phonetic": "/neɪm/",
+      "example": "My name is Anna.",
+      "exampleTranslation": "Mi chiamo Anna."
+    }
+  ],
+  "readingRef": "zero-hello-world",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "How do you greet someone in English?",
+      "promptIt": "Come saluti qualcuno in inglese?",
+      "options": ["Hello", "Pasta", "Grazie", "Buongiorno only"],
+      "answer": "Hello",
+      "explanation": "Hello is the most common greeting."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Complete: My ____ is Anna.",
+      "promptIt": "Completa: My ____ is Anna.",
+      "answer": "name",
+      "explanation": "We say: My name is..."
+    }
+  ],
+  "review": {
+    "summary": ["Hello / Hi", "My name is...", "I am Anna"],
+    "tip": "Practice saying your name out loud: My name is..."
+  }
+}

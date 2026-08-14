@@ -1,0 +1,102 @@
+{
+  "id": "a2-u3-l2",
+  "unitId": "a2-u3",
+  "levelId": "A2",
+  "title": "Last weekend",
+  "titleIt": "Il weekend scorso",
+  "description": "Describe what you did last weekend using the Past Simple.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a2-last-weekend", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Describe last weekend",
+    "body": "Practise Past Simple verbs and time expressions like last weekend and on Saturday.",
+    "bodyIt": "Esercitati con il Past Simple e con espressioni come last weekend e on Saturday.",
+    "objectives": [
+      "Use last weekend and on Saturday",
+      "Describe free-time activities in the past",
+      "Read a short weekend story"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "weekend",
+      "lemma": "weekend",
+      "translation": "fine settimana",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌwiːkˈend/",
+      "example": "Last weekend I stayed at home.",
+      "exampleTranslation": "Il weekend scorso sono rimasto a casa."
+    },
+    {
+      "word": "met",
+      "lemma": "meet",
+      "translation": "incontrò / ho incontrato",
+      "partOfSpeech": "verb",
+      "phonetic": "/met/",
+      "example": "I met my friends on Saturday.",
+      "exampleTranslation": "Ho incontrato i miei amici sabato."
+    },
+    {
+      "word": "watched",
+      "lemma": "watch",
+      "translation": "guardò / ho guardato",
+      "partOfSpeech": "verb",
+      "phonetic": "/wɒtʃt/",
+      "example": "We watched a film at home.",
+      "exampleTranslation": "Abbiamo guardato un film a casa."
+    },
+    {
+      "word": "relaxed",
+      "lemma": "relax",
+      "translation": "si rilassò / mi sono rilassato",
+      "partOfSpeech": "verb",
+      "phonetic": "/rɪˈlækst/",
+      "example": "I relaxed on Sunday afternoon.",
+      "exampleTranslation": "Mi sono rilassato domenica pomeriggio."
+    }
+  ],
+  "readingRef": "a2-last-weekend",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "promptIt": "Scegli la frase corretta.",
+      "options": [
+        "Last weekend I met my friends.",
+        "Last weekend I meet my friends.",
+        "Last weekend I meeting my friends.",
+        "Last weekend I meets my friends."
+      ],
+      "answer": "Last weekend I met my friends.",
+      "explanation": "Use Past Simple (met) with last weekend."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "We ____ a film on Saturday evening.",
+      "promptIt": "Completa: We ____ a film on Saturday evening.",
+      "answer": "watched",
+      "explanation": "The Past Simple of watch is watched."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which word means fine settimana?",
+      "promptIt": "Quale parola significa fine settimana?",
+      "options": ["weekend", "platform", "ticket", "delay"],
+      "answer": "weekend",
+      "explanation": "Weekend means Saturday and Sunday."
+    }
+  ],
+  "review": {
+    "summary": ["last weekend / on Saturday", "met / watched / relaxed", "Past Simple for finished free time"],
+    "tip": "Write three sentences about last weekend using met or watched."
+  }
+}

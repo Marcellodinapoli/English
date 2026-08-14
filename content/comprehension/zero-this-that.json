@@ -1,0 +1,83 @@
+{
+  "passageId": "zero-this-that",
+  "level": "ZERO",
+  "questions": [
+    {
+      "id": "zero-this-that-main",
+      "passageId": "zero-this-that",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "This is / That is",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "This is / That is",
+      "explanation": "The passage is about: This is / That is — Pointing to near and far objects.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-this-that-detail",
+      "passageId": "zero-this-that",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "This is a book.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "This is a book.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-this-that-tf",
+      "passageId": "zero-this-that",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"That is a pen.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-this-that-short",
+      "passageId": "zero-this-that",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"this\". Type that focus item.",
+      "correctAnswer": "this",
+      "explanation": "\"this\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "ZERO"
+    },
+    {
+      "id": "zero-this-that-detail2",
+      "passageId": "zero-this-that",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "This is my bag.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "This is my bag.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "ZERO"
+    }
+  ]
+}

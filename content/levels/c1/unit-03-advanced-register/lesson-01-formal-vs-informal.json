@@ -1,0 +1,136 @@
+{
+  "id": "c1-u3-l1",
+  "unitId": "c1-u3",
+  "levelId": "C1",
+  "title": "Formal vs informal",
+  "titleIt": "Formale vs informale",
+  "description": "Choose and switch register according to audience and context.",
+  "estimatedMinutes": 18,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "c1-register",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Control your register",
+    "body": "Distinguish casual and professional wording, and practise shifting tone without losing meaning.",
+    "bodyIt": "Distingui formulazioni casual e professionali e pratica i cambi di tono senza perdere il significato.",
+    "objectives": [
+      "Identify formal and informal equivalents",
+      "Adapt language to audience",
+      "Avoid register mismatch in professional settings"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "register",
+      "lemma": "register",
+      "translation": "registro (linguistico)",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈredʒɪstə/",
+      "example": "Email to clients usually requires formal register.",
+      "exampleTranslation": "Le email ai clienti di solito richiedono un registro formale."
+    },
+    {
+      "word": "formal",
+      "lemma": "formal",
+      "translation": "formale",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfɔːml/",
+      "example": "Use formal language in board reports.",
+      "exampleTranslation": "Usa un linguaggio formale nei report per il consiglio."
+    },
+    {
+      "word": "informal",
+      "lemma": "informal",
+      "translation": "informale",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈfɔːml/",
+      "example": "Informal chat is fine among close colleagues.",
+      "exampleTranslation": "La chiacchiera informale va bene tra colleghi stretti."
+    },
+    {
+      "word": "audience",
+      "lemma": "audience",
+      "translation": "pubblico / destinatari",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɔːdiəns/",
+      "example": "Always adapt tone to your audience.",
+      "exampleTranslation": "Adatta sempre il tono al tuo pubblico."
+    }
+  ],
+  "readingRef": "c1-register",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which is formal?",
+      "promptIt": "Quale è formale?",
+      "options": [
+        "I would agree with that assessment.",
+        "Yeah, that sounds fine.",
+        "Cool, whatever.",
+        "Nah, skip it."
+      ],
+      "answer": "I would agree with that assessment.",
+      "explanation": "Assessment and would agree mark formal register."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Choosing the suitable ____ reflects awareness of audience and context.",
+      "promptIt": "Completa: Choosing the suitable ____ reflects awareness of audience and context.",
+      "answer": "register",
+      "explanation": "Register is the level of formality in language."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Register should mainly match...",
+      "promptIt": "Il registro dovrebbe principalmente corrispondere a...",
+      "options": [
+        "audience and context",
+        "font size",
+        "weather",
+        "random preference"
+      ],
+      "answer": "audience and context",
+      "explanation": "Purpose and listeners determine suitable formality."
+    }
+  ],
+  "review": {
+    "summary": [
+      "register / formal / informal / audience",
+      "Equivalence pairs",
+      "Tone matching"
+    ],
+    "tip": "Rewrite one casual message as a formal email of the same meaning."
+  }
+}

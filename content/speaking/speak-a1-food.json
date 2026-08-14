@@ -1,0 +1,40 @@
+{
+  "id": "speak-a1-food",
+  "title": "Talk about food",
+  "titleIt": "Parla di cibo",
+  "level": "A1.3",
+  "description": "Practise likes, dislikes, and a café order.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "I like coffee, but I don't like tea.",
+      "hint": "like / don't like"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "A sandwich and water, please.",
+      "hint": "Polite order"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "What food do you like?",
+      "promptIt": "Che cibo ti piace?",
+      "exampleAnswer": "I like pasta.",
+      "hint": "I like + food"
+    },
+    {
+      "id": "s4",
+      "mode": "free",
+      "prompt": "Order a drink in a café.",
+      "promptIt": "Ordina una bevanda al bar.",
+      "exampleAnswer": "A coffee, please.",
+      "hint": "Add please"
+    }
+  ]
+}

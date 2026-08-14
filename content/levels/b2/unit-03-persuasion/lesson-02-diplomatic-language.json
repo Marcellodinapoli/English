@@ -1,0 +1,136 @@
+{
+  "id": "b2-u3-l2",
+  "unitId": "b2-u3",
+  "levelId": "B2",
+  "title": "Diplomatic language",
+  "titleIt": "Linguaggio diplomatico",
+  "description": "Soften disagreement and make polite suggestions in sensitive discussions.",
+  "estimatedMinutes": 16,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "b2-diplomatic",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Disagree without conflict",
+    "body": "Use hedging, polite questions, and careful wording to keep conversations constructive.",
+    "bodyIt": "Usa attenuazioni, domande cortesi e formulazioni attente per mantenere le conversazioni costruttive.",
+    "objectives": [
+      "Soften disagreement politely",
+      "Make suggestions with modal verbs",
+      "Keep discussions constructive"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "diplomatic",
+      "lemma": "diplomatic",
+      "translation": "diplomatico",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌdɪpləˈmætɪk/",
+      "example": "A diplomatic reply avoided an argument.",
+      "exampleTranslation": "Una risposta diplomatica ha evitato una discussione."
+    },
+    {
+      "word": "soften",
+      "lemma": "soften",
+      "translation": "attenuare",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈsɒfn/",
+      "example": "Hedging softens a direct refusal.",
+      "exampleTranslation": "L'attenuazione smorza un rifiuto diretto."
+    },
+    {
+      "word": "approach",
+      "lemma": "approach",
+      "translation": "approccio",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈprəʊtʃ/",
+      "example": "We might consider another approach.",
+      "exampleTranslation": "Potremmo considerare un altro approccio."
+    },
+    {
+      "word": "constructive",
+      "lemma": "constructive",
+      "translation": "costruttivo",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kənˈstrʌktɪv/",
+      "example": "Keep feedback constructive and specific.",
+      "exampleTranslation": "Mantieni il feedback costruttivo e specifico."
+    }
+  ],
+  "readingRef": "b2-diplomatic",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which is more diplomatic?",
+      "promptIt": "Quale è più diplomatico?",
+      "options": [
+        "I wonder whether we might consider another approach.",
+        "That idea is useless.",
+        "You are completely wrong.",
+        "No way."
+      ],
+      "answer": "I wonder whether we might consider another approach.",
+      "explanation": "Wonder whether and might soften disagreement."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Would it be ____ to postpone the decision?",
+      "promptIt": "Completa: Would it be ____ to postpone the decision?",
+      "answer": "possible",
+      "explanation": "Would it be possible is a polite request form."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What does diplomatic language help keep?",
+      "promptIt": "Cosa aiuta a mantenere il linguaggio diplomatico?",
+      "options": [
+        "constructive discussion",
+        "angry conflict",
+        "silence only",
+        "unclear goals"
+      ],
+      "answer": "constructive discussion",
+      "explanation": "Diplomatic wording reduces conflict and keeps talk useful."
+    }
+  ],
+  "review": {
+    "summary": [
+      "diplomatic / soften / approach / constructive",
+      "I wonder whether...",
+      "Would it be possible..."
+    ],
+    "tip": "Rewrite one blunt disagreement as a polite suggestion."
+  }
+}

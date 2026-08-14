@@ -1,0 +1,83 @@
+{
+  "passageId": "b2-news-debate",
+  "level": "B2",
+  "questions": [
+    {
+      "id": "b2-news-debate-main",
+      "passageId": "b2-news-debate",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "In the news",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "In the news",
+      "explanation": "The passage is about: In the news — A short news-style text about a policy debate.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "B2"
+    },
+    {
+      "id": "b2-news-debate-detail",
+      "passageId": "b2-news-debate",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "The headline today is about a new climate policy.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "The headline today is about a new climate policy.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    },
+    {
+      "id": "b2-news-debate-tf",
+      "passageId": "b2-news-debate",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"According to the report, both sides have entered a fierce debate.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "B2"
+    },
+    {
+      "id": "b2-news-debate-short",
+      "passageId": "b2-news-debate",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"headline\". Type that focus item.",
+      "correctAnswer": "headline",
+      "explanation": "\"headline\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "B2"
+    },
+    {
+      "id": "b2-news-debate-detail2",
+      "passageId": "b2-news-debate",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "If the proposal is accepted, companies would need to reduce emissions by twenty percent.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "If the proposal is accepted, companies would need to reduce emissions by twenty percent.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    }
+  ]
+}

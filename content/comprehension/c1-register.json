@@ -1,0 +1,83 @@
+{
+  "passageId": "c1-register",
+  "level": "C1",
+  "questions": [
+    {
+      "id": "c1-register-main",
+      "passageId": "c1-register",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Formal vs informal",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Formal vs informal",
+      "explanation": "The passage is about: Formal vs informal — A short comparison of register in professional communication.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "C1"
+    },
+    {
+      "id": "c1-register-detail",
+      "passageId": "c1-register",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "In formal correspondence, writers avoid colloquial wording and contractions.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "In formal correspondence, writers avoid colloquial wording and contractions.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    },
+    {
+      "id": "c1-register-tf",
+      "passageId": "c1-register",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"I should be grateful if you could confirm the revised schedule.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "C1"
+    },
+    {
+      "id": "c1-register-short",
+      "passageId": "c1-register",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"correspondence\". Type that focus item.",
+      "correctAnswer": "correspondence",
+      "explanation": "\"correspondence\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "C1"
+    },
+    {
+      "id": "c1-register-detail2",
+      "passageId": "c1-register",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "An informal message might simply say: Can you confirm ASAP?",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "An informal message might simply say: Can you confirm ASAP?",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    }
+  ]
+}

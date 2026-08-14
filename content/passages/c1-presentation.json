@@ -1,0 +1,274 @@
+{
+  "id": "c1-presentation",
+  "type": "passage",
+  "level": "C1",
+  "title": "Presenting ideas",
+  "titleIt": "Presentare idee",
+  "description": "A short professional presentation excerpt on register and clarity.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Let me outline the three key points of today's presentation.",
+      "translation": "Permettetemi di delineare i tre punti chiave della presentazione di oggi.",
+      "tokens": [
+        {
+          "word": "Let",
+          "lemma": "let",
+          "pos": "verb",
+          "phonetic": "/let/",
+          "meanings": [{ "translation": "permettere / lasciare", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "me",
+          "lemma": "me",
+          "pos": "pronoun",
+          "phonetic": "/miː/",
+          "meanings": [{ "translation": "mi / me", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "outline",
+          "lemma": "outline",
+          "pos": "verb",
+          "phonetic": "/ˈaʊtlaɪn/",
+          "meanings": [{ "translation": "delineare", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "three",
+          "lemma": "three",
+          "pos": "numeral",
+          "phonetic": "/θriː/",
+          "meanings": [{ "translation": "tre", "partOfSpeech": "numeral" }]
+        },
+        {
+          "word": "key",
+          "lemma": "key",
+          "pos": "adjective",
+          "phonetic": "/kiː/",
+          "meanings": [{ "translation": "chiave / principale", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "points",
+          "lemma": "point",
+          "pos": "noun",
+          "phonetic": "/pɔɪnts/",
+          "meanings": [{ "translation": "punti", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "pos": "preposition",
+          "phonetic": "/ɒv/",
+          "meanings": [{ "translation": "di", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "today's",
+          "lemma": "today",
+          "pos": "noun",
+          "phonetic": "/təˈdeɪz/",
+          "meanings": [{ "translation": "di oggi", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "presentation",
+          "lemma": "presentation",
+          "pos": "noun",
+          "phonetic": "/ˌpreznˈteɪʃn/",
+          "meanings": [{ "translation": "presentazione", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Rarely have we seen such a compelling case for strategic change.",
+      "translation": "Raramente abbiamo visto un caso così convincente per un cambiamento strategico.",
+      "tokens": [
+        {
+          "word": "Rarely",
+          "lemma": "rarely",
+          "pos": "adverb",
+          "phonetic": "/ˈreəli/",
+          "meanings": [{ "translation": "raramente", "partOfSpeech": "adverb" }]
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæv/",
+          "meanings": [{ "translation": "abbiamo", "partOfSpeech": "verb", "note": "inversione" }]
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [{ "translation": "noi", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "seen",
+          "lemma": "see",
+          "pos": "verb",
+          "phonetic": "/siːn/",
+          "meanings": [{ "translation": "visto", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "pos": "determiner",
+          "phonetic": "/sʌtʃ/",
+          "meanings": [{ "translation": "un tale / così", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "compelling",
+          "lemma": "compelling",
+          "pos": "adjective",
+          "phonetic": "/kəmˈpelɪŋ/",
+          "meanings": [{ "translation": "convincente", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "case",
+          "lemma": "case",
+          "pos": "noun",
+          "phonetic": "/keɪs/",
+          "meanings": [{ "translation": "caso / argomento", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "pos": "preposition",
+          "phonetic": "/fɔː/",
+          "meanings": [{ "translation": "per", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "strategic",
+          "lemma": "strategic",
+          "pos": "adjective",
+          "phonetic": "/strəˈtiːdʒɪk/",
+          "meanings": [{ "translation": "strategico", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "change",
+          "lemma": "change",
+          "pos": "noun",
+          "phonetic": "/tʃeɪndʒ/",
+          "meanings": [{ "translation": "cambiamento", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The key takeaway is that register and nuance matter as much as content.",
+      "translation": "Il punto chiave è che registro e sfumature contano quanto il contenuto.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "key",
+          "lemma": "key",
+          "pos": "adjective",
+          "phonetic": "/kiː/",
+          "meanings": [{ "translation": "chiave / principale", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "takeaway",
+          "lemma": "takeaway",
+          "pos": "noun",
+          "phonetic": "/ˈteɪkəweɪ/",
+          "meanings": [{ "translation": "punto chiave", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "pos": "conjunction",
+          "phonetic": "/ðæt/",
+          "meanings": [{ "translation": "che", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "register",
+          "lemma": "register",
+          "pos": "noun",
+          "phonetic": "/ˈredʒɪstə/",
+          "meanings": [{ "translation": "registro", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "pos": "conjunction",
+          "phonetic": "/ænd/",
+          "meanings": [{ "translation": "e", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "nuance",
+          "lemma": "nuance",
+          "pos": "noun",
+          "phonetic": "/ˈnjuːɑːns/",
+          "meanings": [{ "translation": "sfumatura", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "matter",
+          "lemma": "matter",
+          "pos": "verb",
+          "phonetic": "/ˈmætə/",
+          "meanings": [{ "translation": "contare / essere importanti", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "pos": "adverb",
+          "phonetic": "/æz/",
+          "meanings": [{ "translation": "quanto", "partOfSpeech": "adverb" }]
+        },
+        {
+          "word": "much",
+          "lemma": "much",
+          "pos": "adverb",
+          "phonetic": "/mʌtʃ/",
+          "meanings": [{ "translation": "molto", "partOfSpeech": "adverb" }]
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "pos": "conjunction",
+          "phonetic": "/æz/",
+          "meanings": [{ "translation": "quanto", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "content",
+          "lemma": "content",
+          "pos": "noun",
+          "phonetic": "/ˈkɒntent/",
+          "meanings": [{ "translation": "contenuto", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["outline", "compelling", "takeaway", "register", "nuance"],
+  "grammarFocus": ["inversion", "formal-register"]
+}

@@ -1,0 +1,83 @@
+{
+  "passageId": "b1-giving-advice",
+  "level": "B1",
+  "questions": [
+    {
+      "id": "b1-giving-advice-main",
+      "passageId": "b1-giving-advice",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Giving advice",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Giving advice",
+      "explanation": "The passage is about: Giving advice — A short text with polite advice using should.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "B1"
+    },
+    {
+      "id": "b1-giving-advice-detail",
+      "passageId": "b1-giving-advice",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Can I give you some advice?",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Can I give you some advice?",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B1"
+    },
+    {
+      "id": "b1-giving-advice-tf",
+      "passageId": "b1-giving-advice",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"You should book early.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "B1"
+    },
+    {
+      "id": "b1-giving-advice-short",
+      "passageId": "b1-giving-advice",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"advice\". Type that focus item.",
+      "correctAnswer": "advice",
+      "explanation": "\"advice\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "B1"
+    },
+    {
+      "id": "b1-giving-advice-detail2",
+      "passageId": "b1-giving-advice",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "If I were you, I would call the hotel first.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "If I were you, I would call the hotel first.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B1"
+    }
+  ]
+}

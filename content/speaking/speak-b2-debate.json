@@ -1,0 +1,34 @@
+{
+  "id": "speak-b2-debate",
+  "title": "Debate a topic",
+  "titleIt": "Dibatti un argomento",
+  "level": "B2",
+  "description": "Practise summarising news and arguing both sides.",
+  "estimatedMinutes": 10,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "According to the report, both sides have entered a fierce debate.",
+      "hint": "According to the report is a news phrase"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "If the proposal is accepted, companies would need to reduce emissions.",
+      "hint": "Second Conditional for hypothetical outcomes"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Summarise a news headline and give your reaction in three sentences.",
+      "promptIt": "Riassumi un titolo di giornale e dai la tua reazione in tre frasi.",
+      "exampleAnswer": "The headline is about a new climate policy. According to the report, there is strong debate. In my view, the proposal is necessary but challenging.",
+      "hint": "Use headline, according to, and in my view"
+    }
+  ]
+}

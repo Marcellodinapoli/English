@@ -1,0 +1,83 @@
+{
+  "passageId": "b2-pros-cons",
+  "level": "B2",
+  "questions": [
+    {
+      "id": "b2-pros-cons-main",
+      "passageId": "b2-pros-cons",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Pros and cons",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Pros and cons",
+      "explanation": "The passage is about: Pros and cons — A balanced discussion of advantages and drawbacks.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "B2"
+    },
+    {
+      "id": "b2-pros-cons-detail",
+      "passageId": "b2-pros-cons",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "One advantage of hybrid work is greater flexibility for employees.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "One advantage of hybrid work is greater flexibility for employees.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    },
+    {
+      "id": "b2-pros-cons-tf",
+      "passageId": "b2-pros-cons",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"However, a major drawback is that collaboration can feel weaker.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "B2"
+    },
+    {
+      "id": "b2-pros-cons-short",
+      "passageId": "b2-pros-cons",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"advantage\". Type that focus item.",
+      "correctAnswer": "advantage",
+      "explanation": "\"advantage\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "B2"
+    },
+    {
+      "id": "b2-pros-cons-detail2",
+      "passageId": "b2-pros-cons",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "On balance, many teams prefer a mixed model despite the challenges.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "On balance, many teams prefer a mixed model despite the challenges.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    }
+  ]
+}

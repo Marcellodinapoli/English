@@ -1,0 +1,100 @@
+{
+  "id": "a1-u3-l1",
+  "unitId": "a1-u3",
+  "levelId": "A1",
+  "title": "My day",
+  "titleIt": "La mia giornata",
+  "description": "Describe a simple daily routine in the present simple.",
+  "estimatedMinutes": 14,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a1-my-day", "required": true },
+    { "id": "grammar", "type": "grammar", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about your routine",
+    "body": "Learn everyday verbs and use the present simple to describe your day.",
+    "bodyIt": "Impara verbi quotidiani e usa il present simple per descrivere la tua giornata.",
+    "objectives": [
+      "Use wake up, go, work, eat",
+      "Say what you do every day",
+      "Read a short routine text"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "wake up",
+      "lemma": "wake",
+      "translation": "svegliarsi",
+      "partOfSpeech": "verb",
+      "phonetic": "/weɪk ʌp/",
+      "example": "I wake up at seven.",
+      "exampleTranslation": "Mi sveglio alle sette."
+    },
+    {
+      "word": "go to work",
+      "lemma": "go",
+      "translation": "andare al lavoro",
+      "partOfSpeech": "phrase",
+      "phonetic": "/ɡəʊ tə wɜːk/",
+      "example": "I go to work by bus.",
+      "exampleTranslation": "Vado al lavoro in autobus."
+    },
+    {
+      "word": "eat",
+      "lemma": "eat",
+      "translation": "mangiare",
+      "partOfSpeech": "verb",
+      "phonetic": "/iːt/",
+      "example": "I eat lunch at one.",
+      "exampleTranslation": "Pranzo all'una."
+    },
+    {
+      "word": "every day",
+      "lemma": "day",
+      "translation": "ogni giorno",
+      "partOfSpeech": "phrase",
+      "phonetic": "/ˈevri deɪ/",
+      "example": "I study English every day.",
+      "exampleTranslation": "Studio inglese ogni giorno."
+    }
+  ],
+  "readingRef": "a1-my-day",
+  "grammar": {
+    "examples": ["I wake up at seven.", "She goes to work.", "We eat dinner at eight."],
+    "pattern": "I/you/we/they + verb · he/she/it + verb-s",
+    "explanation": "Use the present simple for habits and daily routines. Add -s with he/she/it.",
+    "explanationIt": "Usa il present simple per abitudini e routine. Aggiungi -s con he/she/it."
+  },
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "I ____ up at seven.",
+      "options": ["wake", "wakes", "waking", "woke"],
+      "answer": "wake",
+      "explanation": "With I we use the base form."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "She ____ to work by bus.",
+      "answer": "goes",
+      "explanation": "With she we use goes."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means ogni giorno?",
+      "options": ["every day", "yesterday", "tonight", "last week"],
+      "answer": "every day"
+    }
+  ],
+  "review": {
+    "summary": ["wake up / go / eat", "present simple habits", "every day", "he/she + -s"],
+    "tip": "Write your real morning routine in three sentences."
+  }
+}

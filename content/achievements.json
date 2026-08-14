@@ -1,0 +1,219 @@
+{
+  "achievements": [
+    {
+      "id": "first-lesson",
+      "title": "First steps",
+      "titleIt": "Primi passi",
+      "description": "Complete your first lesson.",
+      "descriptionIt": "Completa la tua prima lezione.",
+      "icon": "sparkles",
+      "category": "learning",
+      "xpReward": 25,
+      "condition": { "type": "lessons_completed", "value": 1 }
+    },
+    {
+      "id": "five-lessons",
+      "title": "Steady learner",
+      "titleIt": "Studioso costante",
+      "description": "Complete 5 lessons.",
+      "descriptionIt": "Completa 5 lezioni.",
+      "icon": "book",
+      "category": "learning",
+      "xpReward": 50,
+      "condition": { "type": "lessons_completed", "value": 5 }
+    },
+    {
+      "id": "fifteen-lessons",
+      "title": "Curriculum climber",
+      "titleIt": "Scalatore del percorso",
+      "description": "Complete 15 lessons across the path.",
+      "descriptionIt": "Completa 15 lezioni sul percorso.",
+      "icon": "book",
+      "category": "learning",
+      "xpReward": 80,
+      "condition": { "type": "lessons_completed", "value": 15 }
+    },
+    {
+      "id": "thirty-lessons",
+      "title": "Path dedicated",
+      "titleIt": "Dedicato al percorso",
+      "description": "Complete 30 lessons.",
+      "descriptionIt": "Completa 30 lezioni.",
+      "icon": "book",
+      "category": "learning",
+      "xpReward": 120,
+      "condition": { "type": "lessons_completed", "value": 30 }
+    },
+    {
+      "id": "word-saver",
+      "title": "Word collector",
+      "titleIt": "Collezionista di parole",
+      "description": "Save 10 words to your vocabulary.",
+      "descriptionIt": "Salva 10 parole nel vocabolario.",
+      "icon": "library",
+      "category": "vocabulary",
+      "xpReward": 30,
+      "condition": { "type": "words_learned", "value": 10 }
+    },
+    {
+      "id": "review-master",
+      "title": "Review master",
+      "titleIt": "Maestro del ripasso",
+      "description": "Complete 20 review items.",
+      "descriptionIt": "Completa 20 ripassi.",
+      "icon": "refresh",
+      "category": "review",
+      "xpReward": 40,
+      "condition": { "type": "reviews_completed", "value": 20 }
+    },
+    {
+      "id": "streak-3",
+      "title": "On a roll",
+      "titleIt": "In serie",
+      "description": "Study 3 days in a row.",
+      "descriptionIt": "Studia 3 giorni di fila.",
+      "icon": "flame",
+      "category": "consistency",
+      "xpReward": 35,
+      "condition": { "type": "streak", "value": 3 }
+    },
+    {
+      "id": "streak-7",
+      "title": "Week warrior",
+      "titleIt": "Guerriero della settimana",
+      "description": "Maintain a 7-day streak.",
+      "descriptionIt": "Mantieni una streak di 7 giorni.",
+      "icon": "flame",
+      "category": "consistency",
+      "xpReward": 75,
+      "condition": { "type": "streak", "value": 7 }
+    },
+    {
+      "id": "first-speaking",
+      "title": "Voice unlocked",
+      "titleIt": "Voce sbloccata",
+      "description": "Complete a speaking session.",
+      "descriptionIt": "Completa una sessione di speaking.",
+      "icon": "mic",
+      "category": "speaking",
+      "xpReward": 30,
+      "condition": { "type": "event_count", "event": "speaking_completed", "value": 1 }
+    },
+    {
+      "id": "roleplay-rookie",
+      "title": "Real life rookie",
+      "titleIt": "Principiante vita reale",
+      "description": "Complete a role play scenario.",
+      "descriptionIt": "Completa uno scenario role play.",
+      "icon": "globe",
+      "category": "conversation",
+      "xpReward": 40,
+      "condition": { "type": "event_count", "event": "roleplay_completed", "value": 1 }
+    },
+    {
+      "id": "tutor-friend",
+      "title": "Tutor regular",
+      "titleIt": "Amico del tutor",
+      "description": "Complete 3 AI tutor sessions.",
+      "descriptionIt": "Completa 3 sessioni con l'AI tutor.",
+      "icon": "bot",
+      "category": "conversation",
+      "xpReward": 45,
+      "condition": { "type": "event_count", "event": "tutor_completed", "value": 3 }
+    },
+    {
+      "id": "xp-500",
+      "title": "Rising star",
+      "titleIt": "Stella nascente",
+      "description": "Earn 500 XP total.",
+      "descriptionIt": "Guadagna 500 XP totali.",
+      "icon": "star",
+      "category": "progress",
+      "xpReward": 50,
+      "condition": { "type": "xp", "value": 500 }
+    }
+  ],
+  "milestones": [
+    {
+      "id": "milestone-level-a1",
+      "title": "A1 reached",
+      "titleIt": "Livello A1 raggiunto",
+      "description": "Your profile shows A1 level.",
+      "type": "level",
+      "value": "A1",
+      "order": 1
+    },
+    {
+      "id": "milestone-level-a2",
+      "title": "A2 reached",
+      "titleIt": "Livello A2 raggiunto",
+      "description": "Your profile shows A2 level.",
+      "type": "level",
+      "value": "A2",
+      "order": 2
+    },
+    {
+      "id": "milestone-level-b1",
+      "title": "B1 reached",
+      "titleIt": "Livello B1 raggiunto",
+      "description": "Your profile shows B1 level.",
+      "type": "level",
+      "value": "B1",
+      "order": 3
+    },
+    {
+      "id": "milestone-level-b2",
+      "title": "B2 reached",
+      "titleIt": "Livello B2 raggiunto",
+      "description": "Your profile shows B2 level.",
+      "type": "level",
+      "value": "B2",
+      "order": 4
+    },
+    {
+      "id": "milestone-level-c1",
+      "title": "C1 reached",
+      "titleIt": "Livello C1 raggiunto",
+      "description": "Your profile shows C1 level.",
+      "type": "level",
+      "value": "C1",
+      "order": 5
+    },
+    {
+      "id": "milestone-streak-14",
+      "title": "Two-week streak",
+      "titleIt": "Streak di 2 settimane",
+      "description": "14 consecutive study days.",
+      "type": "streak",
+      "value": 14,
+      "order": 6
+    },
+    {
+      "id": "milestone-xp-1000",
+      "title": "1000 XP",
+      "titleIt": "1000 XP",
+      "description": "Total experience milestone.",
+      "type": "xp",
+      "value": 1000,
+      "order": 7
+    },
+    {
+      "id": "milestone-minutes-300",
+      "title": "5 hours studied",
+      "titleIt": "5 ore di studio",
+      "description": "300 minutes of total study time.",
+      "type": "study_minutes",
+      "value": 300,
+      "order": 8
+    },
+    {
+      "id": "milestone-minutes-600",
+      "title": "10 hours studied",
+      "titleIt": "10 ore di studio",
+      "description": "600 minutes of total study time.",
+      "type": "study_minutes",
+      "value": 600,
+      "order": 9
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "listen-a1-daily",
+  "title": "My day",
+  "titleIt": "La mia giornata",
+  "level": "A1.3",
+  "description": "Listen to a short daily routine.",
+  "audioText": "I wake up at seven every day. I go to work by bus. I eat lunch at one. In the evening I study English.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "l1",
+      "type": "comprehension",
+      "prompt": "What time does she wake up?",
+      "promptIt": "A che ora si sveglia?",
+      "transcript": "I wake up at seven every day.",
+      "options": ["seven", "eight", "one", "nine"],
+      "answer": "seven"
+    },
+    {
+      "id": "l2",
+      "type": "listen_identify",
+      "prompt": "How does she go to work?",
+      "transcript": "I go to work by bus.",
+      "options": ["by bus", "by car", "by train", "on foot"],
+      "answer": "by bus"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: I eat ____ at one.",
+      "transcript": "I eat lunch at one.",
+      "answer": "lunch",
+      "explanation": "Lunch means pranzo."
+    },
+    {
+      "id": "l4",
+      "type": "dictation",
+      "prompt": "Write the sentence.",
+      "transcript": "In the evening I study English.",
+      "answer": "In the evening I study English."
+    }
+  ]
+}

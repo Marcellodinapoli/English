@@ -1,0 +1,24 @@
+{
+  "id": "write-b1-advice",
+  "title": "Write advice",
+  "titleIt": "Scrivi consigli",
+  "level": "B1",
+  "description": "Short writing tasks for plans and polite advice.",
+  "estimatedMinutes": 10,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write a short message arranging plans with a friend. Use going to and will.",
+      "promptIt": "Scrivi un breve messaggio per organizzare un piano con un amico. Usa going to e will.",
+      "minWords": 20,
+      "hints": ["I am going to...", "I will...", "Looking at my schedule..."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write two sentences giving advice about booking travel.",
+      "promptIt": "Scrivi due frasi con consigli sulla prenotazione di un viaggio.",
+      "minWords": 10,
+      "hints": ["You should...", "If I were you...", "I suggest..."]
+    }
+  ]
+}

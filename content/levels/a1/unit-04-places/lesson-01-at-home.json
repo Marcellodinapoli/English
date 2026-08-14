@@ -1,0 +1,98 @@
+{
+  "id": "a1-u4-l1",
+  "unitId": "a1-u4",
+  "levelId": "A1",
+  "title": "At home",
+  "titleIt": "A casa",
+  "description": "Describe rooms and things in your home with there is / there are.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a1-at-home", "required": true },
+    { "id": "grammar", "type": "grammar", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Describe your home",
+    "body": "Learn room vocabulary and say what is in your house with there is and there are.",
+    "bodyIt": "Impara i nomi delle stanze e di' cosa c'è in casa con there is e there are.",
+    "objectives": [
+      "Name rooms: kitchen, bedroom, bathroom",
+      "Use there is / there are",
+      "Describe your home in short sentences"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "kitchen",
+      "lemma": "kitchen",
+      "translation": "cucina",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɪtʃɪn/",
+      "example": "There is a kitchen.",
+      "exampleTranslation": "C'è una cucina."
+    },
+    {
+      "word": "bedroom",
+      "lemma": "bedroom",
+      "translation": "camera da letto",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbedruːm/",
+      "example": "There are two bedrooms.",
+      "exampleTranslation": "Ci sono due camere da letto."
+    },
+    {
+      "word": "bathroom",
+      "lemma": "bathroom",
+      "translation": "bagno",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbɑːθruːm/",
+      "example": "The bathroom is small.",
+      "exampleTranslation": "Il bagno è piccolo."
+    },
+    {
+      "word": "living room",
+      "lemma": "living room",
+      "translation": "soggiorno",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlɪvɪŋ ruːm/",
+      "example": "We watch TV in the living room.",
+      "exampleTranslation": "Guardiamo la TV in soggiorno."
+    }
+  ],
+  "readingRef": "a1-at-home",
+  "grammar": {
+    "examples": ["There is a kitchen.", "There are two bedrooms.", "Is there a garden?"],
+    "pattern": "There is + singular · There are + plural",
+    "explanation": "Use there is for one thing. Use there are for two or more.",
+    "explanationIt": "Usa there is per una cosa. Usa there are per due o più."
+  },
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "____ is a kitchen.",
+      "options": ["There", "They", "It", "This"],
+      "answer": "There"
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "There ____ two bedrooms.",
+      "answer": "are"
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What is a bathroom?",
+      "options": ["bagno", "cucina", "soggiorno", "giardino"],
+      "answer": "bagno"
+    }
+  ],
+  "review": {
+    "summary": ["kitchen / bedroom / bathroom / living room", "There is...", "There are..."],
+    "tip": "Walk through your home and say: There is... / There are..."
+  }
+}

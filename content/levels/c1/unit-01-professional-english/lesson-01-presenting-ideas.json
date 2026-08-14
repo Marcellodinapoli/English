@@ -1,0 +1,79 @@
+{
+  "id": "c1-u1-l1",
+  "unitId": "c1-u1",
+  "levelId": "C1",
+  "title": "Presenting ideas",
+  "titleIt": "Presentare idee",
+  "description": "Structure and deliver professional presentations with clarity.",
+  "estimatedMinutes": 18,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "c1-presentation", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Present with impact",
+    "body": "Learn advanced phrases for opening, structuring, and concluding a professional presentation.",
+    "bodyIt": "Impara frasi avanzate per aprire, strutturare e concludere una presentazione professionale.",
+    "objectives": [
+      "Open and close a presentation effectively",
+      "Signpost key points clearly",
+      "Handle questions with confidence"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "outline",
+      "lemma": "outline",
+      "translation": "delineare / schema",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈaʊtlaɪn/",
+      "example": "Let me outline the main points.",
+      "exampleTranslation": "Permettetemi di delineare i punti principali."
+    },
+    {
+      "word": "compelling",
+      "lemma": "compelling",
+      "translation": "convincente / avvincente",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kəmˈpelɪŋ/",
+      "example": "She made a compelling case for change.",
+      "exampleTranslation": "Ha presentato un caso convincente per il cambiamento."
+    },
+    {
+      "word": "takeaway",
+      "lemma": "takeaway",
+      "translation": "punto chiave / lezione",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈteɪkəweɪ/",
+      "example": "The key takeaway is that we must act now.",
+      "exampleTranslation": "Il punto chiave è che dobbiamo agire ora."
+    }
+  ],
+  "readingRef": "c1-presentation",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which phrase introduces the structure of a talk?",
+      "promptIt": "Quale frase introduce la struttura di un intervento?",
+      "options": ["Let me outline the main points.", "I went yesterday.", "How much is it?", "Nice to meet you."],
+      "answer": "Let me outline the main points.",
+      "explanation": "Outline signals you will present the structure of your talk."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "The key ____ from this presentation is clear.",
+      "promptIt": "Completa: The key ____ from this presentation is clear.",
+      "answer": "takeaway",
+      "explanation": "Takeaway refers to the main message the audience should remember."
+    }
+  ],
+  "review": {
+    "summary": ["outline / compelling / takeaway", "Let me outline...", "Key takeaway"],
+    "tip": "Record a 60-second presentation opening using outline and takeaway."
+  }
+}

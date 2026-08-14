@@ -1,0 +1,424 @@
+{
+  "id": "c1-counter",
+  "type": "passage",
+  "level": "C1",
+  "title": "Counterarguments",
+  "titleIt": "Controargomentazioni",
+  "description": "A text modelling concession and rebuttal.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Admittedly, opponents raise a valid concern about short-term costs.",
+      "translation": "A dire il vero, gli oppositori sollevano una preoccupazione valida sui costi a breve termine.",
+      "tokens": [
+        {
+          "word": "Admittedly",
+          "lemma": "admittedly",
+          "pos": "adverb",
+          "phonetic": "/ədˈmɪtɪdli/",
+          "meanings": [
+            {
+              "translation": "a dire il vero",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "opponents",
+          "lemma": "opponents",
+          "pos": "other",
+          "phonetic": "/opponents/",
+          "meanings": [
+            {
+              "translation": "opponents",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "raise",
+          "lemma": "raise",
+          "pos": "verb",
+          "phonetic": "/reɪz/",
+          "meanings": [
+            {
+              "translation": "sollevare / alzare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "valid",
+          "lemma": "valid",
+          "pos": "adjective",
+          "phonetic": "/ˈvælɪd/",
+          "meanings": [
+            {
+              "translation": "valido",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "concern",
+          "lemma": "concern",
+          "pos": "noun",
+          "phonetic": "/kənˈsɜːn/",
+          "meanings": [
+            {
+              "translation": "preoccupazione",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "about",
+          "lemma": "about",
+          "pos": "preposition",
+          "phonetic": "/əˈbaʊt/",
+          "meanings": [
+            {
+              "translation": "su / riguardo a",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "short-term",
+          "lemma": "short-term",
+          "pos": "adjective",
+          "phonetic": "/ˌʃɔːtˈtɜːm/",
+          "meanings": [
+            {
+              "translation": "a breve termine",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "costs",
+          "lemma": "costs",
+          "pos": "noun",
+          "phonetic": "/kɒsts/",
+          "meanings": [
+            {
+              "translation": "costi",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "We can concede that implementation will require substantial resources.",
+      "translation": "Possiamo concedere che l'attuazione richiederà risorse sostanziali.",
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "pos": "verb",
+          "phonetic": "/kæn/",
+          "meanings": [
+            {
+              "translation": "potere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "concede",
+          "lemma": "concede",
+          "pos": "verb",
+          "phonetic": "/kənˈsiːd/",
+          "meanings": [
+            {
+              "translation": "concedere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "pos": "conjunction",
+          "phonetic": "/ðæt/",
+          "meanings": [
+            {
+              "translation": "che / quello",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "implementation",
+          "lemma": "implementation",
+          "pos": "other",
+          "phonetic": "/implementation/",
+          "meanings": [
+            {
+              "translation": "implementation",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "will",
+          "lemma": "will",
+          "pos": "verb",
+          "phonetic": "/wɪl/",
+          "meanings": [
+            {
+              "translation": "verrà / vuole",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "require",
+          "lemma": "require",
+          "pos": "verb",
+          "phonetic": "/rɪˈkwaɪə/",
+          "meanings": [
+            {
+              "translation": "richiedere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "substantial",
+          "lemma": "substantial",
+          "pos": "adjective",
+          "phonetic": "/səbˈstænʃl/",
+          "meanings": [
+            {
+              "translation": "sostanziale",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "resources",
+          "lemma": "resources",
+          "pos": "noun",
+          "phonetic": "/rɪˈsɔːsɪz/",
+          "meanings": [
+            {
+              "translation": "risorse",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Nevertheless, the rebuttal rests on long-term gains that outweigh those costs.",
+      "translation": "Ciononostante, la replica si basa su guadagni a lungo termine che superano quei costi.",
+      "tokens": [
+        {
+          "word": "Nevertheless",
+          "lemma": "nevertheless",
+          "pos": "adverb",
+          "phonetic": "/ˌnevəðəˈles/",
+          "meanings": [
+            {
+              "translation": "ciononostante",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "rebuttal",
+          "lemma": "rebuttal",
+          "pos": "noun",
+          "phonetic": "/rɪˈbʌtl/",
+          "meanings": [
+            {
+              "translation": "replica / confutazione",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "rests",
+          "lemma": "rests",
+          "pos": "other",
+          "phonetic": "/rests/",
+          "meanings": [
+            {
+              "translation": "rests",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "pos": "preposition",
+          "phonetic": "/ɒn/",
+          "meanings": [
+            {
+              "translation": "su / il",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "long-term",
+          "lemma": "long-term",
+          "pos": "adjective",
+          "phonetic": "/ˌlɒŋˈtɜːm/",
+          "meanings": [
+            {
+              "translation": "a lungo termine",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "gains",
+          "lemma": "gains",
+          "pos": "other",
+          "phonetic": "/gains/",
+          "meanings": [
+            {
+              "translation": "gains",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "pos": "conjunction",
+          "phonetic": "/ðæt/",
+          "meanings": [
+            {
+              "translation": "che / quello",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "outweigh",
+          "lemma": "outweigh",
+          "pos": "other",
+          "phonetic": "/outweigh/",
+          "meanings": [
+            {
+              "translation": "outweigh",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "those",
+          "lemma": "those",
+          "pos": "determiner",
+          "phonetic": "/ðəʊz/",
+          "meanings": [
+            {
+              "translation": "quelli",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "costs",
+          "lemma": "costs",
+          "pos": "noun",
+          "phonetic": "/kɒsts/",
+          "meanings": [
+            {
+              "translation": "costi",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "admittedly",
+    "concede",
+    "rebuttal",
+    "nevertheless"
+  ],
+  "grammarFocus": [
+    "concession",
+    "contrast"
+  ]
+}

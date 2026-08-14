@@ -1,0 +1,39 @@
+{
+  "id": "grammar-zero-this-that",
+  "level": "ZERO",
+  "title": "this / that",
+  "titleIt": "this e that",
+  "examples": ["This is a book.", "That is a pen.", "This is my bag."],
+  "pattern": "This is + noun (near) · That is + noun (far)",
+  "explanation": "Use this for something near you. Use that for something farther away.",
+  "explanationIt": "Usa this per qualcosa vicino a te. Usa that per qualcosa più lontano.",
+  "realUse": [
+    "This is my phone.",
+    "That is your bag.",
+    "Is this your pen?"
+  ],
+  "relatedErrorTypes": ["this_that"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Something in your hand:",
+      "options": ["This is a book.", "That is a book.", "These is a book.", "Those is a book."],
+      "answer": "This is a book.",
+      "explanation": "This is for things near you."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "____ is a car over there.",
+      "answer": "That"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: This are a pen.",
+      "options": ["This is a pen.", "This are a pen.", "That are a pen.", "This be a pen."],
+      "answer": "This is a pen."
+    }
+  ]
+}

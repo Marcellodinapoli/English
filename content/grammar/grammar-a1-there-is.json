@@ -1,0 +1,38 @@
+{
+  "id": "grammar-a1-there-is",
+  "level": "A1",
+  "title": "there is / there are",
+  "titleIt": "there is / there are",
+  "examples": ["There is a kitchen.", "There are two bedrooms.", "Is there a park?"],
+  "pattern": "There is + singular · There are + plural",
+  "explanation": "Use there is for one thing. Use there are for two or more things.",
+  "explanationIt": "Usa there is per una cosa. Usa there are per due o più cose.",
+  "realUse": [
+    "There is a café near the station.",
+    "There are three shops on this street.",
+    "Is there a bathroom?"
+  ],
+  "relatedErrorTypes": ["there_is_are"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "fill_blank",
+      "prompt": "There ____ a bathroom.",
+      "answer": "is"
+    },
+    {
+      "id": "g2",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["There are two parks.", "There is two parks.", "There are a park.", "There two parks."],
+      "answer": "There are two parks."
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: There is three bedrooms.",
+      "options": ["There are three bedrooms.", "There is three bedrooms.", "There three bedrooms.", "There be three bedrooms."],
+      "answer": "There are three bedrooms."
+    }
+  ]
+}

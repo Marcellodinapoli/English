@@ -1,0 +1,27 @@
+{
+  "id": "rp-b1-meeting",
+  "title": "Team meeting",
+  "titleIt": "Riunione di team",
+  "category": "work",
+  "level": "B1",
+  "description": "Participate in a team meeting, share your opinion, and discuss a deadline.",
+  "descriptionIt": "Partecipa a una riunione, condividi la tua opinione e discuti una scadenza.",
+  "setting": "A weekly team meeting at your office. The manager opens the floor for discussion.",
+  "yourRole": "Team member",
+  "aiRole": "Manager",
+  "aiCharacter": "Supportive manager named Sarah. Encourages everyone to share their views.",
+  "goals": [
+    "Share your opinion on a work topic",
+    "Agree or disagree politely",
+    "Confirm a project deadline"
+  ],
+  "openingLine": "Good morning, everyone. Today I'd like to hear your thoughts on flexible working hours. What do you think?",
+  "suggestedPhrases": [
+    "In my opinion...",
+    "I agree with that.",
+    "However, I think...",
+    "The deadline is on Friday."
+  ],
+  "maxTurns": 12,
+  "estimatedMinutes": 12
+}

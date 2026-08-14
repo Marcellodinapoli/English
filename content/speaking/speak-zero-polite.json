@@ -1,0 +1,33 @@
+{
+  "id": "speak-zero-polite",
+  "title": "Be polite",
+  "titleIt": "Sii cortese",
+  "level": "ZERO",
+  "description": "Practise please, thank you, and short yes/no replies.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "A coffee, please.",
+      "hint": "Add please"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "Thank you. You're welcome.",
+      "hint": "Polite exchange"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Refuse a drink politely.",
+      "promptIt": "Rifiuta una bevanda in modo cortese.",
+      "exampleAnswer": "No, thank you.",
+      "hint": "Use: No, thank you"
+    }
+  ]
+}

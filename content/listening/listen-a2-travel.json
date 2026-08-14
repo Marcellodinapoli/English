@@ -1,0 +1,38 @@
+{
+  "id": "listen-a2-travel",
+  "title": "Travel plans",
+  "titleIt": "Piani di viaggio",
+  "level": "A2",
+  "description": "Listen to a short travel plan and choose what you hear.",
+  "audioText": "I am going to take the train. My ticket is ready. The journey takes about two hours.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "How is the speaker going to travel?",
+      "promptIt": "Come viaggerà il parlante?",
+      "transcript": "I am going to take the train.",
+      "options": ["by train", "by bus", "by car", "by bike"],
+      "answer": "by train"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What is ready?",
+      "promptIt": "Cosa è pronto?",
+      "transcript": "My ticket is ready.",
+      "options": ["the ticket", "the suitcase", "the hotel", "the passport"],
+      "answer": "the ticket"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: The journey takes about two ____.",
+      "promptIt": "Completa: The journey takes about two ____.",
+      "transcript": "The journey takes about two hours.",
+      "answer": "hours",
+      "explanation": "Hours is the plural of hour."
+    }
+  ]
+}

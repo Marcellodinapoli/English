@@ -1,0 +1,24 @@
+{
+  "id": "write-a1-introduce",
+  "title": "Write about yourself",
+  "titleIt": "Scrivi di te",
+  "level": "A1.1",
+  "description": "Short writing tasks with feedback.",
+  "estimatedMinutes": 7,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write 2–3 sentences to introduce yourself.",
+      "promptIt": "Scrivi 2–3 frasi per presentarti.",
+      "minWords": 6,
+      "hints": ["My name is...", "I am from...", "I am a student."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write one sentence about your family.",
+      "promptIt": "Scrivi una frase sulla tua famiglia.",
+      "minWords": 4,
+      "hints": ["I have one sister.", "My mother is a teacher."]
+    }
+  ]
+}

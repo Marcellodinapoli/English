@@ -1,0 +1,79 @@
+{
+  "id": "c1-u1-l2",
+  "unitId": "c1-u1",
+  "levelId": "C1",
+  "title": "Register & nuance",
+  "titleIt": "Registro e sfumature",
+  "description": "Choose the right tone and level of formality for every context.",
+  "estimatedMinutes": 18,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "c1-presentation", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Master tone and register",
+    "body": "Understand the difference between formal and informal English, and use nuanced vocabulary appropriately.",
+    "bodyIt": "Comprendi la differenza tra inglese formale e informale e usa vocabolario sfumato in modo appropriato.",
+    "objectives": [
+      "Distinguish formal from informal register",
+      "Use hedging and softening language",
+      "Adapt your tone to the audience"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "register",
+      "lemma": "register",
+      "translation": "registro (linguistico)",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈredʒɪstə/",
+      "example": "Use a formal register in a boardroom.",
+      "exampleTranslation": "Usa un registro formale in sala riunioni."
+    },
+    {
+      "word": "nuance",
+      "lemma": "nuance",
+      "translation": "sfumatura / sottigliezza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnjuːɑːns/",
+      "example": "There is a subtle nuance in meaning.",
+      "exampleTranslation": "C'è una sottile sfumatura nel significato."
+    },
+    {
+      "word": "hedge",
+      "lemma": "hedge",
+      "translation": "attenuare / smorzare (un'affermazione)",
+      "partOfSpeech": "verb",
+      "phonetic": "/hedʒ/",
+      "example": "I would hedge that statement slightly.",
+      "exampleTranslation": "Attenuerei leggermente quell'affermazione."
+    }
+  ],
+  "readingRef": "c1-presentation",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Which is more formal?",
+      "promptIt": "Quale è più formale?",
+      "options": ["I would respectfully suggest...", "Yeah, I think so.", "Nah, not really.", "Gimme a sec."],
+      "answer": "I would respectfully suggest...",
+      "explanation": "Respectfully suggest is formal and appropriate in professional settings."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "It seems, ____, that we need more data.",
+      "promptIt": "Completa: It seems, ____, that we need more data.",
+      "answer": "however",
+      "explanation": "However adds nuance and softens a direct statement in formal discourse."
+    }
+  ],
+  "review": {
+    "summary": ["register / nuance / hedge", "Formal vs informal", "Hedging language"],
+    "tip": "Rewrite one casual sentence in formal register for a work email."
+  }
+}

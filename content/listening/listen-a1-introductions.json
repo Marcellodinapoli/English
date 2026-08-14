@@ -1,0 +1,50 @@
+{
+  "id": "listen-a1-introductions",
+  "title": "Introductions",
+  "titleIt": "Presentazioni",
+  "level": "A1.1",
+  "description": "Listen to a short introduction dialogue.",
+  "audioText": "Hello! My name is Marco. Nice to meet you. I am from Italy. I can book a table at the restaurant.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "l1",
+      "type": "comprehension",
+      "prompt": "Where is Marco from?",
+      "transcript": "I am from Italy.",
+      "options": ["Italy", "Spain", "France", "Germany"],
+      "answer": "Italy"
+    },
+    {
+      "id": "l2",
+      "type": "listen_identify",
+      "prompt": "Which phrase do you hear?",
+      "transcript": "Nice to meet you.",
+      "options": ["Nice to meet you.", "See you tomorrow.", "How old are you?", "What time is it?"],
+      "answer": "Nice to meet you."
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: I can ____ a table.",
+      "transcript": "I can book a table at the restaurant.",
+      "answer": "book",
+      "explanation": "Here book means prenotare."
+    },
+    {
+      "id": "l4",
+      "type": "listen_order",
+      "prompt": "Order the words you hear.",
+      "transcript": "I am from Italy.",
+      "options": ["Italy", "am", "from", "I"],
+      "answer": ["I", "am", "from", "Italy"]
+    },
+    {
+      "id": "l5",
+      "type": "dictation",
+      "prompt": "Write the sentence.",
+      "transcript": "My name is Marco.",
+      "answer": "My name is Marco."
+    }
+  ]
+}

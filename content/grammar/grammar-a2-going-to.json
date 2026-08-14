@@ -1,0 +1,39 @@
+{
+  "id": "grammar-a2-going-to",
+  "level": "A2",
+  "title": "Going to — future plans",
+  "titleIt": "Going to — piani futuri",
+  "examples": ["I am going to take the train.", "She is going to book a ticket.", "We are going to the cinema."],
+  "pattern": "am / is / are + going to + base verb",
+  "explanation": "Use going to for future plans and intentions you have already decided.",
+  "explanationIt": "Usa going to per piani e intenzioni future già decise.",
+  "realUse": [
+    "I am going to take the train tomorrow.",
+    "We are going to visit Florence.",
+    "He is going to buy a ticket."
+  ],
+  "relatedErrorTypes": ["going_to"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["I am going to take the train.", "I going to take the train.", "I am go to take the train.", "I am going take the train."],
+      "answer": "I am going to take the train.",
+      "explanation": "Use am/is/are + going to + base verb."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "She ____ going to book the tickets tonight.",
+      "answer": "is"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: We are going visit Rome.",
+      "options": ["We are going to visit Rome.", "We are going visiting Rome.", "We going to visit Rome.", "We are go to visit Rome."],
+      "answer": "We are going to visit Rome."
+    }
+  ]
+}

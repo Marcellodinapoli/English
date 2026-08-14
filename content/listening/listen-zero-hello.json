@@ -1,0 +1,43 @@
+{
+  "id": "listen-zero-hello",
+  "title": "Hello and Hi",
+  "titleIt": "Ciao e saluti",
+  "level": "ZERO",
+  "description": "Listen to simple greetings and choose what you hear.",
+  "audioText": "Hello. Hi. My name is Anna. Nice to meet you.",
+  "estimatedMinutes": 5,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What greeting do you hear first?",
+      "promptIt": "Quale saluto senti per primo?",
+      "transcript": "Hello.",
+      "options": ["Hello", "Goodbye", "Thanks", "Please"],
+      "answer": "Hello"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What is her name?",
+      "transcript": "My name is Anna.",
+      "options": ["Anna", "Marco", "Luca", "Sara"],
+      "answer": "Anna"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: Nice to ____ you.",
+      "transcript": "Nice to meet you.",
+      "answer": "meet",
+      "explanation": "Nice to meet you is used when you meet someone."
+    },
+    {
+      "id": "l4",
+      "type": "dictation",
+      "prompt": "Write what you hear.",
+      "transcript": "Hello. My name is Anna.",
+      "answer": "Hello. My name is Anna."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "listen-c1-presentation",
+  "title": "Professional presentation",
+  "titleIt": "Presentazione professionale",
+  "level": "C1",
+  "description": "Listen to an advanced presentation excerpt and identify key language.",
+  "audioText": "Let me outline the three key points. Rarely have we seen such a compelling case for strategic change.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What does the speaker want to do first?",
+      "promptIt": "Cosa vuole fare per primo il parlante?",
+      "transcript": "Let me outline the three key points.",
+      "options": ["Outline the key points", "Answer questions", "End the meeting", "Introduce a guest"],
+      "answer": "Outline the key points"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "How is the case for change described?",
+      "promptIt": "Come viene descritto il caso per il cambiamento?",
+      "transcript": "Rarely have we seen such a compelling case for strategic change.",
+      "options": ["compelling", "weak", "confusing", "outdated"],
+      "answer": "compelling"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: Let me ____ the three key points.",
+      "promptIt": "Completa: Let me ____ the three key points.",
+      "transcript": "Let me outline the three key points.",
+      "answer": "outline",
+      "explanation": "Outline means to present the structure of your talk."
+    }
+  ]
+}

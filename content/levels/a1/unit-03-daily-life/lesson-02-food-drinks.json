@@ -1,0 +1,98 @@
+{
+  "id": "a1-u3-l2",
+  "unitId": "a1-u3",
+  "levelId": "A1",
+  "title": "Food and drinks",
+  "titleIt": "Cibo e bevande",
+  "description": "Name common food and drinks and say what you like.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a1-food-drinks", "required": true },
+    { "id": "grammar", "type": "grammar", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about food",
+    "body": "Learn useful food and drink words and say what you like or don't like.",
+    "bodyIt": "Impara parole utili su cibo e bevande e di' cosa ti piace o non ti piace.",
+    "objectives": [
+      "Name common foods and drinks",
+      "Use I like / I don't like",
+      "Order simply in a café"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "breakfast",
+      "lemma": "breakfast",
+      "translation": "colazione",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbrekfəst/",
+      "example": "I have breakfast at eight.",
+      "exampleTranslation": "Faccio colazione alle otto."
+    },
+    {
+      "word": "water",
+      "lemma": "water",
+      "translation": "acqua",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɔːtə/",
+      "example": "I drink water.",
+      "exampleTranslation": "Bevo acqua."
+    },
+    {
+      "word": "coffee",
+      "lemma": "coffee",
+      "translation": "caffè",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɒfi/",
+      "example": "I like coffee.",
+      "exampleTranslation": "Mi piace il caffè."
+    },
+    {
+      "word": "sandwich",
+      "lemma": "sandwich",
+      "translation": "panino",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsænwɪdʒ/",
+      "example": "I want a sandwich.",
+      "exampleTranslation": "Vorrei un panino."
+    }
+  ],
+  "readingRef": "a1-food-drinks",
+  "grammar": {
+    "examples": ["I like coffee.", "I don't like tea.", "She likes pasta."],
+    "pattern": "I like + noun · I don't like + noun · He/She likes + noun",
+    "explanation": "Use like for preferences. Add -s with he/she. Use don't like for negatives.",
+    "explanationIt": "Usa like per le preferenze. Aggiungi -s con he/she. Usa don't like per la forma negativa."
+  },
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "I ____ coffee.",
+      "options": ["like", "likes", "liking", "liked"],
+      "answer": "like"
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "She ____ pasta.",
+      "answer": "likes"
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "How do you say acqua?",
+      "options": ["water", "coffee", "sandwich", "breakfast"],
+      "answer": "water"
+    }
+  ],
+  "review": {
+    "summary": ["breakfast / coffee / water / sandwich", "I like / I don't like", "She likes..."],
+    "tip": "List three foods you like and one you don't like."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "a2-u2-l2",
+  "unitId": "a2-u2",
+  "levelId": "A2",
+  "title": "At the station",
+  "titleIt": "Alla stazione",
+  "description": "Ask about platforms, times, and delays at the train station.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a2-station", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Manage station situations",
+    "body": "Learn useful phrases for platforms, departures, and asking for help at the station.",
+    "bodyIt": "Impara frasi utili per binari, partenze e per chiedere aiuto in stazione.",
+    "objectives": [
+      "Ask which platform to use",
+      "Talk about departure times",
+      "Understand simple delay messages"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "platform",
+      "lemma": "platform",
+      "translation": "binario",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈplætfɔːm/",
+      "example": "The train leaves from platform 4.",
+      "exampleTranslation": "Il treno parte dal binario 4."
+    },
+    {
+      "word": "delay",
+      "lemma": "delay",
+      "translation": "ritardo",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈleɪ/",
+      "example": "There is a short delay.",
+      "exampleTranslation": "C'è un breve ritardo."
+    },
+    {
+      "word": "depart",
+      "lemma": "depart",
+      "translation": "partire",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈpɑːt/",
+      "example": "The train departs at 10:15.",
+      "exampleTranslation": "Il treno parte alle 10:15."
+    },
+    {
+      "word": "arrive",
+      "lemma": "arrive",
+      "translation": "arrivare",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈraɪv/",
+      "example": "We arrive in Florence at noon.",
+      "exampleTranslation": "Arriviamo a Firenze a mezzogiorno."
+    }
+  ],
+  "readingRef": "a2-station",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "How do you ask about the platform?",
+      "promptIt": "Come chiedi il binario?",
+      "options": [
+        "Which platform is it?",
+        "How much is it?",
+        "What is your name?",
+        "Nice to meet you."
+      ],
+      "answer": "Which platform is it?",
+      "explanation": "Which platform is it? is a clear way to ask where the train leaves from."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "There is a short ____ on the line.",
+      "promptIt": "Completa: There is a short ____ on the line.",
+      "answer": "delay",
+      "explanation": "A delay means the train is late."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "promptIt": "Scegli la frase corretta.",
+      "options": [
+        "The train departs at 10:15.",
+        "The train depart at 10:15.",
+        "The train departing at 10:15.",
+        "The train is depart at 10:15."
+      ],
+      "answer": "The train departs at 10:15.",
+      "explanation": "With he/she/it (the train), use departs in the Present Simple."
+    }
+  ],
+  "review": {
+    "summary": ["platform / delay", "depart / arrive", "Which platform is it?"],
+    "tip": "Practise asking for a platform and a departure time in two sentences."
+  }
+}

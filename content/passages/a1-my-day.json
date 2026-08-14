@@ -1,0 +1,61 @@
+{
+  "id": "a1-my-day",
+  "type": "passage",
+  "level": "A1.3",
+  "title": "My day",
+  "titleIt": "La mia giornata",
+  "description": "A short daily routine.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "I wake up at seven every day.",
+      "translation": "Mi sveglio alle sette ogni giorno.",
+      "tokens": [
+        { "word": "I", "lemma": "I", "pos": "pronoun", "phonetic": "/aɪ/", "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }] },
+        { "word": "wake", "lemma": "wake", "pos": "verb", "phonetic": "/weɪk/", "meanings": [{ "translation": "svegliare / svegliarsi", "partOfSpeech": "verb" }] },
+        { "word": "up", "lemma": "up", "pos": "adverb", "phonetic": "/ʌp/", "meanings": [{ "translation": "su; in wake up: particella", "partOfSpeech": "adverb" }] },
+        { "word": "at", "lemma": "at", "pos": "preposition", "phonetic": "/æt/", "meanings": [{ "translation": "a / alle", "partOfSpeech": "preposition" }] },
+        { "word": "seven", "lemma": "seven", "pos": "number", "phonetic": "/ˈsevn/", "meanings": [{ "translation": "sette", "partOfSpeech": "number" }] },
+        { "word": "every", "lemma": "every", "pos": "determiner", "phonetic": "/ˈevri/", "meanings": [{ "translation": "ogni", "partOfSpeech": "determiner" }] },
+        { "word": "day", "lemma": "day", "pos": "noun", "phonetic": "/deɪ/", "meanings": [{ "translation": "giorno", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I go to work by bus.",
+      "translation": "Vado al lavoro in autobus.",
+      "tokens": [
+        { "word": "I", "lemma": "I", "pos": "pronoun", "phonetic": "/aɪ/", "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }] },
+        { "word": "go", "lemma": "go", "pos": "verb", "phonetic": "/ɡəʊ/", "meanings": [{ "translation": "andare", "partOfSpeech": "verb" }] },
+        { "word": "to", "lemma": "to", "pos": "preposition", "phonetic": "/tə/", "meanings": [{ "translation": "a / verso", "partOfSpeech": "preposition" }] },
+        { "word": "work", "lemma": "work", "pos": "noun", "phonetic": "/wɜːk/", "meanings": [{ "translation": "lavoro", "partOfSpeech": "noun" }] },
+        { "word": "by", "lemma": "by", "pos": "preposition", "phonetic": "/baɪ/", "meanings": [{ "translation": "con / in (mezzo di trasporto)", "partOfSpeech": "preposition" }] },
+        { "word": "bus", "lemma": "bus", "pos": "noun", "phonetic": "/bʌs/", "meanings": [{ "translation": "autobus", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "I eat lunch at one. In the evening I study English.",
+      "translation": "Pranzo all'una. Di sera studio inglese.",
+      "tokens": [
+        { "word": "I", "lemma": "I", "pos": "pronoun", "phonetic": "/aɪ/", "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }] },
+        { "word": "eat", "lemma": "eat", "pos": "verb", "phonetic": "/iːt/", "meanings": [{ "translation": "mangiare", "partOfSpeech": "verb" }] },
+        { "word": "lunch", "lemma": "lunch", "pos": "noun", "phonetic": "/lʌntʃ/", "meanings": [{ "translation": "pranzo", "partOfSpeech": "noun" }] },
+        { "word": "at", "lemma": "at", "pos": "preposition", "phonetic": "/æt/", "meanings": [{ "translation": "a / alle", "partOfSpeech": "preposition" }] },
+        { "word": "one", "lemma": "one", "pos": "number", "phonetic": "/wʌn/", "meanings": [{ "translation": "una (ora)", "partOfSpeech": "number" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true },
+        { "word": "In", "lemma": "in", "pos": "preposition", "phonetic": "/ɪn/", "meanings": [{ "translation": "in / di", "partOfSpeech": "preposition" }] },
+        { "word": "the", "lemma": "the", "pos": "article", "phonetic": "/ðə/", "meanings": [{ "translation": "il / la", "partOfSpeech": "article" }] },
+        { "word": "evening", "lemma": "evening", "pos": "noun", "phonetic": "/ˈiːvnɪŋ/", "meanings": [{ "translation": "sera", "partOfSpeech": "noun" }] },
+        { "word": "I", "lemma": "I", "pos": "pronoun", "phonetic": "/aɪ/", "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }] },
+        { "word": "study", "lemma": "study", "pos": "verb", "phonetic": "/ˈstʌdi/", "meanings": [{ "translation": "studiare", "partOfSpeech": "verb" }] },
+        { "word": "English", "lemma": "English", "pos": "noun", "phonetic": "/ˈɪŋɡlɪʃ/", "meanings": [{ "translation": "inglese", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["wake up", "work", "lunch", "every day"],
+  "grammarFocus": ["present-simple"]
+}

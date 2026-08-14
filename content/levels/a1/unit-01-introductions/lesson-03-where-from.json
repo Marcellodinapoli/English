@@ -1,0 +1,69 @@
+{
+  "id": "a1-u1-l3",
+  "unitId": "a1-u1",
+  "levelId": "A1",
+  "title": "Where are you from?",
+  "titleIt": "Di dove sei?",
+  "description": "Talk about countries and origin.",
+  "estimatedMinutes": 10,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Talk about where you live",
+    "body": "Ask and answer: Where are you from? I am from Italy.",
+    "bodyIt": "Chiedi e rispondi: Where are you from? I am from Italy.",
+    "objectives": ["Ask Where are you from?", "Answer with I am from...", "Recognise country names"]
+  },
+  "vocabulary": [
+    {
+      "word": "where",
+      "lemma": "where",
+      "translation": "dove",
+      "partOfSpeech": "adverb",
+      "phonetic": "/weə/",
+      "example": "Where are you from?",
+      "exampleTranslation": "Di dove sei?"
+    },
+    {
+      "word": "Italy",
+      "lemma": "Italy",
+      "translation": "Italia",
+      "partOfSpeech": "proper noun",
+      "phonetic": "/ˈɪtəli/",
+      "example": "I am from Italy.",
+      "exampleTranslation": "Vengo dall'Italia."
+    },
+    {
+      "word": "Spain",
+      "lemma": "Spain",
+      "translation": "Spagna",
+      "partOfSpeech": "proper noun",
+      "phonetic": "/speɪn/",
+      "example": "She is from Spain.",
+      "exampleTranslation": "Lei viene dalla Spagna."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "How do you ask about origin?",
+      "options": ["Where are you from?", "What are you from?", "Who are you from?", "When are you from?"],
+      "answer": "Where are you from?"
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "I am ____ Italy.",
+      "answer": "from"
+    }
+  ],
+  "review": {
+    "summary": ["Where are you from?", "I am from + country"],
+    "tip": "Replace Italy with your city or country."
+  }
+}

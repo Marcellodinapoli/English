@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Alinea</string>
+    <string name="title_activity_main">Alinea</string>
+    <string name="package_name">com.alinea.english</string>
+    <string name="custom_url_scheme">com.alinea.english</string>
+</resources>

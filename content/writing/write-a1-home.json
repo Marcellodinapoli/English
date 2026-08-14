@@ -1,0 +1,24 @@
+{
+  "id": "write-a1-home",
+  "title": "Write about your home",
+  "titleIt": "Scrivi della tua casa",
+  "level": "A1.4",
+  "description": "Describe your home and a place in your city.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write 3 sentences about your home using there is / there are.",
+      "promptIt": "Scrivi 3 frasi sulla tua casa usando there is / there are.",
+      "minWords": 10,
+      "hints": ["There is a kitchen.", "There are two bedrooms.", "There is a living room."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write where one place in your city is.",
+      "promptIt": "Scrivi dove si trova un posto nella tua città.",
+      "minWords": 5,
+      "hints": ["The station is near...", "There is a park next to..."]
+    }
+  ]
+}

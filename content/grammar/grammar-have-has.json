@@ -1,0 +1,38 @@
+{
+  "id": "grammar-have-has",
+  "level": "A1.2",
+  "title": "have / has",
+  "titleIt": "have e has",
+  "examples": ["I have one sister.", "She has two brothers.", "We have a big family."],
+  "pattern": "I/you/we/they + have · he/she/it + has",
+  "explanation": "Use have with I, you, we, they. Use has with he, she, it.",
+  "explanationIt": "Usa have con I/you/we/they. Usa has con he/she/it.",
+  "realUse": [
+    "I have a question.",
+    "He has a car.",
+    "Do you have time?"
+  ],
+  "relatedErrorTypes": ["have_has"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "fill_blank",
+      "prompt": "He ____ one brother.",
+      "answer": "has"
+    },
+    {
+      "id": "g2",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["She has a bike.", "She have a bike.", "She haves a bike.", "She is have a bike."],
+      "answer": "She has a bike."
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: He have a dog.",
+      "options": ["He has a dog.", "He have a dog.", "He is a dog.", "He having a dog."],
+      "answer": "He has a dog."
+    }
+  ]
+}

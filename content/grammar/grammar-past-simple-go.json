@@ -1,0 +1,39 @@
+{
+  "id": "grammar-past-simple-go",
+  "level": "A2.1",
+  "title": "Past Simple — go / went",
+  "titleIt": "Past Simple — go / went",
+  "examples": ["I went to London.", "She went home.", "We went yesterday."],
+  "pattern": "Subject + went + place/time",
+  "explanation": "go becomes went in the Past Simple. Do not say I go yesterday.",
+  "explanationIt": "go diventa went al Past Simple. Non dire I go yesterday.",
+  "realUse": [
+    "I went to the supermarket.",
+    "They went by taxi.",
+    "Did you go to work?"
+  ],
+  "relatedErrorTypes": ["past_simple"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["I went yesterday.", "I go yesterday.", "I goed yesterday.", "I goes yesterday."],
+      "answer": "I went yesterday.",
+      "explanation": "Past Simple of go is went."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "She ____ to school yesterday.",
+      "answer": "went"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: I go yesterday.",
+      "options": ["I went yesterday.", "I go yesterday.", "I going yesterday.", "I was go yesterday."],
+      "answer": "I went yesterday."
+    }
+  ]
+}

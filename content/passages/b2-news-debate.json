@@ -1,0 +1,276 @@
+{
+  "id": "b2-news-debate",
+  "type": "passage",
+  "level": "B2",
+  "title": "In the news",
+  "titleIt": "Nelle notizie",
+  "description": "A short news-style text about a policy debate.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "The headline today is about a new climate policy.",
+      "translation": "Il titolo di oggi riguarda una nuova politica climatica.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "headline",
+          "lemma": "headline",
+          "pos": "noun",
+          "phonetic": "/ˈhedlaɪn/",
+          "meanings": [{ "translation": "titolo", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "today",
+          "lemma": "today",
+          "pos": "adverb",
+          "phonetic": "/təˈdeɪ/",
+          "meanings": [{ "translation": "oggi", "partOfSpeech": "adverb" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "about",
+          "lemma": "about",
+          "pos": "preposition",
+          "phonetic": "/əˈbaʊt/",
+          "meanings": [{ "translation": "su / riguardo a", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "pos": "adjective",
+          "phonetic": "/njuː/",
+          "meanings": [{ "translation": "nuovo", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "climate",
+          "lemma": "climate",
+          "pos": "noun",
+          "phonetic": "/ˈklaɪmət/",
+          "meanings": [{ "translation": "clima", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "policy",
+          "lemma": "policy",
+          "pos": "noun",
+          "phonetic": "/ˈpɒləsi/",
+          "meanings": [{ "translation": "politica", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "According to the report, both sides have entered a fierce debate.",
+      "translation": "Secondo il report, entrambe le parti hanno avviato un acceso dibattito.",
+      "tokens": [
+        {
+          "word": "According",
+          "lemma": "according",
+          "pos": "adverb",
+          "phonetic": "/əˈkɔːdɪŋ/",
+          "meanings": [{ "translation": "secondo", "partOfSpeech": "adverb" }]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [{ "translation": "a", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "report",
+          "lemma": "report",
+          "pos": "noun",
+          "phonetic": "/rɪˈpɔːt/",
+          "meanings": [{ "translation": "report / notizia", "partOfSpeech": "noun" }]
+        },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "both",
+          "lemma": "both",
+          "pos": "determiner",
+          "phonetic": "/bəʊθ/",
+          "meanings": [{ "translation": "entrambi", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "sides",
+          "lemma": "side",
+          "pos": "noun",
+          "phonetic": "/saɪdz/",
+          "meanings": [{ "translation": "parti / fazioni", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "pos": "verb",
+          "phonetic": "/hæv/",
+          "meanings": [{ "translation": "hanno", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "entered",
+          "lemma": "enter",
+          "pos": "verb",
+          "phonetic": "/ˈentəd/",
+          "meanings": [{ "translation": "sono entrate / hanno avviato", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "fierce",
+          "lemma": "fierce",
+          "pos": "adjective",
+          "phonetic": "/fɪəs/",
+          "meanings": [{ "translation": "acceso / feroce", "partOfSpeech": "adjective" }]
+        },
+        {
+          "word": "debate",
+          "lemma": "debate",
+          "pos": "noun",
+          "phonetic": "/dɪˈbeɪt/",
+          "meanings": [{ "translation": "dibattito", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "If the proposal is accepted, companies would need to reduce emissions by twenty percent.",
+      "translation": "Se la proposta viene accettata, le aziende dovrebbero ridurre le emissioni del venti per cento.",
+      "tokens": [
+        {
+          "word": "If",
+          "lemma": "if",
+          "pos": "conjunction",
+          "phonetic": "/ɪf/",
+          "meanings": [{ "translation": "se", "partOfSpeech": "conjunction" }]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [{ "translation": "il / lo / la", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "proposal",
+          "lemma": "proposal",
+          "pos": "noun",
+          "phonetic": "/prəˈpəʊzl/",
+          "meanings": [{ "translation": "proposta", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "accepted",
+          "lemma": "accept",
+          "pos": "verb",
+          "phonetic": "/əkˈseptɪd/",
+          "meanings": [{ "translation": "accettata", "partOfSpeech": "verb" }]
+        },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "companies",
+          "lemma": "company",
+          "pos": "noun",
+          "phonetic": "/ˈkʌmpəniz/",
+          "meanings": [{ "translation": "aziende", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "would",
+          "lemma": "would",
+          "pos": "verb",
+          "phonetic": "/wʊd/",
+          "meanings": [{ "translation": "dovrebbero", "partOfSpeech": "verb", "note": "Second Conditional" }]
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "pos": "verb",
+          "phonetic": "/niːd/",
+          "meanings": [{ "translation": "dovere / aver bisogno", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "particle",
+          "phonetic": "/tə/",
+          "meanings": [{ "translation": "di / a", "partOfSpeech": "particle" }]
+        },
+        {
+          "word": "reduce",
+          "lemma": "reduce",
+          "pos": "verb",
+          "phonetic": "/rɪˈdjuːs/",
+          "meanings": [{ "translation": "ridurre", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "emissions",
+          "lemma": "emission",
+          "pos": "noun",
+          "phonetic": "/ɪˈmɪʃnz/",
+          "meanings": [{ "translation": "emissioni", "partOfSpeech": "noun" }]
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "pos": "preposition",
+          "phonetic": "/baɪ/",
+          "meanings": [{ "translation": "di / del", "partOfSpeech": "preposition" }]
+        },
+        {
+          "word": "twenty",
+          "lemma": "twenty",
+          "pos": "numeral",
+          "phonetic": "/ˈtwenti/",
+          "meanings": [{ "translation": "venti", "partOfSpeech": "numeral" }]
+        },
+        {
+          "word": "percent",
+          "lemma": "percent",
+          "pos": "noun",
+          "phonetic": "/pəˈsent/",
+          "meanings": [{ "translation": "per cento", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["headline", "report", "debate", "proposal"],
+  "grammarFocus": ["conditionals", "according-to"]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "listen-zero-please",
+  "title": "Please and thank you",
+  "titleIt": "Per favore e grazie",
+  "level": "ZERO",
+  "description": "Listen to polite shop phrases.",
+  "audioText": "A coffee, please. Thank you. You're welcome. No, thank you.",
+  "estimatedMinutes": 5,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What polite word do you hear?",
+      "promptIt": "Quale parola di cortesia senti?",
+      "transcript": "A coffee, please.",
+      "options": ["please", "goodbye", "yellow", "brother"],
+      "answer": "please"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "How does the customer say grazie?",
+      "transcript": "Thank you.",
+      "options": ["Thank you", "Hello", "Goodbye", "Sorry"],
+      "answer": "Thank you"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: You're ____.",
+      "transcript": "You're welcome.",
+      "answer": "welcome",
+      "explanation": "You're welcome means Prego."
+    },
+    {
+      "id": "l4",
+      "type": "dictation",
+      "prompt": "Write what you hear.",
+      "transcript": "No, thank you.",
+      "answer": "No, thank you."
+    }
+  ]
+}

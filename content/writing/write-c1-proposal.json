@@ -1,0 +1,24 @@
+{
+  "id": "write-c1-proposal",
+  "title": "Write a proposal",
+  "titleIt": "Scrivi una proposta",
+  "level": "C1",
+  "description": "Advanced writing for professional proposals and formal communication.",
+  "estimatedMinutes": 18,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write an opening paragraph for a business proposal (5–7 sentences).",
+      "promptIt": "Scrivi un paragrafo introduttivo per una proposta commerciale (5–7 frasi).",
+      "minWords": 50,
+      "hints": ["Let me outline...", "The key takeaway is...", "Rarely have we seen...", "I would respectfully suggest..."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Rewrite one informal sentence in formal register.",
+      "promptIt": "Riscrivi una frase informale in registro formale.",
+      "minWords": 8,
+      "hints": ["Yeah, I think so → I would respectfully suggest...", "Gimme a sec → I shall respond shortly."]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": "a2-hobbies",
+  "type": "passage",
+  "level": "A2",
+  "title": "Hobbies",
+  "titleIt": "Hobby",
+  "description": "A short text about free-time activities.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "In my free time I enjoy reading and cooking.",
+      "translation": "Nel mio tempo libero mi piace leggere e cucinare.",
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "pos": "preposition",
+          "phonetic": "/ɪn/",
+          "meanings": [
+            {
+              "translation": "in",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "my",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [
+            {
+              "translation": "mio / mia",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "free",
+          "lemma": "free",
+          "pos": "adjective",
+          "phonetic": "/friː/",
+          "meanings": [
+            {
+              "translation": "libero",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "pos": "noun",
+          "phonetic": "/taɪm/",
+          "meanings": [
+            {
+              "translation": "tempo",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "enjoy",
+          "lemma": "enjoy",
+          "pos": "verb",
+          "phonetic": "/ɪnˈdʒɔɪ/",
+          "meanings": [
+            {
+              "translation": "godersi / piacere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "reading",
+          "lemma": "read",
+          "pos": "verb",
+          "phonetic": "/ˈriːdɪŋ/",
+          "meanings": [
+            {
+              "translation": "leggere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "pos": "conjunction",
+          "phonetic": "/ænd/",
+          "meanings": [
+            {
+              "translation": "e",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "cooking",
+          "lemma": "cook",
+          "pos": "verb",
+          "phonetic": "/ˈkʊkɪŋ/",
+          "meanings": [
+            {
+              "translation": "cucinare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "My favourite hobby is cooking.",
+      "translation": "Il mio hobby preferito è cucinare.",
+      "tokens": [
+        {
+          "word": "My",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [
+            {
+              "translation": "mio / mia",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "favourite",
+          "lemma": "favourite",
+          "pos": "adjective",
+          "phonetic": "/ˈfeɪvərɪt/",
+          "meanings": [
+            {
+              "translation": "preferito",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "hobby",
+          "lemma": "hobby",
+          "pos": "noun",
+          "phonetic": "/ˈhɒbi/",
+          "meanings": [
+            {
+              "translation": "hobby / passatempo",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "cooking",
+          "lemma": "cook",
+          "pos": "verb",
+          "phonetic": "/ˈkʊkɪŋ/",
+          "meanings": [
+            {
+              "translation": "cucinare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "On Fridays we often go to the cinema with friends.",
+      "translation": "Il venerdì andiamo spesso al cinema con gli amici.",
+      "tokens": [
+        {
+          "word": "On",
+          "lemma": "on",
+          "pos": "preposition",
+          "phonetic": "/ɒn/",
+          "meanings": [
+            {
+              "translation": "di / il",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "Fridays",
+          "lemma": "Friday",
+          "pos": "noun",
+          "phonetic": "/ˈfraɪdeɪz/",
+          "meanings": [
+            {
+              "translation": "i venerdì",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "often",
+          "lemma": "often",
+          "pos": "adverb",
+          "phonetic": "/ˈɒfn/",
+          "meanings": [
+            {
+              "translation": "spesso",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "go",
+          "lemma": "go",
+          "pos": "verb",
+          "phonetic": "/ɡəʊ/",
+          "meanings": [
+            {
+              "translation": "andare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [
+            {
+              "translation": "a / di / verso",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "cinema",
+          "lemma": "cinema",
+          "pos": "noun",
+          "phonetic": "/ˈsɪnəmə/",
+          "meanings": [
+            {
+              "translation": "cinema",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "pos": "preposition",
+          "phonetic": "/wɪð/",
+          "meanings": [
+            {
+              "translation": "con",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "friends",
+          "lemma": "friend",
+          "pos": "noun",
+          "phonetic": "/frendz/",
+          "meanings": [
+            {
+              "translation": "amici",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "hobby",
+    "enjoy",
+    "cinema",
+    "free time"
+  ],
+  "grammarFocus": [
+    "enjoy-ing",
+    "present-simple"
+  ]
+}

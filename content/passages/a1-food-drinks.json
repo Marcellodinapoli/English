@@ -1,0 +1,58 @@
+{
+  "id": "a1-food-drinks",
+  "type": "passage",
+  "level": "A1.3",
+  "title": "Food and drinks",
+  "titleIt": "Cibo e bevande",
+  "description": "Preferences about food and drinks.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "I have breakfast at eight.",
+      "translation": "Faccio colazione alle otto.",
+      "tokens": [
+        { "word": "I", "lemma": "I", "pos": "pronoun", "phonetic": "/aɪ/", "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }] },
+        { "word": "have", "lemma": "have", "pos": "verb", "phonetic": "/hæv/", "meanings": [{ "translation": "avere; fare (colazione)", "partOfSpeech": "verb" }] },
+        { "word": "breakfast", "lemma": "breakfast", "pos": "noun", "phonetic": "/ˈbrekfəst/", "meanings": [{ "translation": "colazione", "partOfSpeech": "noun" }] },
+        { "word": "at", "lemma": "at", "pos": "preposition", "phonetic": "/æt/", "meanings": [{ "translation": "a / alle", "partOfSpeech": "preposition" }] },
+        { "word": "eight", "lemma": "eight", "pos": "number", "phonetic": "/eɪt/", "meanings": [{ "translation": "otto", "partOfSpeech": "number" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I like coffee, but I don't like tea.",
+      "translation": "Mi piace il caffè, ma non mi piace il tè.",
+      "tokens": [
+        { "word": "I", "lemma": "I", "pos": "pronoun", "phonetic": "/aɪ/", "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }] },
+        { "word": "like", "lemma": "like", "pos": "verb", "phonetic": "/laɪk/", "meanings": [{ "translation": "piacere / amare", "partOfSpeech": "verb" }] },
+        { "word": "coffee", "lemma": "coffee", "pos": "noun", "phonetic": "/ˈkɒfi/", "meanings": [{ "translation": "caffè", "partOfSpeech": "noun" }] },
+        { "word": ",", "lemma": ",", "pos": "other", "meanings": [], "isPunctuation": true },
+        { "word": "but", "lemma": "but", "pos": "conjunction", "phonetic": "/bʌt/", "meanings": [{ "translation": "ma", "partOfSpeech": "conjunction" }] },
+        { "word": "I", "lemma": "I", "pos": "pronoun", "phonetic": "/aɪ/", "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }] },
+        { "word": "don't", "lemma": "do", "pos": "verb", "phonetic": "/dəʊnt/", "meanings": [{ "translation": "non (ausiliare negativo)", "partOfSpeech": "verb" }] },
+        { "word": "like", "lemma": "like", "pos": "verb", "phonetic": "/laɪk/", "meanings": [{ "translation": "piacere", "partOfSpeech": "verb" }] },
+        { "word": "tea", "lemma": "tea", "pos": "noun", "phonetic": "/tiː/", "meanings": [{ "translation": "tè", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "For lunch I want a sandwich and water.",
+      "translation": "A pranzo voglio un panino e acqua.",
+      "tokens": [
+        { "word": "For", "lemma": "for", "pos": "preposition", "phonetic": "/fɔː/", "meanings": [{ "translation": "per", "partOfSpeech": "preposition" }] },
+        { "word": "lunch", "lemma": "lunch", "pos": "noun", "phonetic": "/lʌntʃ/", "meanings": [{ "translation": "pranzo", "partOfSpeech": "noun" }] },
+        { "word": "I", "lemma": "I", "pos": "pronoun", "phonetic": "/aɪ/", "meanings": [{ "translation": "io", "partOfSpeech": "pronoun" }] },
+        { "word": "want", "lemma": "want", "pos": "verb", "phonetic": "/wɒnt/", "meanings": [{ "translation": "volere", "partOfSpeech": "verb" }] },
+        { "word": "a", "lemma": "a", "pos": "article", "phonetic": "/ə/", "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }] },
+        { "word": "sandwich", "lemma": "sandwich", "pos": "noun", "phonetic": "/ˈsænwɪdʒ/", "meanings": [{ "translation": "panino", "partOfSpeech": "noun" }] },
+        { "word": "and", "lemma": "and", "pos": "conjunction", "phonetic": "/ænd/", "meanings": [{ "translation": "e", "partOfSpeech": "conjunction" }] },
+        { "word": "water", "lemma": "water", "pos": "noun", "phonetic": "/ˈwɔːtə/", "meanings": [{ "translation": "acqua", "partOfSpeech": "noun" }] },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["breakfast", "coffee", "tea", "sandwich", "water"],
+  "grammarFocus": ["like-dont-like"]
+}

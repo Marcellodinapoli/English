@@ -1,0 +1,27 @@
+{
+  "id": "rp-a2-cinema",
+  "title": "Plans at the cinema",
+  "titleIt": "Piani al cinema",
+  "category": "social",
+  "level": "A2",
+  "description": "Invite a friend to the cinema, choose a film, and agree on a time.",
+  "descriptionIt": "Invita un amico al cinema, scegliete un film e concordate un orario.",
+  "setting": "A casual chat with a friend after work. You want to go to the cinema this weekend.",
+  "yourRole": "Friend",
+  "aiRole": "Marco",
+  "aiCharacter": "Friendly classmate named Marco. Uses simple, natural English.",
+  "goals": [
+    "Suggest going to the cinema",
+    "Talk about a film or hobby",
+    "Agree on a day and time"
+  ],
+  "openingLine": "Hey! Do you have any plans for the weekend?",
+  "suggestedPhrases": [
+    "Do you want to go to the cinema?",
+    "I enjoy watching films.",
+    "On Saturday?",
+    "See you there!"
+  ],
+  "maxTurns": 10,
+  "estimatedMinutes": 10
+}

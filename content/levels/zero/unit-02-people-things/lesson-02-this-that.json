@@ -1,0 +1,96 @@
+{
+  "id": "zero-u2-l2",
+  "unitId": "zero-u2",
+  "levelId": "ZERO",
+  "title": "This is / That is",
+  "titleIt": "This is / That is",
+  "description": "Point to near and far things with this and that.",
+  "estimatedMinutes": 10,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "zero-this-that", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Point and name things",
+    "body": "Use This is for something near you. Use That is for something farther away.",
+    "bodyIt": "Usa This is per qualcosa vicino a te. Usa That is per qualcosa più lontano.",
+    "objectives": [
+      "Use This is...",
+      "Use That is...",
+      "Name simple objects: book, pen"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "this",
+      "lemma": "this",
+      "translation": "questo / questa (vicino)",
+      "partOfSpeech": "determiner",
+      "phonetic": "/ðɪs/",
+      "example": "This is a book.",
+      "exampleTranslation": "Questo è un libro."
+    },
+    {
+      "word": "that",
+      "lemma": "that",
+      "translation": "quello / quella (lontano)",
+      "partOfSpeech": "determiner",
+      "phonetic": "/ðæt/",
+      "example": "That is a pen.",
+      "exampleTranslation": "Quella è una penna."
+    },
+    {
+      "word": "book",
+      "lemma": "book",
+      "translation": "libro",
+      "partOfSpeech": "noun",
+      "phonetic": "/bʊk/",
+      "example": "This is a book.",
+      "exampleTranslation": "Questo è un libro."
+    },
+    {
+      "word": "pen",
+      "lemma": "pen",
+      "translation": "penna",
+      "partOfSpeech": "noun",
+      "phonetic": "/pen/",
+      "example": "That is a pen.",
+      "exampleTranslation": "Quella è una penna."
+    }
+  ],
+  "readingRef": "zero-this-that",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Something near you: ____ is a book.",
+      "promptIt": "Qualcosa vicino a te: ____ is a book.",
+      "options": ["This", "That", "These", "Those"],
+      "answer": "This",
+      "explanation": "This is for things near you."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Complete: ____ is a pen. (far away)",
+      "promptIt": "Completa: ____ is a pen. (lontano)",
+      "answer": "That",
+      "explanation": "That is for things farther away."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What does book mean?",
+      "promptIt": "Cosa significa book?",
+      "options": ["libro", "penna", "tavolo", "casa"],
+      "answer": "libro"
+    }
+  ],
+  "review": {
+    "summary": ["This is... (near)", "That is... (far)", "a book / a pen"],
+    "tip": "Hold an object and say This is... Then point across the room: That is..."
+  }
+}

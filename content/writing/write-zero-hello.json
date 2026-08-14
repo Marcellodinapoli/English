@@ -1,0 +1,24 @@
+{
+  "id": "write-zero-hello",
+  "title": "Write a greeting",
+  "titleIt": "Scrivi un saluto",
+  "level": "ZERO",
+  "description": "Write very short greetings and polite phrases.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write two greetings: one hello and one goodbye.",
+      "promptIt": "Scrivi due saluti: uno di arrivo e uno di uscita.",
+      "minWords": 2,
+      "hints": ["Hello.", "Goodbye.", "Hi.", "Bye."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write one polite request with please.",
+      "promptIt": "Scrivi una richiesta cortese con please.",
+      "minWords": 3,
+      "hints": ["A coffee, please.", "A water, please."]
+    }
+  ]
+}

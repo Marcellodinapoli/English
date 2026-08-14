@@ -1,0 +1,434 @@
+{
+  "id": "c1-academic",
+  "type": "passage",
+  "level": "C1",
+  "title": "Academic tone",
+  "titleIt": "Tono accademico",
+  "description": "An academic-style paragraph highlighting nominalisation and hedging.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "The analysis of the findings suggests a substantial improvement in outcomes.",
+      "translation": "L'analisi dei risultati suggerisce un miglioramento sostanziale degli esiti.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "pos": "noun",
+          "phonetic": "/əˈnæləsɪs/",
+          "meanings": [
+            {
+              "translation": "analisi",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "pos": "preposition",
+          "phonetic": "/ɒv/",
+          "meanings": [
+            {
+              "translation": "di",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "findings",
+          "lemma": "findings",
+          "pos": "noun",
+          "phonetic": "/ˈfaɪndɪŋz/",
+          "meanings": [
+            {
+              "translation": "risultati",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "suggests",
+          "lemma": "suggests",
+          "pos": "verb",
+          "phonetic": "/səˈdʒests/",
+          "meanings": [
+            {
+              "translation": "suggerisce",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "substantial",
+          "lemma": "substantial",
+          "pos": "adjective",
+          "phonetic": "/səbˈstænʃl/",
+          "meanings": [
+            {
+              "translation": "sostanziale",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "improvement",
+          "lemma": "improvement",
+          "pos": "other",
+          "phonetic": "/improvement/",
+          "meanings": [
+            {
+              "translation": "improvement",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "pos": "preposition",
+          "phonetic": "/ɪn/",
+          "meanings": [
+            {
+              "translation": "in",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "outcomes",
+          "lemma": "outcomes",
+          "pos": "noun",
+          "phonetic": "/ˈaʊtkʌmz/",
+          "meanings": [
+            {
+              "translation": "esiti",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Nominalisation allows writers to present processes in a more compact form.",
+      "translation": "La nominalizzazione consente agli autori di presentare i processi in forma più compatta.",
+      "tokens": [
+        {
+          "word": "Nominalisation",
+          "lemma": "nominalisation",
+          "pos": "other",
+          "phonetic": "/nominalisation/",
+          "meanings": [
+            {
+              "translation": "nominalisation",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "allows",
+          "lemma": "allows",
+          "pos": "verb",
+          "phonetic": "/əˈlaʊz/",
+          "meanings": [
+            {
+              "translation": "permette",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "writers",
+          "lemma": "writers",
+          "pos": "other",
+          "phonetic": "/writers/",
+          "meanings": [
+            {
+              "translation": "writers",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "pos": "preposition",
+          "phonetic": "/tə/",
+          "meanings": [
+            {
+              "translation": "a / di",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "present",
+          "lemma": "present",
+          "pos": "noun",
+          "phonetic": "/ˈpreznt/",
+          "meanings": [
+            {
+              "translation": "presente",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "processes",
+          "lemma": "processes",
+          "pos": "other",
+          "phonetic": "/processes/",
+          "meanings": [
+            {
+              "translation": "processes",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "pos": "preposition",
+          "phonetic": "/ɪn/",
+          "meanings": [
+            {
+              "translation": "in",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "pos": "determiner",
+          "phonetic": "/mɔː/",
+          "meanings": [
+            {
+              "translation": "più",
+              "partOfSpeech": "determiner"
+            }
+          ]
+        },
+        {
+          "word": "compact",
+          "lemma": "compact",
+          "pos": "other",
+          "phonetic": "/compact/",
+          "meanings": [
+            {
+              "translation": "compact",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "form",
+          "lemma": "form",
+          "pos": "other",
+          "phonetic": "/form/",
+          "meanings": [
+            {
+              "translation": "form",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Claims remain tentative where the available evidence appears limited.",
+      "translation": "Le affermazioni restano caute laddove le prove disponibili appaiono limitate.",
+      "tokens": [
+        {
+          "word": "Claims",
+          "lemma": "claims",
+          "pos": "noun",
+          "phonetic": "/kleɪmz/",
+          "meanings": [
+            {
+              "translation": "affermazioni",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "remain",
+          "lemma": "remain",
+          "pos": "verb",
+          "phonetic": "/rɪˈmeɪn/",
+          "meanings": [
+            {
+              "translation": "rimanere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "tentative",
+          "lemma": "tentative",
+          "pos": "other",
+          "phonetic": "/tentative/",
+          "meanings": [
+            {
+              "translation": "tentative",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "where",
+          "lemma": "where",
+          "pos": "adverb",
+          "phonetic": "/weə/",
+          "meanings": [
+            {
+              "translation": "dove",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "available",
+          "lemma": "available",
+          "pos": "adjective",
+          "phonetic": "/əˈveɪləbl/",
+          "meanings": [
+            {
+              "translation": "disponibile",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "evidence",
+          "lemma": "evidence",
+          "pos": "noun",
+          "phonetic": "/ˈevɪdəns/",
+          "meanings": [
+            {
+              "translation": "prove / evidenza",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "appears",
+          "lemma": "appears",
+          "pos": "verb",
+          "phonetic": "/əˈpɪəz/",
+          "meanings": [
+            {
+              "translation": "appare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "limited",
+          "lemma": "limited",
+          "pos": "adjective",
+          "phonetic": "/ˈlɪmɪtɪd/",
+          "meanings": [
+            {
+              "translation": "limitato",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "analysis",
+    "nominalisation",
+    "tentative",
+    "evidence"
+  ],
+  "grammarFocus": [
+    "nominalisation",
+    "hedging"
+  ]
+}

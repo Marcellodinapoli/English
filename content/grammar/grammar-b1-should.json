@@ -1,0 +1,39 @@
+{
+  "id": "grammar-b1-should",
+  "level": "B1",
+  "title": "Should — giving advice",
+  "titleIt": "Should — dare consigli",
+  "examples": ["You should book early.", "You shouldn't arrive late.", "If I were you, I would call the hotel."],
+  "pattern": "should / shouldn't + base verb",
+  "explanation": "Use should to give advice or say what is a good idea. Soften advice with If I were you or I suggest.",
+  "explanationIt": "Usa should per dare consigli o dire cosa è una buona idea. Ammorbidisci con If I were you o I suggest.",
+  "realUse": [
+    "You should book early.",
+    "You shouldn't leave your bag unattended.",
+    "If I were you, I would call the hotel first."
+  ],
+  "relatedErrorTypes": ["should_modals"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["You should book early.", "You should to book early.", "You should booking early.", "You shoulds book early."],
+      "answer": "You should book early.",
+      "explanation": "After should, use the base form (book)."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "You ____ arrive at the station early.",
+      "answer": "should"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: You should to call them.",
+      "options": ["You should call them.", "You should calling them.", "You shoulds call them.", "You should to calling them."],
+      "answer": "You should call them."
+    }
+  ]
+}

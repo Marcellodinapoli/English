@@ -1,0 +1,58 @@
+{
+  "id": "A1",
+  "name": "A1",
+  "label": "Beginner",
+  "description": "Build core survival English: introductions, family, daily life, and places.",
+  "order": 1,
+  "units": [
+    {
+      "id": "a1-u1",
+      "levelId": "A1",
+      "title": "Introductions",
+      "titleIt": "Presentazioni",
+      "description": "Greet, introduce yourself, and talk about origin.",
+      "order": 1,
+      "lessons": [
+        { "id": "a1-u1-l1", "title": "Hello", "order": 1 },
+        { "id": "a1-u1-l2", "title": "My name is...", "order": 2 },
+        { "id": "a1-u1-l3", "title": "Where are you from?", "order": 3 }
+      ]
+    },
+    {
+      "id": "a1-u2",
+      "levelId": "A1",
+      "title": "Family",
+      "titleIt": "Famiglia",
+      "description": "Talk about people close to you.",
+      "order": 2,
+      "lessons": [
+        { "id": "a1-u2-l1", "title": "My family", "order": 1 },
+        { "id": "a1-u2-l2", "title": "Brothers and sisters", "order": 2 }
+      ]
+    },
+    {
+      "id": "a1-u3",
+      "levelId": "A1",
+      "title": "Daily life",
+      "titleIt": "Vita quotidiana",
+      "description": "Talk about your day, food, and drinks.",
+      "order": 3,
+      "lessons": [
+        { "id": "a1-u3-l1", "title": "My day", "order": 1 },
+        { "id": "a1-u3-l2", "title": "Food and drinks", "order": 2 }
+      ]
+    },
+    {
+      "id": "a1-u4",
+      "levelId": "A1",
+      "title": "Places",
+      "titleIt": "Luoghi",
+      "description": "Describe home and places in the city.",
+      "order": 4,
+      "lessons": [
+        { "id": "a1-u4-l1", "title": "At home", "order": 1 },
+        { "id": "a1-u4-l2", "title": "In the city", "order": 2 }
+      ]
+    }
+  ]
+}

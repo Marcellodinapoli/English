@@ -1,0 +1,45 @@
+{
+  "id": "B1",
+  "name": "B1",
+  "label": "Intermediate",
+  "description": "Express opinions, share experiences, make plans, and give advice.",
+  "order": 3,
+  "units": [
+    {
+      "id": "b1-u1",
+      "levelId": "B1",
+      "title": "Opinions & work",
+      "titleIt": "Opinioni e lavoro",
+      "description": "Share your views and navigate workplace communication.",
+      "order": 1,
+      "lessons": [
+        { "id": "b1-u1-l1", "title": "My opinion", "order": 1 },
+        { "id": "b1-u1-l2", "title": "At work", "order": 2 }
+      ]
+    },
+    {
+      "id": "b1-u2",
+      "levelId": "B1",
+      "title": "Experiences",
+      "titleIt": "Esperienze",
+      "description": "Talk about life experiences and travel stories.",
+      "order": 2,
+      "lessons": [
+        { "id": "b1-u2-l1", "title": "Have you ever...?", "order": 1 },
+        { "id": "b1-u2-l2", "title": "Travel stories", "order": 2 }
+      ]
+    },
+    {
+      "id": "b1-u3",
+      "levelId": "B1",
+      "title": "Plans & advice",
+      "titleIt": "Piani e consigli",
+      "description": "Make future plans and give practical advice.",
+      "order": 3,
+      "lessons": [
+        { "id": "b1-u3-l1", "title": "Making plans", "order": 1 },
+        { "id": "b1-u3-l2", "title": "Giving advice", "order": 2 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "speak-a2-travel",
+  "title": "Talk about travel",
+  "titleIt": "Parla di viaggi",
+  "level": "A2",
+  "description": "Practise travel phrases and say how you are going to travel.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "I am going to take the train.",
+      "hint": "am + going to + take"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "Which platform is it?",
+      "hint": "Useful question at the station"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Say how you are going to travel next weekend.",
+      "promptIt": "Di' come viaggerai il prossimo weekend.",
+      "exampleAnswer": "I am going to take the train to Florence. The journey takes about two hours.",
+      "hint": "Use going to and train or bus"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rp-a1-social-plans",
+  "title": "Make weekend plans",
+  "titleIt": "Organizzare il weekend",
+  "category": "social",
+  "level": "A1",
+  "description": "Invite a friend for coffee and agree on a time.",
+  "descriptionIt": "Invita un amico per un caffè e concordate un orario.",
+  "setting": "Text-style chat after class. Your friend Emma writes to you.",
+  "yourRole": "Friend",
+  "aiRole": "Emma",
+  "aiCharacter": "Casual friend Emma. Uses simple, natural English.",
+  "goals": [
+    "Suggest meeting up",
+    "Propose a day or time",
+    "Confirm the plan"
+  ],
+  "openingLine": "Hey! How's it going? Any plans for the weekend?",
+  "suggestedPhrases": [
+    "Do you want to meet?",
+    "On Saturday?",
+    "At 3 o'clock?",
+    "See you then!"
+  ],
+  "maxTurns": 10,
+  "estimatedMinutes": 8
+}

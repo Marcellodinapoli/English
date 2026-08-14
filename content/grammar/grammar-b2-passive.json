@@ -1,0 +1,55 @@
+{
+  "id": "grammar-b2-passive",
+  "level": "B2",
+  "title": "Passive voice — is/are/has been + past participle",
+  "titleIt": "Forma passiva — is/are/has been + participio passato",
+  "examples": [
+    "A clear shift has been reported.",
+    "Productivity is measured carefully.",
+    "The results are discussed by managers."
+  ],
+  "pattern": "Subject + be + past participle (+ by agent)",
+  "explanation": "Use the passive when the action or result matters more than who did it, especially in reports.",
+  "explanationIt": "Usa il passivo quando conta di più l'azione o il risultato rispetto a chi l'ha compiuta, soprattutto nei report.",
+  "realUse": [
+    "A clear shift towards hybrid models has been reported.",
+    "The figures were published last week.",
+    "Further changes are expected next year."
+  ],
+  "relatedErrorTypes": [
+    "passive"
+  ],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct passive sentence.",
+      "options": [
+        "A clear shift has been reported.",
+        "A clear shift has reported.",
+        "A clear shift been has reported.",
+        "A clear shift have been report."
+      ],
+      "answer": "A clear shift has been reported.",
+      "explanation": "Present perfect passive: has/have been + past participle."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "The results ____ discussed by managers.",
+      "answer": "are"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: Productivity is measure carefully.",
+      "options": [
+        "Productivity is measured carefully.",
+        "Productivity is measuring carefully.",
+        "Productivity measured is carefully.",
+        "Productivity are measured carefully."
+      ],
+      "answer": "Productivity is measured carefully."
+    }
+  ]
+}

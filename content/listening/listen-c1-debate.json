@@ -1,0 +1,48 @@
+{
+  "id": "listen-c1-debate",
+  "title": "Advanced debate",
+  "titleIt": "Dibattito avanzato",
+  "level": "C1",
+  "description": "Listen for concession and rebuttal language.",
+  "audioText": "Admittedly, opponents raise a valid concern about short-term costs. Nevertheless, the rebuttal rests on long-term gains that outweigh those costs.",
+  "estimatedMinutes": 9,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What concern do opponents raise?",
+      "promptIt": "Quale preoccupazione sollevano gli oppositori?",
+      "transcript": "Opponents raise a valid concern about short-term costs.",
+      "options": [
+        "short-term costs",
+        "staff holidays",
+        "office décor",
+        "travel visas"
+      ],
+      "answer": "short-term costs"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What does the rebuttal rest on?",
+      "promptIt": "Su cosa si basa la replica?",
+      "transcript": "The rebuttal rests on long-term gains that outweigh those costs.",
+      "options": [
+        "long-term gains",
+        "personal opinions",
+        "rumour",
+        "humour"
+      ],
+      "answer": "long-term gains"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: ____, opponents raise a valid concern.",
+      "promptIt": "Completa: ____, opponents raise a valid concern.",
+      "transcript": "Admittedly, opponents raise a valid concern about short-term costs.",
+      "answer": "Admittedly",
+      "explanation": "Admittedly introduces a concession before a rebuttal."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "passageId": "a2-hobbies",
+  "level": "A2",
+  "questions": [
+    {
+      "id": "a2-hobbies-main",
+      "passageId": "a2-hobbies",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Hobbies",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Hobbies",
+      "explanation": "The passage is about: Hobbies — A short text about free-time activities.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A2"
+    },
+    {
+      "id": "a2-hobbies-detail",
+      "passageId": "a2-hobbies",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "In my free time I enjoy reading and cooking.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "In my free time I enjoy reading and cooking.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    },
+    {
+      "id": "a2-hobbies-tf",
+      "passageId": "a2-hobbies",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"My favourite hobby is cooking.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A2"
+    },
+    {
+      "id": "a2-hobbies-short",
+      "passageId": "a2-hobbies",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"hobby\". Type that focus item.",
+      "correctAnswer": "hobby",
+      "explanation": "\"hobby\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A2"
+    },
+    {
+      "id": "a2-hobbies-detail2",
+      "passageId": "a2-hobbies",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "On Fridays we often go to the cinema with friends.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "On Fridays we often go to the cinema with friends.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    }
+  ]
+}

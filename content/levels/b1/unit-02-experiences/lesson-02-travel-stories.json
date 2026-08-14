@@ -1,0 +1,102 @@
+{
+  "id": "b1-u2-l2",
+  "unitId": "b1-u2",
+  "levelId": "B1",
+  "title": "Travel stories",
+  "titleIt": "Storie di viaggio",
+  "description": "Narrate travel experiences and link past events clearly.",
+  "estimatedMinutes": 14,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "b1-travel-stories", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Tell a travel story",
+    "body": "Learn language to describe trips, surprises, and memorable moments abroad.",
+    "bodyIt": "Impara il linguaggio per descrivere viaggi, sorprese e momenti memorabili all'estero.",
+    "objectives": [
+      "Describe a trip with clear sequence",
+      "Use travel storytelling vocabulary",
+      "Contrast Present Perfect and Past Simple"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "abroad",
+      "lemma": "abroad",
+      "translation": "all'estero",
+      "partOfSpeech": "adverb",
+      "phonetic": "/əˈbrɔːd/",
+      "example": "I have travelled abroad twice.",
+      "exampleTranslation": "Ho viaggiato all'estero due volte."
+    },
+    {
+      "word": "memorable",
+      "lemma": "memorable",
+      "translation": "memorabile",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmemərəbl/",
+      "example": "It was a memorable trip.",
+      "exampleTranslation": "È stato un viaggio memorabile."
+    },
+    {
+      "word": "missed",
+      "lemma": "miss",
+      "translation": "persi / ho perso",
+      "partOfSpeech": "verb",
+      "phonetic": "/mɪst/",
+      "example": "We missed the connecting flight.",
+      "exampleTranslation": "Abbiamo perso il volo di coincidenza."
+    },
+    {
+      "word": "explore",
+      "lemma": "explore",
+      "translation": "esplorare",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪkˈsplɔː/",
+      "example": "We explored the old town on foot.",
+      "exampleTranslation": "Abbiamo esplorato il centro storico a piedi."
+    }
+  ],
+  "readingRef": "b1-travel-stories",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "promptIt": "Scegli la frase corretta.",
+      "options": [
+        "I have travelled abroad twice.",
+        "I have travel abroad twice.",
+        "I has travelled abroad twice.",
+        "I travelled have abroad twice."
+      ],
+      "answer": "I have travelled abroad twice.",
+      "explanation": "Use Present Perfect for life experience without a specific finished time."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Last year we ____ the connecting flight.",
+      "promptIt": "Completa: Last year we ____ the connecting flight.",
+      "answer": "missed",
+      "explanation": "Use Past Simple (missed) with a finished time like last year."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What does abroad mean?",
+      "promptIt": "Cosa significa abroad?",
+      "options": ["all'estero", "in ritardo", "memorabile", "biglietto"],
+      "answer": "all'estero",
+      "explanation": "Abroad means in another country."
+    }
+  ],
+  "review": {
+    "summary": ["abroad / memorable / explore", "Present Perfect vs Past Simple", "Tell a travel story in order"],
+    "tip": "Describe one trip: where you have been, then what happened last time."
+  }
+}

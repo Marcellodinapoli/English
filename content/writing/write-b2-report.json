@@ -1,0 +1,33 @@
+{
+  "id": "write-b2-report",
+  "title": "Write a short report",
+  "titleIt": "Scrivi un breve report",
+  "level": "B2",
+  "description": "Report trends and findings using clear, neutral language.",
+  "estimatedMinutes": 15,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write a short report paragraph (5–7 sentences) describing a workplace or social trend.",
+      "promptIt": "Scrivi un breve paragrafo di report (5–7 frasi) descrivendo una tendenza lavorativa o sociale.",
+      "minWords": 50,
+      "hints": [
+        "has gradually become",
+        "a clear shift",
+        "has been reported",
+        "On balance..."
+      ]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write two passive sentences reporting findings from a survey.",
+      "promptIt": "Scrivi due frasi al passivo che riportano i risultati di un sondaggio.",
+      "minWords": 12,
+      "hints": [
+        "has been reported",
+        "were measured",
+        "are discussed by..."
+      ]
+    }
+  ]
+}

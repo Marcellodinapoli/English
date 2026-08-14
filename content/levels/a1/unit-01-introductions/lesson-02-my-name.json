@@ -1,0 +1,67 @@
+{
+  "id": "a1-u1-l2",
+  "unitId": "a1-u1",
+  "levelId": "A1",
+  "title": "My name is...",
+  "titleIt": "Mi chiamo...",
+  "description": "Present yourself clearly.",
+  "estimatedMinutes": 10,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "grammar", "type": "grammar", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Say who you are",
+    "body": "Learn two natural ways to introduce yourself: My name is... and I am...",
+    "bodyIt": "Impara due modi naturali per presentarti: My name is... e I am...",
+    "objectives": ["Use My name is...", "Use I am + name", "Ask What is your name?"]
+  },
+  "vocabulary": [
+    {
+      "word": "your",
+      "lemma": "your",
+      "translation": "tuo / tua / vostro",
+      "partOfSpeech": "determiner",
+      "phonetic": "/jɔː/",
+      "example": "What is your name?",
+      "exampleTranslation": "Come ti chiami?"
+    },
+    {
+      "word": "please",
+      "lemma": "please",
+      "translation": "per favore",
+      "partOfSpeech": "adverb",
+      "phonetic": "/pliːz/",
+      "example": "Your name, please.",
+      "exampleTranslation": "Il suo nome, per favore."
+    }
+  ],
+  "grammar": {
+    "examples": ["My name is Luca.", "I am Luca.", "What is your name?"],
+    "pattern": "My name is + Name  /  I am + Name",
+    "explanation": "Both forms are correct. My name is... is slightly more formal.",
+    "explanationIt": "Entrambe le forme sono corrette. My name is... è un po' più formale."
+  },
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "fill_blank",
+      "prompt": "What is ____ name?",
+      "answer": "your"
+    },
+    {
+      "id": "ex2",
+      "type": "multiple_choice",
+      "prompt": "Choose a correct introduction.",
+      "options": ["My name is Sara.", "My name are Sara.", "My name am Sara.", "Name my is Sara."],
+      "answer": "My name is Sara."
+    }
+  ],
+  "review": {
+    "summary": ["My name is...", "I am...", "What is your name?"],
+    "tip": "Record yourself saying: Hello, my name is..."
+  }
+}

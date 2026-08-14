@@ -1,0 +1,98 @@
+{
+  "id": "a1-u4-l2",
+  "unitId": "a1-u4",
+  "levelId": "A1",
+  "title": "In the city",
+  "titleIt": "In città",
+  "description": "Talk about places in town and ask for simple directions.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a1-in-the-city", "required": true },
+    { "id": "grammar", "type": "grammar", "contentRef": "self", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Find places in town",
+    "body": "Learn city vocabulary and useful phrases to ask where places are.",
+    "bodyIt": "Impara il vocabolario della città e frasi utili per chiedere dove si trovano i posti.",
+    "objectives": [
+      "Name shop, station, park, café",
+      "Ask Where is...?",
+      "Understand turn left / turn right"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "station",
+      "lemma": "station",
+      "translation": "stazione",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsteɪʃn/",
+      "example": "Where is the station?",
+      "exampleTranslation": "Dov'è la stazione?"
+    },
+    {
+      "word": "park",
+      "lemma": "park",
+      "translation": "parco",
+      "partOfSpeech": "noun",
+      "phonetic": "/pɑːk/",
+      "example": "There is a park near my house.",
+      "exampleTranslation": "C'è un parco vicino a casa mia."
+    },
+    {
+      "word": "shop",
+      "lemma": "shop",
+      "translation": "negozio",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɒp/",
+      "example": "I go to the shop.",
+      "exampleTranslation": "Vado al negozio."
+    },
+    {
+      "word": "near",
+      "lemma": "near",
+      "translation": "vicino",
+      "partOfSpeech": "preposition",
+      "phonetic": "/nɪə/",
+      "example": "The café is near the park.",
+      "exampleTranslation": "Il bar è vicino al parco."
+    }
+  ],
+  "readingRef": "a1-in-the-city",
+  "grammar": {
+    "examples": ["Where is the station?", "It is near the park.", "Turn left."],
+    "pattern": "Where is + place? · It is + preposition + place",
+    "explanation": "Ask with Where is...? Answer with It is near / next to / on the left.",
+    "explanationIt": "Chiedi con Where is...? Rispondi con It is near / next to / on the left."
+  },
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "____ is the station?",
+      "options": ["Where", "What", "Who", "When"],
+      "answer": "Where"
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "The café is ____ the park.",
+      "answer": "near"
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What does shop mean?",
+      "options": ["negozio", "stazione", "parco", "cucina"],
+      "answer": "negozio"
+    }
+  ],
+  "review": {
+    "summary": ["station / park / shop / café", "Where is...?", "near / left / right"],
+    "tip": "Practise asking for one real place in your city."
+  }
+}

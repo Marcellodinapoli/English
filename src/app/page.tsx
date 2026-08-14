@@ -1,69 +1,87 @@
-import Image from "next/image";
+import Link from "next/link";
+import { redirect } from "next/navigation";
+import { getCurrentUser } from "@/lib/auth";
+import { Button } from "@/components/ui/Button";
 
-export default function Home() {
+export default async function LandingPage() {
+  const user = await getCurrentUser();
+  if (user?.profile?.onboardingDone) redirect("/home");
+  if (user && !user.profile?.onboardingDone) redirect("/onboarding/welcome");
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <main className="relative min-h-screen overflow-hidden">
+      <div className="pointer-events-none absolute inset-0">
+        <div className="absolute -left-24 top-10 h-72 w-72 rounded-full bg-teal/15 blur-3xl" />
+        <div className="absolute right-0 top-0 h-96 w-96 rounded-full bg-ink/10 blur-3xl" />
+      </div>
+
+      <div className="relative mx-auto flex min-h-screen max-w-6xl flex-col px-6 py-8">
+        <header className="flex items-center justify-between">
+          <div className="brand-mark text-3xl text-ink">Alinea</div>
+          <div className="flex items-center gap-3">
+            <Link href="/login">
+              <Button variant="ghost">Accedi</Button>
+            </Link>
+            <Link href="/register">
+              <Button>Start learning</Button>
+            </Link>
+          </div>
+        </header>
+
+        <section className="mt-16 grid flex-1 items-center gap-12 lg:mt-10 lg:grid-cols-[1.1fr_0.9fr]">
+          <div className="animate-rise">
+            <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal">
+              Adaptive English System
+            </p>
+            <h1 className="mt-4 max-w-xl font-[family-name:var(--font-fraunces)] text-5xl leading-[1.05] text-ink md:text-6xl">
+              From zero to fluent, with a teacher that knows you.
+            </h1>
+            <p className="mt-6 max-w-lg text-lg leading-relaxed text-muted">
+              Alinea builds a personal learning path through listening, reading,
+              vocabulary, grammar and real conversation — adapting every day to
+              what you know and what you still need.
+            </p>
+            <div className="mt-8 flex flex-wrap gap-3">
+              <Link href="/register">
+                <Button size="xl">Create your path</Button>
+              </Link>
+              <Link href="/login">
+                <Button size="xl" variant="outline">
+                  Accedi
+                </Button>
+              </Link>
+            </div>
+          </div>
+
+          <div className="glass-panel animate-rise rounded-[2rem] p-6 md:p-8">
+            <p className="text-sm font-semibold text-teal">Today&apos;s plan</p>
+            <h2 className="mt-2 font-[family-name:var(--font-fraunces)] text-3xl text-ink">
+              Guided, never confusing
+            </h2>
+            <div className="mt-6 space-y-3">
+              {[
+                ["Listening", "5 min", "Strengthen comprehension"],
+                ["Reading", "5 min", "Interactive words + context"],
+                ["Vocabulary", "3 min", "Spaced personal lexicon"],
+                ["Speaking", "5 min", "Produce real sentences"],
+              ].map(([title, time, note]) => (
+                <div
+                  key={title}
+                  className="flex items-center justify-between rounded-2xl border border-line bg-surface px-4 py-3"
+                >
+                  <div>
+                    <p className="font-semibold text-ink">{title}</p>
+                    <p className="text-sm text-muted">{note}</p>
+                  </div>
+                  <span className="rounded-full bg-teal-soft px-3 py-1 text-xs font-semibold text-teal-deep">
+                    {time}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
   );
 }

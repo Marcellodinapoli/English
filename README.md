@@ -1,36 +1,112 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Alinea — English Learning Platform
 
-## Getting Started
+Professional adaptive English learning system (ZERO → C1).
 
-First, run the development server:
+## Multi-platform (Store-first)
+
+Alinea is designed to be **downloaded from the stores**, not only opened in a browser.
+
+| Surface | Status |
+|---|---|
+| **Google Play (Android)** | Capacitor project in `/android` — ready to open in Android Studio |
+| **App Store (iOS)** | Capacitor project in `/ios` — build/archive on macOS |
+| **Web / tablet / desktop** | Same product via browser + PWA |
+
+App ID: `com.alinea.english` · See **[STORE.md](./STORE.md)** for release steps.
+
+**Rule:** domain logic stays in `src/services/` and `content/` — native shells do not fork the learning engine.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run mobile:sync
+npm run mobile:android   # Android Studio → Play Store AAB
+npm run mobile:ios       # Xcode (Mac) → App Store
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Quick start
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
+npx prisma migrate dev
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000).
 
-## Learn More
+1. Register an account
+2. Complete onboarding + assessment
+3. Start today's lesson / reading
 
-To learn more about Next.js, take a look at the following resources:
+## Environment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Copy `.env.local.example` to `.env` (already created for local SQLite).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Optional:
 
-## Deploy on Vercel
+- `OPENAI_API_KEY` — enables live AI contextual meanings
+- Supabase keys — reserved for later migration; Phase 1 uses local auth
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Phase 1 completed
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Auth, onboarding, assessment
+- Home daily plan
+- Learn curriculum + LessonEngine
+- Reading + interactive word popup
+- Vocabulary + progress
+
+## Phase 2 completed
+
+- Listening exercises (choose / complete / order / dictation / comprehension)
+- Grammar module (example → pattern → explanation → exercise → real use)
+- Exercise Engine
+- Error Engine (mistakes influence path + review)
+- Spaced Repetition (SM-2 style) + Review UI
+- Adaptive Daily Plan (weak skills + due reviews)
+
+## Phase 3 completed
+
+- Speaking sessions (repeat + free response)
+- MediaRecorder + AudioService recording/playback
+- Pronunciation / accuracy / fluency / vocab / grammar scoring
+- Writing evaluation with corrections
+- Whisper STT when `OPENAI_API_KEY` is set; heuristic + browser STT fallback otherwise
+- Adaptive plan now prioritises Speak when speaking/pronunciation are weak
+
+## Phase 4 completed
+
+- AI Tutor (`/tutor`) with profile-aware guided chat
+- Real Life role play (`/real-life`) — travel, work, daily, social
+- Post-session evaluation (grammar, vocabulary, fluency, recommendations)
+- Conversation sessions persisted in DB
+
+## Phase 5 completed
+
+- **Achievements** — 10 badges with XP rewards, unlock on activity (`/achievements`)
+- **Milestones** — level, streak, XP, study-time progress
+- **Advanced analytics** — weekly activity chart, event breakdown (Premium)
+- **Subscriptions** — Free vs Premium plans, daily tutor/roleplay limits (`/subscription`)
+- **Admin CMS** — edit JSON content buckets (`/admin`, requires `ADMIN_EMAILS`)
+- Progress dashboard extended with gamification + analytics
+
+## Curriculum ZERO → C1
+
+Full CEFR path with automatic level progression:
+
+| Level | Units | Lessons (approx.) |
+|---|---|---|
+| ZERO | 3 | 7 |
+| A1 | 4 | 9 |
+| A2 | 3 | 6 |
+| B1 | 3 | 6 |
+| B2 | 3 | 6 |
+| C1 | 3 | 6 |
+
+Plus graded **passages**, **listening**, **grammar**, **speaking**, **writing**, and **role play** for each band.
+
+- **Auto promotion**: complete all lessons at your level + 65+ average mastery (vocabulary, grammar, reading, listening), skill floor, and other engine blockers → next level (+100 XP)
+- **Sub-level** updates as you finish lessons within the current level
+- **Locked levels** on `/learn` until you advance
+- Catalog UIs (Read / Listen / Grammar / Speak / Real life) group content by CEFR band
+
+## Store billing (production)
+
+The subscription upgrade endpoint is a **local dev stub**. For production, wire App Store / Google Play webhooks to `Subscription` records.

@@ -1,0 +1,40 @@
+{
+  "id": "speak-a1-introductions",
+  "title": "Introduce yourself",
+  "titleIt": "Presentati",
+  "level": "A1.1",
+  "description": "Repeat key phrases, then speak freely.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "Nice to meet you.",
+      "hint": "Common greeting phrase"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "targetText": "I am from Italy.",
+      "hint": "Talk about origin"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Where are you from? Answer in English.",
+      "promptIt": "Di dove sei? Rispondi in inglese.",
+      "exampleAnswer": "I am from Italy.",
+      "hint": "I am from + country/city"
+    },
+    {
+      "id": "s4",
+      "mode": "free",
+      "prompt": "Book a table at a restaurant in one sentence.",
+      "promptIt": "Prenota un tavolo in una frase.",
+      "exampleAnswer": "I can book a table at the restaurant.",
+      "hint": "Use can + book"
+    }
+  ]
+}

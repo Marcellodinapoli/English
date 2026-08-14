@@ -1,0 +1,24 @@
+{
+  "id": "write-a2-travel",
+  "title": "Write about travel plans",
+  "titleIt": "Scrivi di piani di viaggio",
+  "level": "A2",
+  "description": "Short writing tasks about journeys and station situations.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write 2–3 sentences about a trip you are going to take.",
+      "promptIt": "Scrivi 2–3 frasi su un viaggio che stai per fare.",
+      "minWords": 8,
+      "hints": ["I am going to take the train...", "My ticket is...", "The journey takes..."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write one question you can ask at the station.",
+      "promptIt": "Scrivi una domanda che puoi fare in stazione.",
+      "minWords": 4,
+      "hints": ["Which platform is it?", "What time does the train depart?"]
+    }
+  ]
+}

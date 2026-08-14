@@ -1,0 +1,64 @@
+{
+  "id": "zero-goodbye",
+  "type": "passage",
+  "level": "ZERO",
+  "title": "Goodbye",
+  "titleIt": "Arrivederci",
+  "description": "A short farewell in English.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Goodbye.",
+      "translation": "Arrivederci.",
+      "tokens": [
+        {
+          "word": "Goodbye",
+          "lemma": "goodbye",
+          "pos": "interjection",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "meanings": [{ "translation": "arrivederci", "partOfSpeech": "interjection" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Bye. See you later.",
+      "translation": "Ciao. Ci vediamo più tardi.",
+      "tokens": [
+        {
+          "word": "Bye",
+          "lemma": "bye",
+          "pos": "interjection",
+          "phonetic": "/baɪ/",
+          "meanings": [{ "translation": "ciao (in uscita)", "partOfSpeech": "interjection" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true },
+        {
+          "word": "See",
+          "lemma": "see",
+          "pos": "verb",
+          "phonetic": "/siː/",
+          "meanings": [{ "translation": "vedere", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [{ "translation": "tu / voi", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "later",
+          "lemma": "later",
+          "pos": "adverb",
+          "phonetic": "/ˈleɪtə/",
+          "meanings": [{ "translation": "più tardi", "partOfSpeech": "adverb" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["goodbye", "bye", "later"],
+  "grammarFocus": ["farewells"]
+}

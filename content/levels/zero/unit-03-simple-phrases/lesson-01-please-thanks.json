@@ -1,0 +1,97 @@
+{
+  "id": "zero-u3-l1",
+  "unitId": "zero-u3",
+  "levelId": "ZERO",
+  "title": "Please and thank you",
+  "titleIt": "Per favore e grazie",
+  "description": "Be polite with please, thank you, and you're welcome.",
+  "estimatedMinutes": 8,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "zero-please-thanks", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Polite English starts here",
+    "body": "Please and thank you make every request sound kind. Learn the replies too.",
+    "bodyIt": "Please e thank you rendono ogni richiesta gentile. Impara anche le risposte.",
+    "objectives": [
+      "Say please and thank you",
+      "Reply with You're welcome",
+      "Use polite phrases in a short dialogue"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "please",
+      "lemma": "please",
+      "translation": "per favore",
+      "partOfSpeech": "adverb",
+      "phonetic": "/pliːz/",
+      "example": "A coffee, please.",
+      "exampleTranslation": "Un caffè, per favore."
+    },
+    {
+      "word": "thank you",
+      "lemma": "thank",
+      "translation": "grazie",
+      "partOfSpeech": "phrase",
+      "phonetic": "/ˈθæŋk juː/",
+      "example": "Thank you.",
+      "exampleTranslation": "Grazie."
+    },
+    {
+      "word": "thanks",
+      "lemma": "thanks",
+      "translation": "grazie (informale)",
+      "partOfSpeech": "interjection",
+      "phonetic": "/θæŋks/",
+      "example": "Thanks!",
+      "exampleTranslation": "Grazie!"
+    },
+    {
+      "word": "You're welcome",
+      "lemma": "welcome",
+      "translation": "Prego",
+      "partOfSpeech": "phrase",
+      "phonetic": "/jɔː ˈwelkəm/",
+      "example": "You're welcome.",
+      "exampleTranslation": "Prego."
+    }
+  ],
+  "readingRef": "zero-please-thanks",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "How do you say grazie?",
+      "promptIt": "Come dici grazie?",
+      "options": ["Thank you", "Please", "Hello", "Goodbye"],
+      "answer": "Thank you",
+      "explanation": "Thank you means grazie."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Complete: A water, ____.",
+      "promptIt": "Completa: A water, ____.",
+      "answer": "please",
+      "explanation": "Add please to sound polite."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Someone says Thank you. You reply:",
+      "promptIt": "Qualcuno dice Thank you. Tu rispondi:",
+      "options": ["You're welcome", "Goodbye", "Yellow", "My name"],
+      "answer": "You're welcome",
+      "explanation": "You're welcome means Prego."
+    }
+  ],
+  "review": {
+    "summary": ["please", "thank you / thanks", "You're welcome"],
+    "tip": "In shops, always add please after your order."
+  }
+}

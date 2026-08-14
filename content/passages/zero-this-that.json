@@ -1,0 +1,120 @@
+{
+  "id": "zero-this-that",
+  "type": "passage",
+  "level": "ZERO",
+  "title": "This is / That is",
+  "titleIt": "This is / That is",
+  "description": "Pointing to near and far objects.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "This is a book.",
+      "translation": "Questo è un libro.",
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "pos": "pronoun",
+          "phonetic": "/ðɪs/",
+          "meanings": [{ "translation": "questo / questa", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "book",
+          "lemma": "book",
+          "pos": "noun",
+          "phonetic": "/bʊk/",
+          "meanings": [{ "translation": "libro", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "That is a pen.",
+      "translation": "Quella è una penna.",
+      "tokens": [
+        {
+          "word": "That",
+          "lemma": "that",
+          "pos": "pronoun",
+          "phonetic": "/ðæt/",
+          "meanings": [{ "translation": "quello / quella", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "pos": "article",
+          "phonetic": "/ə/",
+          "meanings": [{ "translation": "un / una", "partOfSpeech": "article" }]
+        },
+        {
+          "word": "pen",
+          "lemma": "pen",
+          "pos": "noun",
+          "phonetic": "/pen/",
+          "meanings": [{ "translation": "penna", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "This is my bag.",
+      "translation": "Questa è la mia borsa.",
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "pos": "pronoun",
+          "phonetic": "/ðɪs/",
+          "meanings": [{ "translation": "questo / questa", "partOfSpeech": "pronoun" }]
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [{ "translation": "è", "partOfSpeech": "verb" }]
+        },
+        {
+          "word": "my",
+          "lemma": "my",
+          "pos": "determiner",
+          "phonetic": "/maɪ/",
+          "meanings": [{ "translation": "mio / mia", "partOfSpeech": "determiner" }]
+        },
+        {
+          "word": "bag",
+          "lemma": "bag",
+          "pos": "noun",
+          "phonetic": "/bæɡ/",
+          "meanings": [{ "translation": "borsa", "partOfSpeech": "noun" }]
+        },
+        { "word": ".", "lemma": ".", "pos": "other", "meanings": [], "isPunctuation": true }
+      ]
+    }
+  ],
+  "vocabularyFocus": ["this", "that", "book", "pen"],
+  "grammarFocus": ["this-that"]
+}

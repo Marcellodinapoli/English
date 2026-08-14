@@ -1,0 +1,97 @@
+{
+  "id": "zero-u1-l3",
+  "unitId": "zero-u1",
+  "levelId": "ZERO",
+  "title": "Goodbye",
+  "titleIt": "Arrivederci",
+  "description": "Say goodbye politely in English.",
+  "estimatedMinutes": 8,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "zero-goodbye", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "End a conversation well",
+    "body": "After Hello comes Goodbye. Learn simple ways to leave a conversation politely.",
+    "bodyIt": "Dopo Hello arriva Goodbye. Impara modi semplici per salutare quando parti.",
+    "objectives": [
+      "Say Goodbye and Bye",
+      "Use See you later",
+      "Read a short farewell dialogue"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "Goodbye",
+      "lemma": "goodbye",
+      "translation": "Arrivederci / Ciao (in uscita)",
+      "partOfSpeech": "interjection",
+      "phonetic": "/ˌɡʊdˈbaɪ/",
+      "example": "Goodbye!",
+      "exampleTranslation": "Arrivederci!"
+    },
+    {
+      "word": "Bye",
+      "lemma": "bye",
+      "translation": "Ciao (informale, in uscita)",
+      "partOfSpeech": "interjection",
+      "phonetic": "/baɪ/",
+      "example": "Bye, Anna.",
+      "exampleTranslation": "Ciao, Anna."
+    },
+    {
+      "word": "See you",
+      "lemma": "see",
+      "translation": "Ci vediamo",
+      "partOfSpeech": "phrase",
+      "phonetic": "/siː juː/",
+      "example": "See you later.",
+      "exampleTranslation": "Ci vediamo più tardi."
+    },
+    {
+      "word": "later",
+      "lemma": "later",
+      "translation": "più tardi",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈleɪtə/",
+      "example": "See you later.",
+      "exampleTranslation": "Ci vediamo più tardi."
+    }
+  ],
+  "readingRef": "zero-goodbye",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "How do you say goodbye in English?",
+      "promptIt": "Come dici arrivederci in inglese?",
+      "options": ["Goodbye", "Hello", "Please", "Name"],
+      "answer": "Goodbye",
+      "explanation": "Goodbye is the standard farewell."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Complete: See you ____.",
+      "promptIt": "Completa: See you ____.",
+      "answer": "later",
+      "explanation": "See you later means Ci vediamo più tardi."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which word is informal?",
+      "promptIt": "Quale parola è informale?",
+      "options": ["Bye", "Goodbye only", "Please", "Thank you"],
+      "answer": "Bye",
+      "explanation": "Bye is a short, informal goodbye."
+    }
+  ],
+  "review": {
+    "summary": ["Goodbye / Bye", "See you later", "Hello ≠ Goodbye"],
+    "tip": "Wave and say Bye out loud when you leave a room."
+  }
+}

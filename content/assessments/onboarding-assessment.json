@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "id": "v1",
+      "skill": "vocabulary",
+      "prompt": "What does \"hello\" mean?",
+      "options": ["Ciao", "Grazie", "Per favore", "Arrivederci"],
+      "answer": "Ciao"
+    },
+    {
+      "id": "v2",
+      "skill": "vocabulary",
+      "prompt": "What is the English word for \"nome\"?",
+      "options": ["name", "man", "nice", "nine"],
+      "answer": "name"
+    },
+    {
+      "id": "g1",
+      "skill": "grammar",
+      "prompt": "Choose the correct sentence.",
+      "options": ["I am a student.", "I is a student.", "I are a student.", "I be a student."],
+      "answer": "I am a student."
+    },
+    {
+      "id": "g2",
+      "skill": "grammar",
+      "prompt": "Complete: She ____ from Spain.",
+      "options": ["is", "am", "are", "be"],
+      "answer": "is"
+    },
+    {
+      "id": "r1",
+      "skill": "reading",
+      "prompt": "Read: \"My name is Luca.\" Who is speaking about their name?",
+      "options": ["Luca", "Maria", "A teacher", "Nobody"],
+      "answer": "Luca"
+    },
+    {
+      "id": "r2",
+      "skill": "reading",
+      "prompt": "Read: \"I am from Italy.\" Where is the person from?",
+      "options": ["Italy", "Spain", "France", "Germany"],
+      "answer": "Italy"
+    },
+    {
+      "id": "l1",
+      "skill": "listening",
+      "prompt": "You hear someone say \"Hi\". What are they doing?",
+      "options": ["Greeting you", "Asking the time", "Saying goodbye", "Ordering food"],
+      "answer": "Greeting you"
+    },
+    {
+      "id": "l2",
+      "skill": "listening",
+      "prompt": "The phrase \"Nice to meet you\" is used when...",
+      "options": ["You meet someone for the first time", "You buy something", "You are angry", "You leave forever"],
+      "answer": "You meet someone for the first time"
+    }
+  ]
+}

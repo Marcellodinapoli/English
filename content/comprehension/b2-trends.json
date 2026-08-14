@@ -1,0 +1,83 @@
+{
+  "passageId": "b2-trends",
+  "level": "B2",
+  "questions": [
+    {
+      "id": "b2-trends-main",
+      "passageId": "b2-trends",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Trends and change",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Trends and change",
+      "explanation": "The passage is about: Trends and change — A short text about workplace trends and reported change.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "B2"
+    },
+    {
+      "id": "b2-trends-detail",
+      "passageId": "b2-trends",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Remote work has gradually become a major trend in many companies.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Remote work has gradually become a major trend in many companies.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    },
+    {
+      "id": "b2-trends-tf",
+      "passageId": "b2-trends",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"According to recent surveys, a clear shift towards hybrid models has been report…\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "B2"
+    },
+    {
+      "id": "b2-trends-short",
+      "passageId": "b2-trends",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"trend\". Type that focus item.",
+      "correctAnswer": "trend",
+      "explanation": "\"trend\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "B2"
+    },
+    {
+      "id": "b2-trends-detail2",
+      "passageId": "b2-trends",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "Productivity is often measured carefully, and the results are discussed by managers.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "Productivity is often measured carefully, and the results are discussed by managers.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "B2"
+    }
+  ]
+}

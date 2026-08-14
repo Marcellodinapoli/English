@@ -1,0 +1,34 @@
+{
+  "id": "speak-c1-pitch",
+  "title": "Deliver a pitch",
+  "titleIt": "Presenta un pitch",
+  "level": "C1",
+  "description": "Practise opening, signposting, and closing a professional pitch.",
+  "estimatedMinutes": 12,
+  "items": [
+    {
+      "id": "s1",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "Let me outline the three key points of today's presentation.",
+      "hint": "Outline signals structure"
+    },
+    {
+      "id": "s2",
+      "mode": "repeat",
+      "prompt": "Listen and repeat",
+      "promptIt": "Ascolta e ripeti",
+      "targetText": "Rarely have we seen such a compelling case for strategic change.",
+      "hint": "Formal inversion after Rarely"
+    },
+    {
+      "id": "s3",
+      "mode": "free",
+      "prompt": "Open a 60-second pitch: outline two points and state one key takeaway.",
+      "promptIt": "Apri un pitch di 60 secondi: delinea due punti e indica un takeaway chiave.",
+      "exampleAnswer": "Let me outline two key points. First, our data shows clear growth. Second, the market opportunity is significant. The key takeaway is that we must act now.",
+      "hint": "Use outline, key takeaway, and formal register"
+    }
+  ]
+}

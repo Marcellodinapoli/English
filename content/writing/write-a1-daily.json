@@ -1,0 +1,24 @@
+{
+  "id": "write-a1-daily",
+  "title": "Write about your day",
+  "titleIt": "Scrivi della tua giornata",
+  "level": "A1.3",
+  "description": "Short writing about routines and food.",
+  "estimatedMinutes": 8,
+  "items": [
+    {
+      "id": "w1",
+      "prompt": "Write 3–4 sentences about your typical day.",
+      "promptIt": "Scrivi 3–4 frasi sulla tua giornata tipo.",
+      "minWords": 12,
+      "hints": ["I wake up at...", "I go to...", "I eat...", "In the evening..."]
+    },
+    {
+      "id": "w2",
+      "prompt": "Write two sentences: one food you like and one you don't like.",
+      "promptIt": "Scrivi due frasi: un cibo che ti piace e uno che non ti piace.",
+      "minWords": 6,
+      "hints": ["I like...", "I don't like..."]
+    }
+  ]
+}

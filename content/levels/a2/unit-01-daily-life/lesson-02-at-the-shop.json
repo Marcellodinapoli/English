@@ -1,0 +1,79 @@
+{
+  "id": "a2-u1-l2",
+  "unitId": "a2-u1",
+  "levelId": "A2",
+  "title": "At the shop",
+  "titleIt": "Al negozio",
+  "description": "Ask for prices, compare items, and shop politely.",
+  "estimatedMinutes": 12,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "a2-yesterday", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Shop with confidence",
+    "body": "Learn useful phrases for buying things, asking about prices, and comparing products.",
+    "bodyIt": "Impara frasi utili per comprare, chiedere i prezzi e confrontare i prodotti.",
+    "objectives": [
+      "Ask how much something costs",
+      "Compare two products",
+      "Use polite shopping phrases"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "shop",
+      "lemma": "shop",
+      "translation": "negozio / fare shopping",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɒp/",
+      "example": "The shop opens at nine.",
+      "exampleTranslation": "Il negozio apre alle nove."
+    },
+    {
+      "word": "cheaper",
+      "lemma": "cheap",
+      "translation": "più economico",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtʃiːpə/",
+      "example": "This bread is cheaper than that one.",
+      "exampleTranslation": "Questo pane costa meno di quello."
+    },
+    {
+      "word": "price",
+      "lemma": "price",
+      "translation": "prezzo",
+      "partOfSpeech": "noun",
+      "phonetic": "/praɪs/",
+      "example": "What is the price?",
+      "exampleTranslation": "Qual è il prezzo?"
+    }
+  ],
+  "readingRef": "a2-yesterday",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "How do you ask about cost?",
+      "promptIt": "Come chiedi il costo?",
+      "options": ["How much is it?", "What is your name?", "Where are you from?", "Nice to meet you."],
+      "answer": "How much is it?",
+      "explanation": "How much is it? is the standard way to ask about price."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "This milk is ____ than that one.",
+      "promptIt": "Completa: This milk is ____ than that one.",
+      "answer": "cheaper",
+      "explanation": "Use cheaper to compare two prices."
+    }
+  ],
+  "review": {
+    "summary": ["How much is it?", "cheaper / more expensive", "shop / price / buy"],
+    "tip": "Practise asking for the price of three items you buy regularly."
+  }
+}

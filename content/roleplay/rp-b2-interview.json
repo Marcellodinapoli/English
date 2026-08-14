@@ -1,0 +1,27 @@
+{
+  "id": "rp-b2-interview",
+  "title": "Job interview",
+  "titleIt": "Colloquio di lavoro",
+  "category": "work",
+  "level": "B2",
+  "description": "Handle a job interview, discuss experience, and negotiate terms.",
+  "descriptionIt": "Affronta un colloquio, parla della tua esperienza e negozia i termini.",
+  "setting": "A formal interview room at a tech company. You are interviewing for a project manager role.",
+  "yourRole": "Candidate",
+  "aiRole": "Interviewer",
+  "aiCharacter": "Professional HR manager named James. Asks detailed questions and listens carefully.",
+  "goals": [
+    "Describe your relevant experience",
+    "Answer a challenging question confidently",
+    "Discuss salary or conditions politely"
+  ],
+  "openingLine": "Thank you for coming in today. Could you start by telling me about your most recent project?",
+  "suggestedPhrases": [
+    "According to my experience...",
+    "I have managed several projects.",
+    "If you offered flexible hours, I would accept.",
+    "Would it be possible to discuss the salary?"
+  ],
+  "maxTurns": 14,
+  "estimatedMinutes": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": "grammar-b1-present-perfect",
+  "level": "B1",
+  "title": "Present Perfect — have / has + past participle",
+  "titleIt": "Present Perfect — have / has + participio passato",
+  "examples": ["I have finished the project.", "She has worked here for three years.", "We have seen that film."],
+  "pattern": "Subject + have/has + past participle",
+  "explanation": "Use the Present Perfect for actions connected to now: recent results, life experience, or unfinished time periods.",
+  "explanationIt": "Usa il Present Perfect per azioni collegate al presente: risultati recenti, esperienze o periodi non conclusi.",
+  "realUse": [
+    "We have finished one project.",
+    "I have lived here since 2020.",
+    "Have you ever worked abroad?"
+  ],
+  "relatedErrorTypes": ["present_perfect"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["We have finished the project.", "We have finish the project.", "We has finished the project.", "We finished have the project."],
+      "answer": "We have finished the project.",
+      "explanation": "Present Perfect = have/has + past participle (finished)."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "She ____ worked here for five years.",
+      "answer": "has"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: I have finish my homework.",
+      "options": ["I have finished my homework.", "I have finishing my homework.", "I has finished my homework.", "I finished have my homework."],
+      "answer": "I have finished my homework."
+    }
+  ]
+}

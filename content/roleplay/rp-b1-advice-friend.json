@@ -1,0 +1,27 @@
+{
+  "id": "rp-b1-advice-friend",
+  "title": "Advice for a friend",
+  "titleIt": "Consigli a un amico",
+  "category": "social",
+  "level": "B1",
+  "description": "Listen to a friend's problem and give practical, polite advice.",
+  "descriptionIt": "Ascolta il problema di un amico e dai consigli pratici e cortesi.",
+  "setting": "A café after class. Your friend is stressed about an upcoming trip abroad alone.",
+  "yourRole": "Supportive friend",
+  "aiRole": "Giulia",
+  "aiCharacter": "Anxious but friendly peer named Giulia. Asks for advice and reacts naturally.",
+  "goals": [
+    "Ask what the problem is",
+    "Give advice with should / If I were you",
+    "Help make a simple plan"
+  ],
+  "openingLine": "Thanks for meeting me. I'm really nervous about travelling alone next month. What do you think I should do?",
+  "suggestedPhrases": [
+    "Can I give you some advice?",
+    "You should start with a short trip.",
+    "If I were you, I would book early.",
+    "Why don't we make a checklist together?"
+  ],
+  "maxTurns": 12,
+  "estimatedMinutes": 12
+}

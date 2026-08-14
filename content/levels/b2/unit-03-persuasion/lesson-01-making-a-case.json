@@ -1,0 +1,136 @@
+{
+  "id": "b2-u3-l1",
+  "unitId": "b2-u3",
+  "levelId": "B2",
+  "title": "Making a case",
+  "titleIt": "Sostenere una tesi",
+  "description": "Build a persuasive argument with evidence and a clear recommendation.",
+  "estimatedMinutes": 16,
+  "steps": [
+    {
+      "id": "intro",
+      "type": "introduction",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "vocab",
+      "type": "vocabulary",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "reading",
+      "type": "reading",
+      "contentRef": "b2-making-case",
+      "required": true
+    },
+    {
+      "id": "exercise",
+      "type": "exercise",
+      "contentRef": "self",
+      "required": true
+    },
+    {
+      "id": "review",
+      "type": "review",
+      "contentRef": "self",
+      "required": true
+    }
+  ],
+  "introduction": {
+    "headline": "Make a persuasive case",
+    "body": "Learn how to state a position, support it with evidence, and recommend a concrete next step.",
+    "bodyIt": "Impara a dichiarare una posizione, sostenerla con prove e raccomandare un passo successivo concreto.",
+    "objectives": [
+      "State a clear position",
+      "Support claims with evidence",
+      "Recommend an action using should or must"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "make a case",
+      "lemma": "make a case",
+      "translation": "sostenere una tesi / argomentare a favore",
+      "partOfSpeech": "phrase",
+      "phonetic": "/meɪk ə keɪs/",
+      "example": "She made a strong case for change.",
+      "exampleTranslation": "Ha sostenuto con forza la necessità di un cambiamento."
+    },
+    {
+      "word": "evidence",
+      "lemma": "evidence",
+      "translation": "prove / evidenza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈevɪdəns/",
+      "example": "We need more evidence before deciding.",
+      "exampleTranslation": "Abbiamo bisogno di più prove prima di decidere."
+    },
+    {
+      "word": "proposal",
+      "lemma": "proposal",
+      "translation": "proposta",
+      "partOfSpeech": "noun",
+      "phonetic": "/prəˈpəʊzl/",
+      "example": "The proposal was accepted by the board.",
+      "exampleTranslation": "La proposta è stata accettata dal consiglio."
+    },
+    {
+      "word": "implement",
+      "lemma": "implement",
+      "translation": "attuare / implementare",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈɪmplɪment/",
+      "example": "We will implement the plan next quarter.",
+      "exampleTranslation": "Attueremo il piano il prossimo trimestre."
+    }
+  ],
+  "readingRef": "b2-making-case",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "What comes after stating your position in a strong case?",
+      "promptIt": "Cosa viene dopo aver dichiarato la posizione in un argomento forte?",
+      "options": [
+        "Evidence that supports the claim",
+        "An apology",
+        "A joke",
+        "A shopping list"
+      ],
+      "answer": "Evidence that supports the claim",
+      "explanation": "Persuasive cases rest on evidence, not assertion alone."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "I would like to make a ____ for flexible working hours.",
+      "promptIt": "Completa: I would like to make a ____ for flexible working hours.",
+      "answer": "case",
+      "explanation": "Make a case for X means argue in favour of X."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which sentence recommends action?",
+      "promptIt": "Quale frase raccomanda un'azione?",
+      "options": [
+        "Therefore, we should implement a pilot programme.",
+        "I went to the shop yesterday.",
+        "What is your name?",
+        "The weather is nice."
+      ],
+      "answer": "Therefore, we should implement a pilot programme.",
+      "explanation": "Should + verb is a common recommendation form."
+    }
+  ],
+  "review": {
+    "summary": [
+      "make a case / evidence / proposal / implement",
+      "Therefore... / We should...",
+      "Persuasive structure"
+    ],
+    "tip": "Argue for one workplace change using one piece of evidence and one recommendation."
+  }
+}

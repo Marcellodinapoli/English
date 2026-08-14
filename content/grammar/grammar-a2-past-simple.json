@@ -1,0 +1,39 @@
+{
+  "id": "grammar-a2-past-simple",
+  "level": "A2",
+  "title": "Past Simple — went / met / watched",
+  "titleIt": "Past Simple — went / met / watched",
+  "examples": ["Yesterday I went to the shop.", "Last weekend I met my friends.", "We watched a film."],
+  "pattern": "Subject + past form  |  irregular: go→went, meet→met  |  regular: watch→watched",
+  "explanation": "Use the Past Simple for finished actions in the past. Many verbs are irregular (go → went). Regular verbs add -ed.",
+  "explanationIt": "Usa il Past Simple per azioni finite nel passato. Molti verbi sono irregolari (go → went). I verbi regolari aggiungono -ed.",
+  "realUse": [
+    "Yesterday I went to the station.",
+    "Last weekend I met my friends.",
+    "On Sunday I relaxed at home."
+  ],
+  "relatedErrorTypes": ["past_simple"],
+  "exercises": [
+    {
+      "id": "g1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": ["Last weekend I met my friends.", "Last weekend I meet my friends.", "Last weekend I meeting my friends.", "Last weekend I meets my friends."],
+      "answer": "Last weekend I met my friends.",
+      "explanation": "Meet → met in the Past Simple."
+    },
+    {
+      "id": "g2",
+      "type": "fill_blank",
+      "prompt": "Yesterday she ____ to the cinema.",
+      "answer": "went"
+    },
+    {
+      "id": "g3",
+      "type": "multiple_choice",
+      "prompt": "Fix: We watch a film last night.",
+      "options": ["We watched a film last night.", "We watching a film last night.", "We watches a film last night.", "We watchd a film last night."],
+      "answer": "We watched a film last night."
+    }
+  ]
+}

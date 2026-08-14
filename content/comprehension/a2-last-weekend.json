@@ -1,0 +1,83 @@
+{
+  "passageId": "a2-last-weekend",
+  "level": "A2",
+  "questions": [
+    {
+      "id": "a2-last-weekend-main",
+      "passageId": "a2-last-weekend",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Last weekend",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Last weekend",
+      "explanation": "The passage is about: Last weekend — A short text about past weekend activities.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "A2"
+    },
+    {
+      "id": "a2-last-weekend-detail",
+      "passageId": "a2-last-weekend",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Last weekend I met my friends on Saturday.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Last weekend I met my friends on Saturday.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    },
+    {
+      "id": "a2-last-weekend-tf",
+      "passageId": "a2-last-weekend",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"We watched a film at home.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "A2"
+    },
+    {
+      "id": "a2-last-weekend-short",
+      "passageId": "a2-last-weekend",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"weekend\". Type that focus item.",
+      "correctAnswer": "weekend",
+      "explanation": "\"weekend\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "A2"
+    },
+    {
+      "id": "a2-last-weekend-detail2",
+      "passageId": "a2-last-weekend",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "On Sunday afternoon I relaxed.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "On Sunday afternoon I relaxed.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "A2"
+    }
+  ]
+}

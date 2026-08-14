@@ -1,0 +1,27 @@
+{
+  "id": "rp-b1-hotel-problem",
+  "title": "Hotel problem",
+  "titleIt": "Problema in hotel",
+  "category": "travel",
+  "level": "B1",
+  "description": "Explain a hotel problem politely and negotiate a solution.",
+  "descriptionIt": "Spiega un problema in hotel in modo cortese e negozia una soluzione.",
+  "setting": "Hotel reception. Your room is noisy and you need a change or a practical solution.",
+  "yourRole": "Guest",
+  "aiRole": "Receptionist",
+  "aiCharacter": "Calm receptionist named Elena. Listens carefully and offers options.",
+  "goals": [
+    "Explain the problem clearly",
+    "Ask for a solution politely",
+    "Confirm what will happen next"
+  ],
+  "openingLine": "Good evening. How can I help you?",
+  "suggestedPhrases": [
+    "I'm afraid there is a problem with my room.",
+    "The room is too noisy.",
+    "Could you move me to another room?",
+    "If that isn't possible, what do you suggest?"
+  ],
+  "maxTurns": 12,
+  "estimatedMinutes": 12
+}

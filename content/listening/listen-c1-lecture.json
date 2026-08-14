@@ -1,0 +1,48 @@
+{
+  "id": "listen-c1-lecture",
+  "title": "Academic lecture excerpt",
+  "titleIt": "Estratto di lezione",
+  "level": "C1",
+  "description": "Listen to a lecture-style argument with cleft emphasis.",
+  "audioText": "The premise is that transparent criteria strengthen public trust. It is the quality of the evidence that determines the strength of the claim.",
+  "estimatedMinutes": 9,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What strengthens public trust, according to the premise?",
+      "promptIt": "Secondo la premessa, cosa rafforza la fiducia pubblica?",
+      "transcript": "Transparent criteria strengthen public trust.",
+      "options": [
+        "transparent criteria",
+        "secret processes",
+        "higher prices",
+        "shorter meetings"
+      ],
+      "answer": "transparent criteria"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What determines the strength of the claim?",
+      "promptIt": "Cosa determina la forza della tesi?",
+      "transcript": "It is the quality of the evidence that determines the strength of the claim.",
+      "options": [
+        "the quality of the evidence",
+        "the length of the speech",
+        "the speaker's accent",
+        "the room size"
+      ],
+      "answer": "the quality of the evidence"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: It is the quality of the evidence that ____ the strength of the claim.",
+      "promptIt": "Completa: It is the quality of the evidence that ____ the strength of the claim.",
+      "transcript": "It is the quality of the evidence that determines the strength of the claim.",
+      "answer": "determines",
+      "explanation": "Cleft structure: It is X that + verb..."
+    }
+  ]
+}

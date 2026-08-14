@@ -1,0 +1,83 @@
+{
+  "passageId": "c1-counter",
+  "level": "C1",
+  "questions": [
+    {
+      "id": "c1-counter-main",
+      "passageId": "c1-counter",
+      "type": "main_idea",
+      "question": "What is the main idea of this text?",
+      "options": [
+        "Counterarguments",
+        "At home",
+        "Brothers and sisters",
+        "A grammar quiz with no context"
+      ],
+      "correctAnswer": "Counterarguments",
+      "explanation": "The passage is about: Counterarguments — A text modelling concession and rebuttal.",
+      "skill": "reading",
+      "topic": "main_idea",
+      "level": "C1"
+    },
+    {
+      "id": "c1-counter-detail",
+      "passageId": "c1-counter",
+      "type": "detail",
+      "question": "Which sentence appears in the text?",
+      "options": [
+        "Admittedly, opponents raise a valid concern about short-term costs.",
+        "I never study English at all.",
+        "The museum opens at midnight only.",
+        "She bought a spaceship yesterday."
+      ],
+      "correctAnswer": "Admittedly, opponents raise a valid concern about short-term costs.",
+      "explanation": "This sentence is taken directly from the passage.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    },
+    {
+      "id": "c1-counter-tf",
+      "passageId": "c1-counter",
+      "type": "true_false",
+      "question": "True or False: The text includes this idea — \"We can concede that implementation will require substantial resources.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This information is present in the passage.",
+      "skill": "reading",
+      "topic": "true_false",
+      "level": "C1"
+    },
+    {
+      "id": "c1-counter-short",
+      "passageId": "c1-counter",
+      "type": "short_answer",
+      "question": "Complete with a word/phrase from the text focus: the passage highlights \"admittedly\". Type that focus item.",
+      "correctAnswer": "admittedly",
+      "explanation": "\"admittedly\" is a vocabulary focus of this passage.",
+      "skill": "vocabulary",
+      "topic": "short_answer",
+      "level": "C1"
+    },
+    {
+      "id": "c1-counter-detail2",
+      "passageId": "c1-counter",
+      "type": "multiple_choice",
+      "question": "Which statement is supported by the passage?",
+      "options": [
+        "Nevertheless, the rebuttal rests on long-term gains that outweigh those costs.",
+        "The author says English is useless.",
+        "Nobody in the text speaks or writes.",
+        "The passage is only a list of numbers."
+      ],
+      "correctAnswer": "Nevertheless, the rebuttal rests on long-term gains that outweigh those costs.",
+      "explanation": "Choose the statement that matches the reading.",
+      "skill": "reading",
+      "topic": "detail",
+      "level": "C1"
+    }
+  ]
+}

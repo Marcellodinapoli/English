@@ -1,0 +1,96 @@
+{
+  "id": "zero-u3-l2",
+  "unitId": "zero-u3",
+  "levelId": "ZERO",
+  "title": "Yes or no",
+  "titleIt": "Sì o no",
+  "description": "Answer simple questions with yes and no.",
+  "estimatedMinutes": 8,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "zero-yes-no", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Answer clearly",
+    "body": "Yes and no are essential. Learn short answers like Yes, I am and No, thank you.",
+    "bodyIt": "Yes e no sono essenziali. Impara risposte brevi come Yes, I am e No, thank you.",
+    "objectives": [
+      "Say yes and no",
+      "Use Yes, I am / No, I'm not",
+      "Refuse politely with No, thank you"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "yes",
+      "lemma": "yes",
+      "translation": "sì",
+      "partOfSpeech": "adverb",
+      "phonetic": "/jes/",
+      "example": "Yes, I am.",
+      "exampleTranslation": "Sì."
+    },
+    {
+      "word": "no",
+      "lemma": "no",
+      "translation": "no",
+      "partOfSpeech": "adverb",
+      "phonetic": "/nəʊ/",
+      "example": "No, thank you.",
+      "exampleTranslation": "No, grazie."
+    },
+    {
+      "word": "OK",
+      "lemma": "OK",
+      "translation": "va bene / d'accordo",
+      "partOfSpeech": "interjection",
+      "phonetic": "/ˌəʊˈkeɪ/",
+      "example": "OK.",
+      "exampleTranslation": "Va bene."
+    },
+    {
+      "word": "sorry",
+      "lemma": "sorry",
+      "translation": "scusa / mi dispiace",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsɒri/",
+      "example": "Sorry.",
+      "exampleTranslation": "Scusa."
+    }
+  ],
+  "readingRef": "zero-yes-no",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "How do you say sì?",
+      "promptIt": "Come dici sì?",
+      "options": ["yes", "no", "sorry", "please"],
+      "answer": "yes"
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Complete: No, ____ you.",
+      "promptIt": "Completa: No, ____ you.",
+      "answer": "thank",
+      "explanation": "No, thank you is a polite refusal."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Are you ready? Positive answer:",
+      "promptIt": "Sei pronto? Risposta positiva:",
+      "options": ["Yes, I am.", "No, thank you.", "Goodbye.", "Yellow."],
+      "answer": "Yes, I am.",
+      "explanation": "Yes, I am is a clear short answer."
+    }
+  ],
+  "review": {
+    "summary": ["yes / no", "Yes, I am", "No, thank you", "OK / sorry"],
+    "tip": "Practise answering real yes/no questions out loud."
+  }
+}

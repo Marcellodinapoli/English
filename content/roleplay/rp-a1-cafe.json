@@ -1,0 +1,27 @@
+{
+  "id": "rp-a1-cafe",
+  "title": "Order at a café",
+  "titleIt": "Ordinare al bar",
+  "category": "daily",
+  "level": "A1",
+  "description": "Order food and drinks politely and ask for the price.",
+  "descriptionIt": "Ordina cibo e bevande con cortesia e chiedi il prezzo.",
+  "setting": "A busy café in the city centre. Lunchtime.",
+  "yourRole": "Customer",
+  "aiRole": "Server",
+  "aiCharacter": "Helpful server named Alex. Uses clear A1 English and confirms orders.",
+  "goals": [
+    "Greet and order a drink",
+    "Add food if you want",
+    "Ask how much it is and say thank you"
+  ],
+  "openingLine": "Hi! What would you like today?",
+  "suggestedPhrases": [
+    "Hello. A coffee, please.",
+    "I want a sandwich.",
+    "How much is it?",
+    "Thank you."
+  ],
+  "maxTurns": 10,
+  "estimatedMinutes": 8
+}

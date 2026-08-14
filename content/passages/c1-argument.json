@@ -1,0 +1,479 @@
+{
+  "id": "c1-argument",
+  "type": "passage",
+  "level": "C1",
+  "title": "Structuring an argument",
+  "titleIt": "Strutturare un'argomentazione",
+  "description": "An advanced excerpt on framing and emphasising an argument.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "The premise is that transparent criteria strengthen public trust.",
+      "translation": "La premessa è che criteri trasparenti rafforzano la fiducia pubblica.",
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "premise",
+          "lemma": "premise",
+          "pos": "noun",
+          "phonetic": "/ˈpremɪs/",
+          "meanings": [
+            {
+              "translation": "premessa",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "is",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "pos": "conjunction",
+          "phonetic": "/ðæt/",
+          "meanings": [
+            {
+              "translation": "che / quello",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "transparent",
+          "lemma": "transparent",
+          "pos": "other",
+          "phonetic": "/transparent/",
+          "meanings": [
+            {
+              "translation": "transparent",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "criteria",
+          "lemma": "criteria",
+          "pos": "noun",
+          "phonetic": "/kraɪˈtɪəriə/",
+          "meanings": [
+            {
+              "translation": "criteri",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "strengthen",
+          "lemma": "strengthen",
+          "pos": "other",
+          "phonetic": "/strengthen/",
+          "meanings": [
+            {
+              "translation": "strengthen",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "public",
+          "lemma": "public",
+          "pos": "adjective",
+          "phonetic": "/ˈpʌblɪk/",
+          "meanings": [
+            {
+              "translation": "pubblico",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "trust",
+          "lemma": "trust",
+          "pos": "other",
+          "phonetic": "/trust/",
+          "meanings": [
+            {
+              "translation": "trust",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "It is the quality of the evidence that determines the strength of the claim.",
+      "translation": "È la qualità delle prove che determina la forza della tesi.",
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "pos": "pronoun",
+          "phonetic": "/ɪt/",
+          "meanings": [
+            {
+              "translation": "esso",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "lemma": "is",
+          "pos": "verb",
+          "phonetic": "/ɪz/",
+          "meanings": [
+            {
+              "translation": "è",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "quality",
+          "lemma": "quality",
+          "pos": "noun",
+          "phonetic": "/ˈkwɒləti/",
+          "meanings": [
+            {
+              "translation": "qualità",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "pos": "preposition",
+          "phonetic": "/ɒv/",
+          "meanings": [
+            {
+              "translation": "di",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "evidence",
+          "lemma": "evidence",
+          "pos": "noun",
+          "phonetic": "/ˈevɪdəns/",
+          "meanings": [
+            {
+              "translation": "prove / evidenza",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "pos": "conjunction",
+          "phonetic": "/ðæt/",
+          "meanings": [
+            {
+              "translation": "che / quello",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "determines",
+          "lemma": "determines",
+          "pos": "other",
+          "phonetic": "/determines/",
+          "meanings": [
+            {
+              "translation": "determines",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "strength",
+          "lemma": "strength",
+          "pos": "other",
+          "phonetic": "/strength/",
+          "meanings": [
+            {
+              "translation": "strength",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "pos": "preposition",
+          "phonetic": "/ɒv/",
+          "meanings": [
+            {
+              "translation": "di",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "claim",
+          "lemma": "claim",
+          "pos": "verb",
+          "phonetic": "/kleɪm/",
+          "meanings": [
+            {
+              "translation": "affermare",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Firstly, we outline the framework; secondly, we evaluate the implications.",
+      "translation": "In primo luogo delineiamo il quadro; in secondo luogo valutiamo le implicazioni.",
+      "tokens": [
+        {
+          "word": "Firstly",
+          "lemma": "firstly",
+          "pos": "adverb",
+          "phonetic": "/ˈfɜːstli/",
+          "meanings": [
+            {
+              "translation": "in primo luogo",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "outline",
+          "lemma": "outline",
+          "pos": "noun",
+          "phonetic": "/ˈaʊtlaɪn/",
+          "meanings": [
+            {
+              "translation": "schema / delineare",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "pos": "noun",
+          "phonetic": "/ˈfreɪmwɜːk/",
+          "meanings": [
+            {
+              "translation": "quadro / framework",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "secondly",
+          "lemma": "secondly",
+          "pos": "adverb",
+          "phonetic": "/ˈsekəndli/",
+          "meanings": [
+            {
+              "translation": "in secondo luogo",
+              "partOfSpeech": "adverb"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "pos": "pronoun",
+          "phonetic": "/wiː/",
+          "meanings": [
+            {
+              "translation": "noi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "evaluate",
+          "lemma": "evaluate",
+          "pos": "other",
+          "phonetic": "/evaluate/",
+          "meanings": [
+            {
+              "translation": "evaluate",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "implications",
+          "lemma": "implications",
+          "pos": "noun",
+          "phonetic": "/ˌɪmplɪˈkeɪʃnz/",
+          "meanings": [
+            {
+              "translation": "implicazioni",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "premise",
+    "evidence",
+    "framework",
+    "implications"
+  ],
+  "grammarFocus": [
+    "cleft",
+    "signposting"
+  ]
+}

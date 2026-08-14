@@ -1,0 +1,41 @@
+{
+  "id": "listen-a1-family",
+  "title": "My family",
+  "titleIt": "La mia famiglia",
+  "level": "A1.2",
+  "description": "Listen and understand a short family description.",
+  "audioText": "This is my family. My mother is a teacher. My father works in a bank. I have one sister and one brother.",
+  "estimatedMinutes": 6,
+  "items": [
+    {
+      "id": "l1",
+      "type": "comprehension",
+      "prompt": "What is the mother's job?",
+      "transcript": "My mother is a teacher.",
+      "options": ["teacher", "doctor", "driver", "chef"],
+      "answer": "teacher"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "Where does the father work?",
+      "transcript": "My father works in a bank.",
+      "options": ["bank", "school", "hospital", "shop"],
+      "answer": "bank"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "I have one ____ and one brother.",
+      "transcript": "I have one sister and one brother.",
+      "answer": "sister"
+    },
+    {
+      "id": "l4",
+      "type": "dictation",
+      "prompt": "Write what you hear.",
+      "transcript": "This is my family.",
+      "answer": "This is my family."
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "id": "c1-register",
+  "type": "passage",
+  "level": "C1",
+  "title": "Formal vs informal",
+  "titleIt": "Formale vs informale",
+  "description": "A short comparison of register in professional communication.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "In formal correspondence, writers avoid colloquial wording and contractions.",
+      "translation": "Nella corrispondenza formale, gli autori evitano formulazioni colloquiali e contrazioni.",
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "pos": "preposition",
+          "phonetic": "/ɪn/",
+          "meanings": [
+            {
+              "translation": "in",
+              "partOfSpeech": "preposition"
+            }
+          ]
+        },
+        {
+          "word": "formal",
+          "lemma": "formal",
+          "pos": "adjective",
+          "phonetic": "/ˈfɔːml/",
+          "meanings": [
+            {
+              "translation": "formale",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "correspondence",
+          "lemma": "correspondence",
+          "pos": "other",
+          "phonetic": "/correspondence/",
+          "meanings": [
+            {
+              "translation": "correspondence",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "writers",
+          "lemma": "writers",
+          "pos": "other",
+          "phonetic": "/writers/",
+          "meanings": [
+            {
+              "translation": "writers",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "avoid",
+          "lemma": "avoid",
+          "pos": "other",
+          "phonetic": "/avoid/",
+          "meanings": [
+            {
+              "translation": "avoid",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "colloquial",
+          "lemma": "colloquial",
+          "pos": "other",
+          "phonetic": "/colloquial/",
+          "meanings": [
+            {
+              "translation": "colloquial",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "wording",
+          "lemma": "wording",
+          "pos": "noun",
+          "phonetic": "/ˈwɜːdɪŋ/",
+          "meanings": [
+            {
+              "translation": "formulazione",
+              "partOfSpeech": "noun"
+            }
+          ]
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "pos": "conjunction",
+          "phonetic": "/ænd/",
+          "meanings": [
+            {
+              "translation": "e",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "contractions",
+          "lemma": "contractions",
+          "pos": "other",
+          "phonetic": "/contractions/",
+          "meanings": [
+            {
+              "translation": "contractions",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I should be grateful if you could confirm the revised schedule.",
+      "translation": "Le sarei grato se potesse confermare il programma rivisto.",
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "i",
+          "pos": "pronoun",
+          "phonetic": "/aɪ/",
+          "meanings": [
+            {
+              "translation": "io",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "should",
+          "lemma": "should",
+          "pos": "verb",
+          "phonetic": "/ʃʊd/",
+          "meanings": [
+            {
+              "translation": "dovrebbe",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "pos": "verb",
+          "phonetic": "/biː/",
+          "meanings": [
+            {
+              "translation": "essere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "grateful",
+          "lemma": "grateful",
+          "pos": "other",
+          "phonetic": "/grateful/",
+          "meanings": [
+            {
+              "translation": "grateful",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "pos": "conjunction",
+          "phonetic": "/ɪf/",
+          "meanings": [
+            {
+              "translation": "se",
+              "partOfSpeech": "conjunction"
+            }
+          ]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [
+            {
+              "translation": "tu / voi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "could",
+          "lemma": "could",
+          "pos": "verb",
+          "phonetic": "/kʊd/",
+          "meanings": [
+            {
+              "translation": "potrebbe",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "confirm",
+          "lemma": "confirm",
+          "pos": "other",
+          "phonetic": "/confirm/",
+          "meanings": [
+            {
+              "translation": "confirm",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "pos": "article",
+          "phonetic": "/ðə/",
+          "meanings": [
+            {
+              "translation": "il / lo / la",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "revised",
+          "lemma": "revised",
+          "pos": "other",
+          "phonetic": "/revised/",
+          "meanings": [
+            {
+              "translation": "revised",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "schedule",
+          "lemma": "schedule",
+          "pos": "other",
+          "phonetic": "/schedule/",
+          "meanings": [
+            {
+              "translation": "schedule",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "An informal message might simply say: Can you confirm ASAP?",
+      "translation": "Un messaggio informale potrebbe semplicemente dire: Puoi confermare al più presto?",
+      "tokens": [
+        {
+          "word": "An",
+          "lemma": "an",
+          "pos": "article",
+          "phonetic": "/æn/",
+          "meanings": [
+            {
+              "translation": "un / una",
+              "partOfSpeech": "article"
+            }
+          ]
+        },
+        {
+          "word": "informal",
+          "lemma": "informal",
+          "pos": "adjective",
+          "phonetic": "/ɪnˈfɔːml/",
+          "meanings": [
+            {
+              "translation": "informale",
+              "partOfSpeech": "adjective"
+            }
+          ]
+        },
+        {
+          "word": "message",
+          "lemma": "message",
+          "pos": "other",
+          "phonetic": "/message/",
+          "meanings": [
+            {
+              "translation": "message",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "might",
+          "lemma": "might",
+          "pos": "verb",
+          "phonetic": "/maɪt/",
+          "meanings": [
+            {
+              "translation": "potrebbe",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "simply",
+          "lemma": "simply",
+          "pos": "other",
+          "phonetic": "/simply/",
+          "meanings": [
+            {
+              "translation": "simply",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "say",
+          "lemma": "say",
+          "pos": "verb",
+          "phonetic": "/seɪ/",
+          "meanings": [
+            {
+              "translation": "dire",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        },
+        {
+          "word": "Can",
+          "lemma": "can",
+          "pos": "verb",
+          "phonetic": "/kæn/",
+          "meanings": [
+            {
+              "translation": "potere",
+              "partOfSpeech": "verb"
+            }
+          ]
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "pos": "pronoun",
+          "phonetic": "/juː/",
+          "meanings": [
+            {
+              "translation": "tu / voi",
+              "partOfSpeech": "pronoun"
+            }
+          ]
+        },
+        {
+          "word": "confirm",
+          "lemma": "confirm",
+          "pos": "other",
+          "phonetic": "/confirm/",
+          "meanings": [
+            {
+              "translation": "confirm",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "ASAP",
+          "lemma": "asap",
+          "pos": "other",
+          "phonetic": "/asap/",
+          "meanings": [
+            {
+              "translation": "asap",
+              "partOfSpeech": "other"
+            }
+          ]
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "pos": "other",
+          "meanings": [],
+          "isPunctuation": true
+        }
+      ]
+    }
+  ],
+  "vocabularyFocus": [
+    "correspondence",
+    "colloquial",
+    "register",
+    "confirm"
+  ],
+  "grammarFocus": [
+    "formal-requests",
+    "register-shift"
+  ]
+}

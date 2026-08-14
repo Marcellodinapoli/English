@@ -1,0 +1,107 @@
+{
+  "id": "b1-u3-l2",
+  "unitId": "b1-u3",
+  "levelId": "B1",
+  "title": "Giving advice",
+  "titleIt": "Dare consigli",
+  "description": "Give polite advice using should, shouldn't, and useful phrases.",
+  "estimatedMinutes": 14,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "b1-giving-advice", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Advise someone politely",
+    "body": "Learn how to suggest solutions with should, why don't you, and If I were you.",
+    "bodyIt": "Impara a suggerire soluzioni con should, why don't you e If I were you.",
+    "objectives": [
+      "Use should / shouldn't for advice",
+      "Soften advice with polite phrases",
+      "Read a short advice dialogue text"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "advice",
+      "lemma": "advice",
+      "translation": "consiglio (non contabile)",
+      "partOfSpeech": "noun",
+      "phonetic": "/ədˈvaɪs/",
+      "example": "Can I give you some advice?",
+      "exampleTranslation": "Posso darti un consiglio?"
+    },
+    {
+      "word": "should",
+      "lemma": "should",
+      "translation": "dovresti / dovremmo",
+      "partOfSpeech": "modal",
+      "phonetic": "/ʃʊd/",
+      "example": "You should book early.",
+      "exampleTranslation": "Dovresti prenotare in anticipo."
+    },
+    {
+      "word": "suggest",
+      "lemma": "suggest",
+      "translation": "suggerire",
+      "partOfSpeech": "verb",
+      "phonetic": "/səˈdʒest/",
+      "example": "I suggest calling the hotel.",
+      "exampleTranslation": "Ti suggerisco di chiamare l'hotel."
+    },
+    {
+      "word": "solution",
+      "lemma": "solution",
+      "translation": "soluzione",
+      "partOfSpeech": "noun",
+      "phonetic": "/səˈluːʃn/",
+      "example": "That sounds like a good solution.",
+      "exampleTranslation": "Sembra una buona soluzione."
+    }
+  ],
+  "readingRef": "b1-giving-advice",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct advice sentence.",
+      "promptIt": "Scegli la frase di consiglio corretta.",
+      "options": [
+        "You should book early.",
+        "You should to book early.",
+        "You should booking early.",
+        "You shoulds book early."
+      ],
+      "answer": "You should book early.",
+      "explanation": "After should, use the base form of the verb (book)."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Can I give you some ____?",
+      "promptIt": "Completa: Can I give you some ____?",
+      "answer": "advice",
+      "explanation": "Advice is uncountable: some advice (not an advice)."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "Which phrase softens advice?",
+      "promptIt": "Quale frase rende il consiglio più delicato?",
+      "options": [
+        "If I were you, I would call them.",
+        "You must call them now!",
+        "Call them immediately.",
+        "Do it."
+      ],
+      "answer": "If I were you, I would call them.",
+      "explanation": "If I were you is a polite way to give personal advice."
+    }
+  ],
+  "review": {
+    "summary": ["should / shouldn't + base verb", "advice (uncountable)", "If I were you..."],
+    "tip": "Give a friend two pieces of advice about studying English using should."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "listen-b1-advice",
+  "title": "Listening to advice",
+  "titleIt": "Ascoltare consigli",
+  "level": "B1",
+  "description": "Listen to polite advice and identify the recommendations.",
+  "audioText": "Can I give you some advice? You should book early. If I were you, I would call the hotel first.",
+  "estimatedMinutes": 7,
+  "items": [
+    {
+      "id": "l1",
+      "type": "listen_choose",
+      "prompt": "What does the speaker offer?",
+      "promptIt": "Cosa offre il parlante?",
+      "transcript": "Can I give you some advice?",
+      "options": ["advice", "a ticket", "a discount", "a map"],
+      "answer": "advice"
+    },
+    {
+      "id": "l2",
+      "type": "listen_choose",
+      "prompt": "What should the listener do?",
+      "promptIt": "Cosa dovrebbe fare chi ascolta?",
+      "transcript": "You should book early.",
+      "options": ["book early", "arrive late", "cancel the trip", "change hotels"],
+      "answer": "book early"
+    },
+    {
+      "id": "l3",
+      "type": "listen_complete",
+      "prompt": "Complete: If I were you, I would call the ____ first.",
+      "promptIt": "Completa: If I were you, I would call the ____ first.",
+      "transcript": "If I were you, I would call the hotel first.",
+      "answer": "hotel",
+      "explanation": "If I were you is a polite advice phrase."
+    }
+  ]
+}

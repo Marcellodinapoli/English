@@ -1,0 +1,102 @@
+{
+  "id": "b1-u3-l1",
+  "unitId": "b1-u3",
+  "levelId": "B1",
+  "title": "Making plans",
+  "titleIt": "Fare piani",
+  "description": "Talk about future arrangements using will and going to.",
+  "estimatedMinutes": 14,
+  "steps": [
+    { "id": "intro", "type": "introduction", "contentRef": "self", "required": true },
+    { "id": "vocab", "type": "vocabulary", "contentRef": "self", "required": true },
+    { "id": "reading", "type": "reading", "contentRef": "b1-making-plans", "required": true },
+    { "id": "exercise", "type": "exercise", "contentRef": "self", "required": true },
+    { "id": "review", "type": "review", "contentRef": "self", "required": true }
+  ],
+  "introduction": {
+    "headline": "Plan the near future",
+    "body": "Learn when to use will for decisions and offers, and going to for intentions.",
+    "bodyIt": "Impara quando usare will per decisioni e offerte, e going to per intenzioni.",
+    "objectives": [
+      "Use going to for plans and intentions",
+      "Use will for offers and decisions",
+      "Arrange a meeting or trip in English"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "arrange",
+      "lemma": "arrange",
+      "translation": "organizzare / fissare",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈreɪndʒ/",
+      "example": "Shall we arrange a call for Monday?",
+      "exampleTranslation": "Organiziamo una chiamata per lunedì?"
+    },
+    {
+      "word": "intention",
+      "lemma": "intention",
+      "translation": "intenzione",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪnˈtenʃn/",
+      "example": "My intention is to leave early.",
+      "exampleTranslation": "La mia intenzione è partire presto."
+    },
+    {
+      "word": "schedule",
+      "lemma": "schedule",
+      "translation": "programma / calendario",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʃedjuːl/",
+      "example": "Looking at my schedule, Friday works.",
+      "exampleTranslation": "Guardando il mio calendario, venerdì va bene."
+    },
+    {
+      "word": "available",
+      "lemma": "available",
+      "translation": "disponibile",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈveɪləbl/",
+      "example": "I am available after lunch.",
+      "exampleTranslation": "Sono disponibile dopo pranzo."
+    }
+  ],
+  "readingRef": "b1-making-plans",
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence for a planned intention.",
+      "promptIt": "Scegli la frase migliore per un'intenzione pianificata.",
+      "options": [
+        "I am going to book the tickets tonight.",
+        "I will going to book the tickets tonight.",
+        "I going book the tickets tonight.",
+        "I am will book the tickets tonight."
+      ],
+      "answer": "I am going to book the tickets tonight.",
+      "explanation": "Use going to for intentions you have already decided."
+    },
+    {
+      "id": "ex2",
+      "type": "fill_blank",
+      "prompt": "Don't worry — I ____ help you with the booking.",
+      "promptIt": "Completa: Don't worry — I ____ help you with the booking.",
+      "answer": "will",
+      "explanation": "Use will for offers and spontaneous decisions."
+    },
+    {
+      "id": "ex3",
+      "type": "multiple_choice",
+      "prompt": "What does available mean?",
+      "promptIt": "Cosa significa available?",
+      "options": ["disponibile", "ritardato", "memorabile", "estero"],
+      "answer": "disponibile",
+      "explanation": "Available means free and able to meet or do something."
+    }
+  ],
+  "review": {
+    "summary": ["going to = intention", "will = offer / decision", "arrange / schedule / available"],
+    "tip": "Plan a weekend with a friend using going to and one will offer."
+  }
+}
